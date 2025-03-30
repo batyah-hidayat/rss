@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-03-29T01:24:10.307Z</id>
+    <id>urn:2025-03-30T01:39:03.188Z</id>
     <title>osmos::feed</title>
-    <updated>2025-03-29T01:24:10.307Z</updated>
+    <updated>2025-03-30T01:39:03.188Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -406,36 +406,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0f84a950384b0b4db42aa43a7246ef2797e974bc</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0f84a950384b0b4db42aa43a7246ef2797e974bc"/>
         <updated>2025-03-03T01:42:42.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add uptime add fix_paid param]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb6e07f21d437da89dc30013ac31a4521277f41b</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb6e07f21d437da89dc30013ac31a4521277f41b"/>
-        <updated>2025-02-28T07:38:53.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[merge feat/ise-236]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/19b6d058b3cb20d1c77bd2d430b84fc5b2fc7ef5</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/19b6d058b3cb20d1c77bd2d430b84fc5b2fc7ef5"/>
-        <updated>2025-02-28T05:51:09.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into apply_d...]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b9d2e688178c8f4279894d844a3767d89b4cb1a</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b9d2e688178c8f4279894d844a3767d89b4cb1a"/>
-        <updated>2025-02-28T05:18:32.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>

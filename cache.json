@@ -411,36 +411,6 @@
           "wordCount": 1175,
           "title": "disable source check set 15 fixed on staging",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb6e07f21d437da89dc30013ac31a4521277f41b",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb6e07f21d437da89dc30013ac31a4521277f41b",
-          "publishedOn": "2025-02-28T07:38:53.000Z",
-          "wordCount": 1175,
-          "title": "add uptime add fix_paid param",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/19b6d058b3cb20d1c77bd2d430b84fc5b2fc7ef5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/19b6d058b3cb20d1c77bd2d430b84fc5b2fc7ef5",
-          "publishedOn": "2025-02-28T05:51:09.000Z",
-          "wordCount": 1175,
-          "title": "merge feat/ise-236",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b9d2e688178c8f4279894d844a3767d89b4cb1a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b9d2e688178c8f4279894d844a3767d89b4cb1a",
-          "publishedOn": "2025-02-28T05:18:32.000Z",
-          "wordCount": 1175,
-          "title": "Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into apply_d...",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
