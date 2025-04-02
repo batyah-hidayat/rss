@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-01T01:43:21.265Z</id>
+    <id>urn:2025-04-02T01:26:42.693Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-01T01:43:21.265Z</updated>
+    <updated>2025-04-02T01:26:42.693Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -356,56 +356,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c01d93ebe5f465bba9385eaf7d2985e87240ee4b</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c01d93ebe5f465bba9385eaf7d2985e87240ee4b"/>
         <updated>2025-03-04T01:38:21.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/14ec85063316333c0ab7f093c8eb293385882c3c</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/14ec85063316333c0ab7f093c8eb293385882c3c"/>
-        <updated>2025-03-03T03:20:15.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add default staging and qc 15 paid positions]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b965d4d404f82a98dfef0235f68dd2ebc6bdaf99</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b965d4d404f82a98dfef0235f68dd2ebc6bdaf99"/>
-        <updated>2025-03-03T03:19:53.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d1fcfbca7c8c7dcd78193d6279b3e64b8ad726cd</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d1fcfbca7c8c7dcd78193d6279b3e64b8ad726cd"/>
-        <updated>2025-03-03T01:46:43.000Z</updated>
-        <summary type="html"><![CDATA[merge apply_distribution/<a href="https://sieuviet.atlassian.net/browse/ISE-244" data-project="313" data-external-issue="ISE-244" data-reference-type="external_issue" data-container="body" data-placement="top" title="Issue in Jira" class="gfm gfm-issue has-tooltip">ISE-244</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add rsync to gitignore]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d6a65b40f5b7c2ff103fe2ca35e2846d12c7598b</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d6a65b40f5b7c2ff103fe2ca35e2846d12c7598b"/>
-        <updated>2025-03-03T01:45:34.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[disable source check set 15 fixed on staging]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0f84a950384b0b4db42aa43a7246ef2797e974bc</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0f84a950384b0b4db42aa43a7246ef2797e974bc"/>
-        <updated>2025-03-03T01:42:42.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>

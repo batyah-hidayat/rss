@@ -361,56 +361,6 @@
           "wordCount": 1175,
           "title": "set 10 fixed paid -2x for descrease apply distribution",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/14ec85063316333c0ab7f093c8eb293385882c3c",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/14ec85063316333c0ab7f093c8eb293385882c3c",
-          "publishedOn": "2025-03-03T03:20:15.000Z",
-          "wordCount": 1175,
-          "title": "Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b965d4d404f82a98dfef0235f68dd2ebc6bdaf99",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b965d4d404f82a98dfef0235f68dd2ebc6bdaf99",
-          "publishedOn": "2025-03-03T03:19:53.000Z",
-          "wordCount": 1175,
-          "title": "add default staging and qc 15 paid positions",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d1fcfbca7c8c7dcd78193d6279b3e64b8ad726cd",
-          "author": null,
-          "description": "merge apply_distribution/<a href=\"https://sieuviet.atlassian.net/browse/ISE-244\" data-project=\"313\" data-external-issue=\"ISE-244\" data-reference-type=\"external_issue\" data-container=\"body\" data-placement=\"top\" title=\"Issue in Jira\" class=\"gfm gfm-issue has-tooltip\">ISE-244</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d1fcfbca7c8c7dcd78193d6279b3e64b8ad726cd",
-          "publishedOn": "2025-03-03T01:46:43.000Z",
-          "wordCount": 1175,
-          "title": "Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d6a65b40f5b7c2ff103fe2ca35e2846d12c7598b",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d6a65b40f5b7c2ff103fe2ca35e2846d12c7598b",
-          "publishedOn": "2025-03-03T01:45:34.000Z",
-          "wordCount": 1175,
-          "title": "add rsync to gitignore",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0f84a950384b0b4db42aa43a7246ef2797e974bc",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0f84a950384b0b4db42aa43a7246ef2797e974bc",
-          "publishedOn": "2025-03-03T01:42:42.000Z",
-          "wordCount": 1175,
-          "title": "disable source check set 15 fixed on staging",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
