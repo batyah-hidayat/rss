@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-02T01:26:42.693Z</id>
+    <id>urn:2025-04-03T01:25:16.551Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-02T01:26:42.693Z</updated>
+    <updated>2025-04-03T01:25:16.551Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -306,56 +306,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b4ff25ef647f5dab497d3aea4535de6103ee3c78</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b4ff25ef647f5dab497d3aea4535de6103ee3c78"/>
         <updated>2025-03-05T08:47:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'main' into feat/ise-249]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f69209e9d754e42311dbecb79a49f6444e0a46dd</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f69209e9d754e42311dbecb79a49f6444e0a46dd"/>
-        <updated>2025-03-04T08:56:17.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: update condition for new jp and hash calculation after check]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d09c61d0a377613ec77aaf7ce4d9efb941bb4cb</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d09c61d0a377613ec77aaf7ce4d9efb941bb4cb"/>
-        <updated>2025-03-04T08:50:22.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: incremental index]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0aaf64d606cff99625de46cb73f0671a7e3bba8a</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0aaf64d606cff99625de46cb73f0671a7e3bba8a"/>
-        <updated>2025-03-04T03:37:36.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d7f84ecc2ad516705eef201832c5894d9382549</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d7f84ecc2ad516705eef201832c5894d9382549"/>
-        <updated>2025-03-04T01:41:34.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[set 10 fixed paid -2x for descrease apply distribution]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c01d93ebe5f465bba9385eaf7d2985e87240ee4b</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c01d93ebe5f465bba9385eaf7d2985e87240ee4b"/>
-        <updated>2025-03-04T01:38:21.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>

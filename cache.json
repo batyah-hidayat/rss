@@ -311,56 +311,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'staging' into feat/ise-249",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f69209e9d754e42311dbecb79a49f6444e0a46dd",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f69209e9d754e42311dbecb79a49f6444e0a46dd",
-          "publishedOn": "2025-03-04T08:56:17.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'main' into feat/ise-249",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d09c61d0a377613ec77aaf7ce4d9efb941bb4cb",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d09c61d0a377613ec77aaf7ce4d9efb941bb4cb",
-          "publishedOn": "2025-03-04T08:50:22.000Z",
-          "wordCount": 1175,
-          "title": "feat: update condition for new jp and hash calculation after check",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0aaf64d606cff99625de46cb73f0671a7e3bba8a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0aaf64d606cff99625de46cb73f0671a7e3bba8a",
-          "publishedOn": "2025-03-04T03:37:36.000Z",
-          "wordCount": 1175,
-          "title": "feat: incremental index",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d7f84ecc2ad516705eef201832c5894d9382549",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d7f84ecc2ad516705eef201832c5894d9382549",
-          "publishedOn": "2025-03-04T01:41:34.000Z",
-          "wordCount": 1175,
-          "title": "Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c01d93ebe5f465bba9385eaf7d2985e87240ee4b",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c01d93ebe5f465bba9385eaf7d2985e87240ee4b",
-          "publishedOn": "2025-03-04T01:38:21.000Z",
-          "wordCount": 1175,
-          "title": "set 10 fixed paid -2x for descrease apply distribution",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
