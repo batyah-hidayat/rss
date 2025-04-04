@@ -24,16 +24,6 @@
           "wordCount": 1175,
           "title": "feat: fixed urgent job post",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4428c8aad79de660880f98f695b3cd776f330783",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4428c8aad79de660880f98f695b3cd776f330783",
-          "publishedOn": "2025-03-05T08:51:33.000Z",
-          "wordCount": 1175,
-          "title": "set 20k for App notification change ping status",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -300,16 +290,6 @@
           "publishedOn": "2025-03-06T01:44:17.000Z",
           "wordCount": 1175,
           "title": "set 10 fixed paid + apply distribution + formula prediction",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b4ff25ef647f5dab497d3aea4535de6103ee3c78",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b4ff25ef647f5dab497d3aea4535de6103ee3c78",
-          "publishedOn": "2025-03-05T08:47:00.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'staging' into feat/ise-249",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
