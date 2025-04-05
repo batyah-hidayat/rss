@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-04T01:25:23.131Z</id>
+    <id>urn:2025-04-05T01:24:19.268Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-04T01:25:23.131Z</updated>
+    <updated>2025-04-05T01:24:19.268Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -266,26 +266,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d9db0b69b34f4579041fe7c63f5fb3fce99e374</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d9db0b69b34f4579041fe7c63f5fb3fce99e374"/>
         <updated>2025-03-07T09:01:30.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a25780974367a0724214ad15da49949d3fc18a91</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a25780974367a0724214ad15da49949d3fc18a91"/>
-        <updated>2025-03-06T01:46:17.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[set 10 fixed paid + apply distribution + formula prediction]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b71a727b44b36f9e07e2ec3c6f3ff80df6e6bb9e</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b71a727b44b36f9e07e2ec3c6f3ff80df6e6bb9e"/>
-        <updated>2025-03-06T01:44:17.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>

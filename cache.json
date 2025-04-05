@@ -271,26 +271,6 @@
           "wordCount": 1175,
           "title": "only staging build 10 fixed + underperformed",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a25780974367a0724214ad15da49949d3fc18a91",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a25780974367a0724214ad15da49949d3fc18a91",
-          "publishedOn": "2025-03-06T01:46:17.000Z",
-          "wordCount": 1175,
-          "title": "Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b71a727b44b36f9e07e2ec3c6f3ff80df6e6bb9e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b71a727b44b36f9e07e2ec3c6f3ff80df6e6bb9e",
-          "publishedOn": "2025-03-06T01:44:17.000Z",
-          "wordCount": 1175,
-          "title": "set 10 fixed paid + apply distribution + formula prediction",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
