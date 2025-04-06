@@ -251,26 +251,6 @@
           "wordCount": 1175,
           "title": "set 10 fixed paid + apply distribution + formula prediction change default pa...",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6cabe1ab85151c7495a09bb3a72db84a979df170",
-          "author": null,
-          "description": "feat: incremental index\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/20\" data-original=\"search-engine/service-search-engine!20\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"39160\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"20\" data-mr-title=\"feat: incremental index\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!20</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6cabe1ab85151c7495a09bb3a72db84a979df170",
-          "publishedOn": "2025-03-07T09:07:04.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-249' into 'staging'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d9db0b69b34f4579041fe7c63f5fb3fce99e374",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d9db0b69b34f4579041fe7c63f5fb3fce99e374",
-          "publishedOn": "2025-03-07T09:01:30.000Z",
-          "wordCount": 1175,
-          "title": "only staging build 10 fixed + underperformed",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

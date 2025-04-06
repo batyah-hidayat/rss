@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-05T01:24:19.268Z</id>
+    <id>urn:2025-04-06T01:37:56.823Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-05T01:24:19.268Z</updated>
+    <updated>2025-04-06T01:37:56.823Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -244,28 +244,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/72fb27f0c1cdf93b3c0140994ad4207562e39886</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/72fb27f0c1cdf93b3c0140994ad4207562e39886"/>
         <updated>2025-03-10T01:38:48.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-249' into 'staging']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6cabe1ab85151c7495a09bb3a72db84a979df170</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6cabe1ab85151c7495a09bb3a72db84a979df170"/>
-        <updated>2025-03-07T09:07:04.000Z</updated>
-        <summary type="html"><![CDATA[feat: incremental index
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/20" data-original="search-engine/service-search-engine!20" data-link="false" data-link-reference="false" data-project="313" data-merge-request="39160" data-project-path="search-engine/service-search-engine" data-iid="20" data-mr-title="feat: incremental index" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!20</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[only staging build 10 fixed + underperformed]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d9db0b69b34f4579041fe7c63f5fb3fce99e374</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0d9db0b69b34f4579041fe7c63f5fb3fce99e374"/>
-        <updated>2025-03-07T09:01:30.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
