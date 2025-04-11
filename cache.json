@@ -151,26 +151,6 @@
           "wordCount": 1175,
           "title": "set B version changes as default",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a137df224d3159dbe74e86d91025058fe40a49e6",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a137df224d3159dbe74e86d91025058fe40a49e6",
-          "publishedOn": "2025-03-12T01:41:26.000Z",
-          "wordCount": 1175,
-          "title": "Merge remote-tracking branch 'origin/apply_distribution/ISE-244' into staging",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/66366c5c89085f424071b7ee3e1b258caa67cecd",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/66366c5c89085f424071b7ee3e1b258caa67cecd",
-          "publishedOn": "2025-03-12T01:40:30.000Z",
-          "wordCount": 1175,
-          "title": "decrease company text matching boost",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
