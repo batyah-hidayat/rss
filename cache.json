@@ -501,36 +501,6 @@
           "wordCount": 1175,
           "title": "use formula by default",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/edbfd54d4ce92411bfd026ea1427940a80ed0471",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/edbfd54d4ce92411bfd026ea1427940a80ed0471",
-          "publishedOn": "2025-03-17T07:24:50.000Z",
-          "wordCount": 1175,
-          "title": "set B version changes as default remove web condition",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e2609d04b4d5952a0966c58e6808de9eb8f47949",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e2609d04b4d5952a0966c58e6808de9eb8f47949",
-          "publishedOn": "2025-03-17T07:21:05.000Z",
-          "wordCount": 1175,
-          "title": "set B version changes as default",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ef29b7298418558298add814d5e6d4ff8b427180",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ef29b7298418558298add814d5e6d4ff8b427180",
-          "publishedOn": "2025-03-17T07:18:28.000Z",
-          "wordCount": 1175,
-          "title": "set B version changes as default",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
