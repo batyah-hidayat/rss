@@ -413,6 +413,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b",
+          "author": null,
+          "description": "fix paid B version for 100%\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/31\" data-original=\"search-engine/service-search-engine!31\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40280\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"31\" data-mr-title=\"fix paid B version for 100%\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!31</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b",
+          "publishedOn": "2025-04-16T04:32:02.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'jsearch-searcher-production-release-16-04' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6",
+          "publishedOn": "2025-04-16T04:16:12.000Z",
+          "wordCount": 1175,
+          "title": "fix paid B version for 100%",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62b10b49e821c5a4ecacdca346d7a785ed4e032b",
           "author": null,
           "description": "<div type=\"html\"/>",
@@ -480,26 +500,6 @@
           "publishedOn": "2025-03-19T02:24:48.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'production' into 'main'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/78e8dbdb4327e959b5f22044d66b3ce353a1f24f",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/78e8dbdb4327e959b5f22044d66b3ce353a1f24f",
-          "publishedOn": "2025-03-18T08:44:54.000Z",
-          "wordCount": 1175,
-          "title": "feat: apply distribution for urgent job post",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62b3559ba1adf77135df29df47752c0ca10d34be",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62b3559ba1adf77135df29df47752c0ca10d34be",
-          "publishedOn": "2025-03-18T07:21:58.000Z",
-          "wordCount": 1175,
-          "title": "use formula by default",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

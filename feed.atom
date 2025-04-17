@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-16T01:36:37.335Z</id>
+    <id>urn:2025-04-17T01:27:03.885Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-16T01:36:37.335Z</updated>
+    <updated>2025-04-17T01:27:03.885Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'jsearch-searcher-production-release-16-04' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b"/>
+        <updated>2025-04-16T04:32:02.000Z</updated>
+        <summary type="html"><![CDATA[fix paid B version for 100%
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/31" data-original="search-engine/service-search-engine!31" data-link="false" data-link-reference="false" data-project="313" data-merge-request="40280" data-project-path="search-engine/service-search-engine" data-iid="31" data-mr-title="fix paid B version for 100%" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!31</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix paid B version for 100%]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6"/>
+        <updated>2025-04-16T04:16:12.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'staging' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/255c894c0aa05dd6d86b364f9d30fdde06f9c0e5</id>
@@ -501,26 +523,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Production
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/23" data-original="search-engine/service-search-engine!23" data-link="false" data-link-reference="false" data-project="313" data-merge-request="39455" data-project-path="search-engine/service-search-engine" data-iid="23" data-mr-title="Production" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!23</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: apply distribution for urgent job post]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/78e8dbdb4327e959b5f22044d66b3ce353a1f24f</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/78e8dbdb4327e959b5f22044d66b3ce353a1f24f"/>
-        <updated>2025-03-18T08:44:54.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[use formula by default]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62b3559ba1adf77135df29df47752c0ca10d34be</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62b3559ba1adf77135df29df47752c0ca10d34be"/>
-        <updated>2025-03-18T07:21:58.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
