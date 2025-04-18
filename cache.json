@@ -471,36 +471,6 @@
           "wordCount": 1175,
           "title": "add B version for fixedPaid",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/10c2103159044a4ad1a0b7a23b44837456ef2e1d",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/10c2103159044a4ad1a0b7a23b44837456ef2e1d",
-          "publishedOn": "2025-03-19T03:40:49.000Z",
-          "wordCount": 1175,
-          "title": "feat: add max number relevance urgent",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ef5d5a5828e62da15922f11377900f48596bb57a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ef5d5a5828e62da15922f11377900f48596bb57a",
-          "publishedOn": "2025-03-19T03:03:28.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'main' into feat/ise-269",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a915e876abe9d584979bcea497ea5e495a42d102",
-          "author": null,
-          "description": "Production\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/23\" data-original=\"search-engine/service-search-engine!23\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"39455\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"23\" data-mr-title=\"Production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!23</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a915e876abe9d584979bcea497ea5e495a42d102",
-          "publishedOn": "2025-03-19T02:24:48.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'production' into 'main'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
