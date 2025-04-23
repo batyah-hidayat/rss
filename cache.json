@@ -461,36 +461,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'staging' into feat/ise-269",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bd260a9278e1f87cc6caa8a3493366f479490243",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bd260a9278e1f87cc6caa8a3493366f479490243",
-          "publishedOn": "2025-03-24T07:59:01.000Z",
-          "wordCount": 1175,
-          "title": "add B version for fixedPaid use check parameter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/85ad6263292e46d4eb265e67f7523d24f44a9eb3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/85ad6263292e46d4eb265e67f7523d24f44a9eb3",
-          "publishedOn": "2025-03-24T07:29:44.000Z",
-          "wordCount": 1175,
-          "title": "add B version for fixedPaid use check parameter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3516b46cbce5f32baa90e136bee73c99004a3fb4",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3516b46cbce5f32baa90e136bee73c99004a3fb4",
-          "publishedOn": "2025-03-24T07:07:13.000Z",
-          "wordCount": 1175,
-          "title": "add B version for fixedPaid",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
