@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-25T01:37:07.440Z</id>
+    <id>urn:2025-04-26T01:25:42.041Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-25T01:37:07.440Z</updated>
+    <updated>2025-04-26T01:25:42.041Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-307' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47d564e4b473ece05db0afebb899bc98886859ed</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47d564e4b473ece05db0afebb899bc98886859ed"/>
+        <updated>2025-04-25T06:18:50.000Z</updated>
+        <summary type="html"><![CDATA[feat: fix full_time in statistic endpoint
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/48" data-original="recommendation/service-recommendation!48" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40581" data-project-path="recommendation/service-recommendation" data-iid="48" data-mr-title="feat: fix full_time in statistic endpoint" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!48</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: remove print es query]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9fccbdd76770d808c895f1276129898401eac97b</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9fccbdd76770d808c895f1276129898401eac97b"/>
+        <updated>2025-04-25T03:54:42.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: fix full_time in statistic endpoint]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/684c78c6e5b15cef1f593b8dcfafb9224d9fd819</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/684c78c6e5b15cef1f593b8dcfafb9224d9fd819"/>
+        <updated>2025-04-25T03:03:07.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'staging' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8a89b2920d4d4267954ab61551ff33f8f1fbf758</id>
@@ -440,40 +472,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de34c6b89f8b60d25e7be1ad633301192dd18978</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de34c6b89f8b60d25e7be1ad633301192dd18978"/>
         <updated>2025-04-11T03:44:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'qc' into 'staging']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d380120860f361852da93d07eca222937fe6714a</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d380120860f361852da93d07eca222937fe6714a"/>
-        <updated>2025-04-11T03:32:43.000Z</updated>
-        <summary type="html"><![CDATA[Qc
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/21" data-original="recommendation/service-recommendation!21" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40148" data-project-path="recommendation/service-recommendation" data-iid="21" data-mr-title="Qc" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!21</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/recommendation-human-occupation' into 'qc']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7d2ac26d23d89aa39d21c3409810ae4abf6b68e1</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7d2ac26d23d89aa39d21c3409810ae4abf6b68e1"/>
-        <updated>2025-04-11T03:32:07.000Z</updated>
-        <summary type="html"><![CDATA[feat: remove unknown occ cv
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/20" data-original="recommendation/service-recommendation!20" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40147" data-project-path="recommendation/service-recommendation" data-iid="20" data-mr-title="feat: remove unknown occ cv" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!20</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: remove unknown occ cv]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0d9e40c7ccf7489ed0daac492246f82b8c920531</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0d9e40c7ccf7489ed0daac492246f82b8c920531"/>
-        <updated>2025-04-11T03:30:52.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>

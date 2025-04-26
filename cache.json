@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47d564e4b473ece05db0afebb899bc98886859ed",
+          "author": null,
+          "description": "feat: fix full_time in statistic endpoint\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/48\" data-original=\"recommendation/service-recommendation!48\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40581\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"48\" data-mr-title=\"feat: fix full_time in statistic endpoint\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!48</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47d564e4b473ece05db0afebb899bc98886859ed",
+          "publishedOn": "2025-04-25T06:18:50.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-307' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9fccbdd76770d808c895f1276129898401eac97b",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9fccbdd76770d808c895f1276129898401eac97b",
+          "publishedOn": "2025-04-25T03:54:42.000Z",
+          "wordCount": 1175,
+          "title": "feat: remove print es query",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/684c78c6e5b15cef1f593b8dcfafb9224d9fd819",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/684c78c6e5b15cef1f593b8dcfafb9224d9fd819",
+          "publishedOn": "2025-04-25T03:03:07.000Z",
+          "wordCount": 1175,
+          "title": "feat: fix full_time in statistic endpoint",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8a89b2920d4d4267954ab61551ff33f8f1fbf758",
           "author": null,
           "description": "Merge Staging into production\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/37\" data-original=\"recommendation/service-recommendation!37\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40492\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"37\" data-mr-title=\"Merge Staging into production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!37</a>",
@@ -373,36 +403,6 @@
           "publishedOn": "2025-04-11T03:44:00.000Z",
           "wordCount": 1175,
           "title": "feat: update mysql conn",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d380120860f361852da93d07eca222937fe6714a",
-          "author": null,
-          "description": "Qc\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/21\" data-original=\"recommendation/service-recommendation!21\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40148\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"21\" data-mr-title=\"Qc\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!21</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d380120860f361852da93d07eca222937fe6714a",
-          "publishedOn": "2025-04-11T03:32:43.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'qc' into 'staging'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7d2ac26d23d89aa39d21c3409810ae4abf6b68e1",
-          "author": null,
-          "description": "feat: remove unknown occ cv\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/20\" data-original=\"recommendation/service-recommendation!20\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40147\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"20\" data-mr-title=\"feat: remove unknown occ cv\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!20</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7d2ac26d23d89aa39d21c3409810ae4abf6b68e1",
-          "publishedOn": "2025-04-11T03:32:07.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/recommendation-human-occupation' into 'qc'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0d9e40c7ccf7489ed0daac492246f82b8c920531",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0d9e40c7ccf7489ed0daac492246f82b8c920531",
-          "publishedOn": "2025-04-11T03:30:52.000Z",
-          "wordCount": 1175,
-          "title": "feat: remove unknown occ cv",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
