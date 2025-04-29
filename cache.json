@@ -413,6 +413,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8",
+          "author": null,
+          "description": "feat: remove RUnlock\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/35\" data-original=\"search-engine/service-search-engine!35\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40631\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"35\" data-mr-title=\"feat: remove RUnlock\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!35</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8",
+          "publishedOn": "2025-04-28T08:53:55.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-312' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638",
+          "publishedOn": "2025-04-28T08:12:34.000Z",
+          "wordCount": 1175,
+          "title": "feat: remove RUnlock",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2670b905acbba715e8e6a1f959345c08161a9979",
           "author": null,
           "description": "feat: garbage collector by go\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/34\" data-original=\"search-engine/service-search-engine!34\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40371\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"34\" data-mr-title=\"feat: garbage collector by go\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!34</a>",

@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-04-28T01:39:20.574Z</id>
+    <id>urn:2025-04-29T01:37:26.952Z</id>
     <title>osmos::feed</title>
-    <updated>2025-04-28T01:39:20.574Z</updated>
+    <updated>2025-04-29T01:37:26.952Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-312' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8"/>
+        <updated>2025-04-28T08:53:55.000Z</updated>
+        <summary type="html"><![CDATA[feat: remove RUnlock
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/35" data-original="search-engine/service-search-engine!35" data-link="false" data-link-reference="false" data-project="313" data-merge-request="40631" data-project-path="search-engine/service-search-engine" data-iid="35" data-mr-title="feat: remove RUnlock" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!35</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: remove RUnlock]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638"/>
+        <updated>2025-04-28T08:12:34.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-307' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47d564e4b473ece05db0afebb899bc98886859ed</id>
