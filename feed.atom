@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-05T01:41:28.647Z</id>
+    <id>urn:2025-05-06T01:38:08.709Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-05T01:41:28.647Z</updated>
+    <updated>2025-05-06T01:38:08.709Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-314' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4960cbf3067e06bb4f4edf28dbc478d6a37d1630</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4960cbf3067e06bb4f4edf28dbc478d6a37d1630"/>
+        <updated>2025-05-05T02:40:21.000Z</updated>
+        <summary type="html"><![CDATA[feat: handle error on rotate time and log error
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/39" data-original="search-engine/service-search-engine!39" data-link="false" data-link-reference="false" data-project="313" data-merge-request="40660" data-project-path="search-engine/service-search-engine" data-iid="39" data-mr-title="feat: handle error on rotate time and log error" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!39</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: log error]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2a4b08ea6efcd79252cb42500b2328520a099d56</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2a4b08ea6efcd79252cb42500b2328520a099d56"/>
+        <updated>2025-04-29T07:35:15.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: handle error on rotate time]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d30aa34110aaea91b176fd556507c5d826d57e5f</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d30aa34110aaea91b176fd556507c5d826d57e5f"/>
+        <updated>2025-04-29T07:30:17.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-312' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8</id>

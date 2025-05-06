@@ -413,6 +413,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4960cbf3067e06bb4f4edf28dbc478d6a37d1630",
+          "author": null,
+          "description": "feat: handle error on rotate time and log error\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/39\" data-original=\"search-engine/service-search-engine!39\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40660\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"39\" data-mr-title=\"feat: handle error on rotate time and log error\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!39</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4960cbf3067e06bb4f4edf28dbc478d6a37d1630",
+          "publishedOn": "2025-05-05T02:40:21.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-314' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2a4b08ea6efcd79252cb42500b2328520a099d56",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2a4b08ea6efcd79252cb42500b2328520a099d56",
+          "publishedOn": "2025-04-29T07:35:15.000Z",
+          "wordCount": 1175,
+          "title": "feat: log error",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d30aa34110aaea91b176fd556507c5d826d57e5f",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d30aa34110aaea91b176fd556507c5d826d57e5f",
+          "publishedOn": "2025-04-29T07:30:17.000Z",
+          "wordCount": 1175,
+          "title": "feat: handle error on rotate time",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8",
           "author": null,
           "description": "feat: remove RUnlock\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/35\" data-original=\"search-engine/service-search-engine!35\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40631\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"35\" data-mr-title=\"feat: remove RUnlock\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!35</a>",
