@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/725487aa0547ada36a48090fa71e588d11ac3491",
+          "author": null,
+          "description": "feat: remove CV mismatch province_ids\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/65\" data-original=\"recommendation/service-recommendation!65\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40771\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"65\" data-mr-title=\"feat: remove CV mismatch province_ids\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!65</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/725487aa0547ada36a48090fa71e588d11ac3491",
+          "publishedOn": "2025-05-07T09:27:21.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'staging' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/50498c86322c9e8432da75dbdd1e1a19518b008b",
+          "author": null,
+          "description": "feat: remove CV mismatch province_ids\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/64\" data-original=\"recommendation/service-recommendation!64\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40769\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"64\" data-mr-title=\"feat: remove CV mismatch province_ids\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!64</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/50498c86322c9e8432da75dbdd1e1a19518b008b",
+          "publishedOn": "2025-05-07T08:00:25.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-315' into 'staging'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fbf5d48ec83061172e6d5a7fc2f5f0902ab209f8",
           "author": null,
           "description": "Merge Staging into Production\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/59\" data-original=\"recommendation/service-recommendation!59\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40678\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"59\" data-mr-title=\"Merge Staging into Production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!59</a>",
@@ -13,6 +33,16 @@
           "publishedOn": "2025-05-06T09:19:09.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'staging' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8ce012da7f2a8728feb898fd02f962f31b85048b",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8ce012da7f2a8728feb898fd02f962f31b85048b",
+          "publishedOn": "2025-05-05T07:16:12.000Z",
+          "wordCount": 1175,
+          "title": "feat: remove CV mismatch province_ids",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
@@ -373,36 +403,6 @@
           "publishedOn": "2025-04-15T08:02:53.000Z",
           "wordCount": 1175,
           "title": "feat: boost industry matching",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/255c894c0aa05dd6d86b364f9d30fdde06f9c0e5",
-          "author": null,
-          "description": "feat: recommendation endpoint\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/28\" data-original=\"recommendation/service-recommendation!28\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40209\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"28\" data-mr-title=\"feat: recommendation endpoint\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!28</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/255c894c0aa05dd6d86b364f9d30fdde06f9c0e5",
-          "publishedOn": "2025-04-14T08:57:29.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'staging' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a18633248178b5df5510d0861ae92a8f1b29f9b5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a18633248178b5df5510d0861ae92a8f1b29f9b5",
-          "publishedOn": "2025-04-14T08:25:21.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'staging' into production",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1eb4fb07b9944928e5280b5799c9450a67f07d55",
-          "author": null,
-          "description": "feat: remove fetch db user for notification\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/27\" data-original=\"recommendation/service-recommendation!27\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40204\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"27\" data-mr-title=\"feat: remove fetch db user for notification\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!27</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1eb4fb07b9944928e5280b5799c9450a67f07d55",
-          "publishedOn": "2025-04-14T06:17:17.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'qc' into 'staging'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
