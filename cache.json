@@ -413,6 +413,106 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c43cde35033f1101b1248122b272d4e91568e85a",
+          "author": null,
+          "description": "Release 13-05-2025\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/50\" data-original=\"search-engine/service-search-engine!50\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40933\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"50\" data-mr-title=\"Release 13-05-2025\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!50</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c43cde35033f1101b1248122b272d4e91568e85a",
+          "publishedOn": "2025-05-13T08:34:08.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/13-05-2025' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3d912028c95b6b99d54b0e1d128c08429f7bb7e9",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3d912028c95b6b99d54b0e1d128c08429f7bb7e9",
+          "publishedOn": "2025-05-13T06:48:28.000Z",
+          "wordCount": 1175,
+          "title": "feat: add new sale occupation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8b2e84e1e8455de15589605cc234dbc62d28820a",
+          "author": null,
+          "description": "feat: monthly freemium jp\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/49\" data-original=\"search-engine/service-search-engine!49\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40932\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"49\" data-mr-title=\"feat: monthly freemium jp\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!49</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8b2e84e1e8455de15589605cc234dbc62d28820a",
+          "publishedOn": "2025-05-13T04:28:16.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'service-code-distribution' into 'release/13-05-2025'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d2ac5b0937f45eff9ea6ad6570d431ae359a56d2",
+          "author": null,
+          "description": "feat: add pod into status\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/47\" data-original=\"search-engine/service-search-engine!47\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40930\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"47\" data-mr-title=\"feat: add pod into status\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!47</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d2ac5b0937f45eff9ea6ad6570d431ae359a56d2",
+          "publishedOn": "2025-05-13T04:27:19.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-326' into 'release/13-05-2025'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/73606641a1e9d47201785a813d6826dc76bf5601",
+          "author": null,
+          "description": "feat: log timing\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/48\" data-original=\"search-engine/service-search-engine!48\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40931\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"48\" data-mr-title=\"feat: log timing\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!48</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/73606641a1e9d47201785a813d6826dc76bf5601",
+          "publishedOn": "2025-05-13T04:26:46.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-327' into 'release/13-05-2025'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb695824ebd33161a006ccd1d0c74dd9aa115da",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb695824ebd33161a006ccd1d0c74dd9aa115da",
+          "publishedOn": "2025-05-12T08:53:10.000Z",
+          "wordCount": 1175,
+          "title": "feat: monthly freemium jp",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ac97fe3bc3b25eefd74a27b1f2e5c0f5949db6f8",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ac97fe3bc3b25eefd74a27b1f2e5c0f5949db6f8",
+          "publishedOn": "2025-05-12T07:04:50.000Z",
+          "wordCount": 1175,
+          "title": "limitations for not paid sales jp",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6f0d843c32fc488a5c75e0804ffe60999c16b36e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6f0d843c32fc488a5c75e0804ffe60999c16b36e",
+          "publishedOn": "2025-05-12T06:53:41.000Z",
+          "wordCount": 1175,
+          "title": "feat: log timing",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c",
+          "publishedOn": "2025-05-12T03:46:53.000Z",
+          "wordCount": 1175,
+          "title": "feat: add pod into status",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb8d693643447a8938d94fa5463b862287b3f5ad",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb8d693643447a8938d94fa5463b862287b3f5ad",
+          "publishedOn": "2025-05-09T08:10:37.000Z",
+          "wordCount": 1175,
+          "title": "feat: log pod id",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4960cbf3067e06bb4f4edf28dbc478d6a37d1630",
           "author": null,
           "description": "feat: handle error on rotate time and log error\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/39\" data-original=\"search-engine/service-search-engine!39\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40660\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"39\" data-mr-title=\"feat: handle error on rotate time and log error\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!39</a>",
