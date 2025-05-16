@@ -354,26 +354,6 @@
           "wordCount": 1175,
           "title": "feat: adjust weight",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c3f8d1fdf4944fb151679cfc9f452361593d7989",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c3f8d1fdf4944fb151679cfc9f452361593d7989",
-          "publishedOn": "2025-04-16T08:59:24.000Z",
-          "wordCount": 1175,
-          "title": "feat: remove worker",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ec47c099d4bad5253ad3a987bd7957044515f94b",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ec47c099d4bad5253ad3a987bd7957044515f94b",
-          "publishedOn": "2025-04-16T03:30:17.000Z",
-          "wordCount": 1175,
-          "title": "feat: change occ weight",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -382,6 +362,26 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484",
+          "author": null,
+          "description": "fix: change logic for sale\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/54\" data-original=\"search-engine/service-search-engine!54\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41042\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"54\" data-mr-title=\"fix: change logic for sale\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!54</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484",
+          "publishedOn": "2025-05-15T06:18:57.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-329' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c",
+          "publishedOn": "2025-05-15T06:10:07.000Z",
+          "wordCount": 1175,
+          "title": "fix: change logic for sale",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3dc04a440d78559d8415b494d46b95fb75292916",
           "author": null,
@@ -580,26 +580,6 @@
           "publishedOn": "2025-04-18T08:39:32.000Z",
           "wordCount": 1175,
           "title": "feat: garbage collector by go",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b",
-          "author": null,
-          "description": "fix paid B version for 100%\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/31\" data-original=\"search-engine/service-search-engine!31\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40280\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"31\" data-mr-title=\"fix paid B version for 100%\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!31</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b",
-          "publishedOn": "2025-04-16T04:32:02.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'jsearch-searcher-production-release-16-04' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6",
-          "publishedOn": "2025-04-16T04:16:12.000Z",
-          "wordCount": 1175,
-          "title": "fix paid B version for 100%",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

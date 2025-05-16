@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-15T01:37:12.797Z</id>
+    <id>urn:2025-05-16T01:39:57.812Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-15T01:37:12.797Z</updated>
+    <updated>2025-05-16T01:39:57.812Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-329' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484"/>
+        <updated>2025-05-15T06:18:57.000Z</updated>
+        <summary type="html"><![CDATA[fix: change logic for sale
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/54" data-original="search-engine/service-search-engine!54" data-link="false" data-link-reference="false" data-project="313" data-merge-request="41042" data-project-path="search-engine/service-search-engine" data-iid="54" data-mr-title="fix: change logic for sale" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!54</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix: change logic for sale]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c"/>
+        <updated>2025-05-15T06:10:07.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-334' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3dc04a440d78559d8415b494d46b95fb75292916</id>
@@ -598,48 +620,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/48f478d6c76a5c6607e2c8bac93b121db600b4d7</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/48f478d6c76a5c6607e2c8bac93b121db600b4d7"/>
         <updated>2025-04-17T02:44:24.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: remove worker]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c3f8d1fdf4944fb151679cfc9f452361593d7989</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c3f8d1fdf4944fb151679cfc9f452361593d7989"/>
-        <updated>2025-04-16T08:59:24.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'jsearch-searcher-production-release-16-04' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7cbc725fc91182e10aec4c2a3dcc6d49c0cd1b2b"/>
-        <updated>2025-04-16T04:32:02.000Z</updated>
-        <summary type="html"><![CDATA[fix paid B version for 100%
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/31" data-original="search-engine/service-search-engine!31" data-link="false" data-link-reference="false" data-project="313" data-merge-request="40280" data-project-path="search-engine/service-search-engine" data-iid="31" data-mr-title="fix paid B version for 100%" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!31</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix paid B version for 100%]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9859b9f9738154fecbf086b3b072e21980774d6"/>
-        <updated>2025-04-16T04:16:12.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: change occ weight]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ec47c099d4bad5253ad3a987bd7957044515f94b</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ec47c099d4bad5253ad3a987bd7957044515f94b"/>
-        <updated>2025-04-16T03:30:17.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
