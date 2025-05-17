@@ -344,16 +344,6 @@
           "wordCount": 1175,
           "title": "feat: load resume applied history into index",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/48f478d6c76a5c6607e2c8bac93b121db600b4d7",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/48f478d6c76a5c6607e2c8bac93b121db600b4d7",
-          "publishedOn": "2025-04-17T02:44:24.000Z",
-          "wordCount": 1175,
-          "title": "feat: adjust weight",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
