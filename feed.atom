@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-17T01:37:14.563Z</id>
+    <id>urn:2025-05-18T01:44:53.748Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-17T01:37:14.563Z</updated>
+    <updated>2025-05-18T01:44:53.748Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -591,28 +591,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-296' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2670b905acbba715e8e6a1f959345c08161a9979</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2670b905acbba715e8e6a1f959345c08161a9979"/>
-        <updated>2025-04-18T08:46:08.000Z</updated>
-        <summary type="html"><![CDATA[feat: garbage collector by go
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/34" data-original="search-engine/service-search-engine!34" data-link="false" data-link-reference="false" data-project="313" data-merge-request="40371" data-project-path="search-engine/service-search-engine" data-iid="34" data-mr-title="feat: garbage collector by go" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!34</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: garbage collector by go]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1808ef11f49c827d26885692e4eb461d8cf287c4</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1808ef11f49c827d26885692e4eb461d8cf287c4"/>
-        <updated>2025-04-18T08:39:32.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
