@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/80eb8dde0136e81cf432c4786d52fc0262f5bc6e",
+          "author": null,
+          "description": "Release: 20-05-2025\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/72\" data-original=\"recommendation/service-recommendation!72\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41161\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"72\" data-mr-title=\"Release: 20-05-2025\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!72</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/80eb8dde0136e81cf432c4786d52fc0262f5bc6e",
+          "publishedOn": "2025-05-20T06:56:30.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/20-05-2025' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2a1961d1ea9e62d2b41c16adc0acf12bcc9f16d2",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2a1961d1ea9e62d2b41c16adc0acf12bcc9f16d2",
+          "publishedOn": "2025-05-20T04:01:25.000Z",
+          "wordCount": 1175,
+          "title": "feat: free JP limitation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/15f916bf168c99036c0885f026da46b9059746e4",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/15f916bf168c99036c0885f026da46b9059746e4",
+          "publishedOn": "2025-05-20T03:59:37.000Z",
+          "wordCount": 1175,
+          "title": "feat: bulk elastic query",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/725487aa0547ada36a48090fa71e588d11ac3491",
           "author": null,
           "description": "feat: remove CV mismatch province_ids\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/65\" data-original=\"recommendation/service-recommendation!65\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40771\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"65\" data-mr-title=\"feat: remove CV mismatch province_ids\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!65</a>",
