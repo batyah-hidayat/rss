@@ -324,56 +324,6 @@
           "wordCount": 1175,
           "title": "feat: add negotiate salary",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/abadce4dc4f1cdf0d7082f837c293c0711ab8cb8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/abadce4dc4f1cdf0d7082f837c293c0711ab8cb8",
-          "publishedOn": "2025-04-23T09:53:40.000Z",
-          "wordCount": 1175,
-          "title": "feat: adjust salary matching",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/09ed0d52b761af36dd7a058980bb2395b0110f55",
-          "author": null,
-          "description": "feat: boost industry matching\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/36\" data-original=\"recommendation/service-recommendation!36\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40491\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"36\" data-mr-title=\"feat: boost industry matching\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!36</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/09ed0d52b761af36dd7a058980bb2395b0110f55",
-          "publishedOn": "2025-04-23T07:16:56.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-291' into 'staging'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3a08e162af801a8425ea9acec98f6da123cfb6a8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3a08e162af801a8425ea9acec98f6da123cfb6a8",
-          "publishedOn": "2025-04-23T07:14:08.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'staging' into feat/ise-291",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a29f397926f641f8cd5e7720a1a13012f2cccce7",
-          "author": null,
-          "description": "feat: load resume applied history into index\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/35\" data-original=\"recommendation/service-recommendation!35\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40490\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"35\" data-mr-title=\"feat: load resume applied history into index\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!35</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a29f397926f641f8cd5e7720a1a13012f2cccce7",
-          "publishedOn": "2025-04-23T07:04:54.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-304' into 'staging'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/27c26de0a26e98d5295904df326173f4a49a5522",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/27c26de0a26e98d5295904df326173f4a49a5522",
-          "publishedOn": "2025-04-23T06:57:20.000Z",
-          "wordCount": 1175,
-          "title": "feat: load resume applied history into index",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
