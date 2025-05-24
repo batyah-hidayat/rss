@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-23T01:39:40.003Z</id>
+    <id>urn:2025-05-24T01:35:56.453Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-23T01:39:40.003Z</updated>
+    <updated>2025-05-24T01:35:56.454Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -471,124 +471,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Merge branch 'staging' into 'production'
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/44" data-original="recommendation/service-recommendation!44" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40576" data-project-path="recommendation/service-recommendation" data-iid="44" data-mr-title="Merge branch 'staging' into 'production'" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!44</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'staging' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8a89b2920d4d4267954ab61551ff33f8f1fbf758</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8a89b2920d4d4267954ab61551ff33f8f1fbf758"/>
-        <updated>2025-04-24T09:13:50.000Z</updated>
-        <summary type="html"><![CDATA[Merge Staging into production
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/37" data-original="recommendation/service-recommendation!37" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40492" data-project-path="recommendation/service-recommendation" data-iid="37" data-mr-title="Merge Staging into production" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!37</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: adjust norm weight]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/266665059d20b2afac07a32a2fe5b359ea553460</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/266665059d20b2afac07a32a2fe5b359ea553460"/>
-        <updated>2025-04-24T09:02:32.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: remove fetchAppliedHistory in stat]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5280932a04d6fd74f865080b01854d95b510fecf</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5280932a04d6fd74f865080b01854d95b510fecf"/>
-        <updated>2025-04-24T07:57:28.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: resolve conflict]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/33077d13b770fc2e782050f98a0b79ef40e9a90b</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/33077d13b770fc2e782050f98a0b79ef40e9a90b"/>
-        <updated>2025-04-24T07:18:25.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: statistic endpoint]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58dfb4f71f96bdf1eab4bb2136586460cfd8cbb6</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58dfb4f71f96bdf1eab4bb2136586460cfd8cbb6"/>
-        <updated>2025-04-24T07:15:41.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: get occupation_id from cache table]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eba8c85cef76826df427f2f82eaca346d19292cd</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eba8c85cef76826df427f2f82eaca346d19292cd"/>
-        <updated>2025-04-24T07:14:13.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-297' into 'staging']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5a737541bd7d919b2eecb14db8ebcc371772f34e</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5a737541bd7d919b2eecb14db8ebcc371772f34e"/>
-        <updated>2025-04-24T07:11:45.000Z</updated>
-        <summary type="html"><![CDATA[feat: adjust salary matching
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/43" data-original="recommendation/service-recommendation!43" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40539" data-project-path="recommendation/service-recommendation" data-iid="43" data-mr-title="feat: adjust salary matching" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!43</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-298' into 'staging']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9222679a94ed87609f6b0c61f132caaa59957cdf</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9222679a94ed87609f6b0c61f132caaa59957cdf"/>
-        <updated>2025-04-24T07:09:58.000Z</updated>
-        <summary type="html"><![CDATA[feat: exclude resume by employer
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/42" data-original="recommendation/service-recommendation!42" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40538" data-project-path="recommendation/service-recommendation" data-iid="42" data-mr-title="feat: exclude resume by employer" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!42</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: exclude resume by employer]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/441d6436ab3422bbb2bb26e76e233748fe7d8730</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/441d6436ab3422bbb2bb26e76e233748fe7d8730"/>
-        <updated>2025-04-24T07:07:44.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-294' into 'staging']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8365f1b202ae3f2309d3c00535f15dddfe74b9d4</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8365f1b202ae3f2309d3c00535f15dddfe74b9d4"/>
-        <updated>2025-04-24T07:02:09.000Z</updated>
-        <summary type="html"><![CDATA[feat: remove worker
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/41" data-original="recommendation/service-recommendation!41" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40533" data-project-path="recommendation/service-recommendation" data-iid="41" data-mr-title="feat: remove worker" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!41</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: add negotiate salary]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7ebb26bc624b15d610edaae92fabef2a9f50023d</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7ebb26bc624b15d610edaae92fabef2a9f50023d"/>
-        <updated>2025-04-24T06:50:18.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
