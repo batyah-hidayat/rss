@@ -114,36 +114,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-313' into 'staging'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/68ca0edd96d25718a74ae41d2322cb2ca959c6f7",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/68ca0edd96d25718a74ae41d2322cb2ca959c6f7",
-          "publishedOn": "2025-04-28T10:13:48.000Z",
-          "wordCount": 1175,
-          "title": "feat: log error",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0448146224c7fffa63c4a7216b99332140df713d",
-          "author": null,
-          "description": "feat: caching for recommendation and statistic\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/53\" data-original=\"recommendation/service-recommendation!53\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40623\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"53\" data-mr-title=\"feat: caching for recommendation and statistic\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!53</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0448146224c7fffa63c4a7216b99332140df713d",
-          "publishedOn": "2025-04-28T04:36:43.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-309' into 'staging'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6ba6c89bdd1af950493aae41ff9a6673de7a577c",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6ba6c89bdd1af950493aae41ff9a6673de7a577c",
-          "publishedOn": "2025-04-28T04:31:11.000Z",
-          "wordCount": 1175,
-          "title": "feat: caching for recommendation and statistic",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -350,26 +320,6 @@
           "publishedOn": "2025-04-29T07:30:17.000Z",
           "wordCount": 1175,
           "title": "feat: handle error on rotate time",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8",
-          "author": null,
-          "description": "feat: remove RUnlock\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/35\" data-original=\"search-engine/service-search-engine!35\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40631\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"35\" data-mr-title=\"feat: remove RUnlock\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!35</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8",
-          "publishedOn": "2025-04-28T08:53:55.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-312' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638",
-          "publishedOn": "2025-04-28T08:12:34.000Z",
-          "wordCount": 1175,
-          "title": "feat: remove RUnlock",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-05-27T01:38:59.717Z</id>
+    <id>urn:2025-05-28T01:40:38.519Z</id>
     <title>osmos::feed</title>
-    <updated>2025-05-27T01:38:59.717Z</updated>
+    <updated>2025-05-28T01:40:38.519Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -343,60 +343,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: log error]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/68ca0edd96d25718a74ae41d2322cb2ca959c6f7</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/68ca0edd96d25718a74ae41d2322cb2ca959c6f7"/>
-        <updated>2025-04-28T10:13:48.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-312' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6cc988bd1bae2532aa4877e45ddc0bb183e17b8"/>
-        <updated>2025-04-28T08:53:55.000Z</updated>
-        <summary type="html"><![CDATA[feat: remove RUnlock
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/35" data-original="search-engine/service-search-engine!35" data-link="false" data-link-reference="false" data-project="313" data-merge-request="40631" data-project-path="search-engine/service-search-engine" data-iid="35" data-mr-title="feat: remove RUnlock" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!35</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: remove RUnlock]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4762b00fb589c6e66919ef3a2dd52225a167a638"/>
-        <updated>2025-04-28T08:12:34.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-309' into 'staging']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0448146224c7fffa63c4a7216b99332140df713d</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0448146224c7fffa63c4a7216b99332140df713d"/>
-        <updated>2025-04-28T04:36:43.000Z</updated>
-        <summary type="html"><![CDATA[feat: caching for recommendation and statistic
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/53" data-original="recommendation/service-recommendation!53" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40623" data-project-path="recommendation/service-recommendation" data-iid="53" data-mr-title="feat: caching for recommendation and statistic" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!53</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: caching for recommendation and statistic]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6ba6c89bdd1af950493aae41ff9a6673de7a577c</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6ba6c89bdd1af950493aae41ff9a6673de7a577c"/>
-        <updated>2025-04-28T04:31:11.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
