@@ -84,16 +84,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-315' into 'staging'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fbf5d48ec83061172e6d5a7fc2f5f0902ab209f8",
-          "author": null,
-          "description": "Merge Staging into Production\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/59\" data-original=\"recommendation/service-recommendation!59\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"40678\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"59\" data-mr-title=\"Merge Staging into Production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!59</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fbf5d48ec83061172e6d5a7fc2f5f0902ab209f8",
-          "publishedOn": "2025-05-06T09:19:09.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'staging' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
