@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-05T01:41:03.613Z</id>
+    <id>urn:2025-06-06T01:40:37.112Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-05T01:41:03.613Z</updated>
+    <updated>2025-06-06T01:40:37.112Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -313,30 +313,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'staging' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/725487aa0547ada36a48090fa71e588d11ac3491</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/725487aa0547ada36a48090fa71e588d11ac3491"/>
-        <updated>2025-05-07T09:27:21.000Z</updated>
-        <summary type="html"><![CDATA[feat: remove CV mismatch province_ids
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/65" data-original="recommendation/service-recommendation!65" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40771" data-project-path="recommendation/service-recommendation" data-iid="65" data-mr-title="feat: remove CV mismatch province_ids" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!65</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-315' into 'staging']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/50498c86322c9e8432da75dbdd1e1a19518b008b</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/50498c86322c9e8432da75dbdd1e1a19518b008b"/>
-        <updated>2025-05-07T08:00:25.000Z</updated>
-        <summary type="html"><![CDATA[feat: remove CV mismatch province_ids
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/64" data-original="recommendation/service-recommendation!64" data-link="false" data-link-reference="false" data-project="335" data-merge-request="40769" data-project-path="recommendation/service-recommendation" data-iid="64" data-mr-title="feat: remove CV mismatch province_ids" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!64</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
