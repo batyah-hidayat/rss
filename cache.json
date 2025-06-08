@@ -611,16 +611,6 @@
           "wordCount": 1175,
           "title": "feat: add pod into status",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb8d693643447a8938d94fa5463b862287b3f5ad",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb8d693643447a8938d94fa5463b862287b3f5ad",
-          "publishedOn": "2025-05-09T08:10:37.000Z",
-          "wordCount": 1175,
-          "title": "feat: log pod id",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

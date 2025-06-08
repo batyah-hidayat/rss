@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-07T01:39:59.347Z</id>
+    <id>urn:2025-06-08T01:49:13.365Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-07T01:39:59.347Z</updated>
+    <updated>2025-06-08T01:49:13.365Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -634,16 +634,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c"/>
         <updated>2025-05-12T03:46:53.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: log pod id]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb8d693643447a8938d94fa5463b862287b3f5ad</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cb8d693643447a8938d94fa5463b862287b3f5ad"/>
-        <updated>2025-05-09T08:10:37.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
