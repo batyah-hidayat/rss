@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f05f56ebf0efa06616fe173d880e2645b26a8c00",
+          "author": null,
+          "description": "fix xgboost model for notifications\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/94\" data-original=\"recommendation/service-recommendation!94\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41569\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"94\" data-mr-title=\"fix xgboost model for notifications\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!94</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f05f56ebf0efa06616fe173d880e2645b26a8c00",
+          "publishedOn": "2025-06-08T08:47:09.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'hotfix/xboost' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/211942029845c2bc01e46baa24cfb881ed00975e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/211942029845c2bc01e46baa24cfb881ed00975e",
+          "publishedOn": "2025-06-08T03:17:24.000Z",
+          "wordCount": 1175,
+          "title": "fix xgboost model for notifications",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8376aa536312307462e561986c8a89f2640eb898",
           "author": null,
           "description": "Merge Production v2 into Production\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/92\" data-original=\"recommendation/service-recommendation!92\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41547\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"92\" data-mr-title=\"Merge Production v2 into Production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!92</a>",
