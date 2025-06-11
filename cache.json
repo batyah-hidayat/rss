@@ -651,46 +651,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-327' into 'release/13-05-2025'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb695824ebd33161a006ccd1d0c74dd9aa115da",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb695824ebd33161a006ccd1d0c74dd9aa115da",
-          "publishedOn": "2025-05-12T08:53:10.000Z",
-          "wordCount": 1175,
-          "title": "feat: monthly freemium jp",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ac97fe3bc3b25eefd74a27b1f2e5c0f5949db6f8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ac97fe3bc3b25eefd74a27b1f2e5c0f5949db6f8",
-          "publishedOn": "2025-05-12T07:04:50.000Z",
-          "wordCount": 1175,
-          "title": "limitations for not paid sales jp",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6f0d843c32fc488a5c75e0804ffe60999c16b36e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6f0d843c32fc488a5c75e0804ffe60999c16b36e",
-          "publishedOn": "2025-05-12T06:53:41.000Z",
-          "wordCount": 1175,
-          "title": "feat: log timing",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c",
-          "publishedOn": "2025-05-12T03:46:53.000Z",
-          "wordCount": 1175,
-          "title": "feat: add pod into status",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

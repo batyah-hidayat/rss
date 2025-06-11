@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-10T01:43:18.654Z</id>
+    <id>urn:2025-06-11T01:42:54.474Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-10T01:43:18.654Z</updated>
+    <updated>2025-06-11T01:42:54.474Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -681,46 +681,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[feat: log timing
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/48" data-original="search-engine/service-search-engine!48" data-link="false" data-link-reference="false" data-project="313" data-merge-request="40931" data-project-path="search-engine/service-search-engine" data-iid="48" data-mr-title="feat: log timing" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!48</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: monthly freemium jp]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb695824ebd33161a006ccd1d0c74dd9aa115da</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb695824ebd33161a006ccd1d0c74dd9aa115da"/>
-        <updated>2025-05-12T08:53:10.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[limitations for not paid sales jp]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ac97fe3bc3b25eefd74a27b1f2e5c0f5949db6f8</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ac97fe3bc3b25eefd74a27b1f2e5c0f5949db6f8"/>
-        <updated>2025-05-12T07:04:50.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: log timing]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6f0d843c32fc488a5c75e0804ffe60999c16b36e</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6f0d843c32fc488a5c75e0804ffe60999c16b36e"/>
-        <updated>2025-05-12T06:53:41.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: add pod into status]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0b0332212ba49b48543fc33c924ac69b2467354c"/>
-        <updated>2025-05-12T03:46:53.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
