@@ -601,36 +601,6 @@
           "wordCount": 1175,
           "title": "fix: change logic for sale",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3dc04a440d78559d8415b494d46b95fb75292916",
-          "author": null,
-          "description": "feat: slow detetion\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/53\" data-original=\"search-engine/service-search-engine!53\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"40991\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"53\" data-mr-title=\"feat: slow detetion\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!53</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3dc04a440d78559d8415b494d46b95fb75292916",
-          "publishedOn": "2025-05-14T07:16:55.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-334' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7bca64de29525917f05339fb3b4e9d10894334e3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7bca64de29525917f05339fb3b4e9d10894334e3",
-          "publishedOn": "2025-05-14T06:48:56.000Z",
-          "wordCount": 1175,
-          "title": "feat: slow detetion",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/26228d74d85cfbbf295a00850b7d2579f07bef7a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/26228d74d85cfbbf295a00850b7d2579f07bef7a",
-          "publishedOn": "2025-05-14T02:14:05.000Z",
-          "wordCount": 1175,
-          "title": "Update README.md",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
