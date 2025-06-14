@@ -581,26 +581,6 @@
           "wordCount": 1175,
           "title": "feat: reduce ram",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484",
-          "author": null,
-          "description": "fix: change logic for sale\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/54\" data-original=\"search-engine/service-search-engine!54\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41042\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"54\" data-mr-title=\"fix: change logic for sale\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!54</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484",
-          "publishedOn": "2025-05-15T06:18:57.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-329' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c",
-          "publishedOn": "2025-05-15T06:10:07.000Z",
-          "wordCount": 1175,
-          "title": "fix: change logic for sale",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-13T01:42:33.520Z</id>
+    <id>urn:2025-06-14T01:39:06.919Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-13T01:42:33.520Z</updated>
+    <updated>2025-06-14T01:39:06.919Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -600,28 +600,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d46c05b85737592b4c6e24557cdb8ff0fbacbfac</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d46c05b85737592b4c6e24557cdb8ff0fbacbfac"/>
         <updated>2025-05-16T10:00:19.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-329' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b2b2e23236645f4b57cacfbd9c25e83dbdd8e484"/>
-        <updated>2025-05-15T06:18:57.000Z</updated>
-        <summary type="html"><![CDATA[fix: change logic for sale
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/54" data-original="search-engine/service-search-engine!54" data-link="false" data-link-reference="false" data-project="313" data-merge-request="41042" data-project-path="search-engine/service-search-engine" data-iid="54" data-mr-title="fix: change logic for sale" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!54</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix: change logic for sale]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39aa1ade70b056e9bb6f94c822affc7787a4081c"/>
-        <updated>2025-05-15T06:10:07.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
