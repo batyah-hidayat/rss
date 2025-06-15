@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-14T01:39:06.919Z</id>
+    <id>urn:2025-06-15T01:51:07.118Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-14T01:39:06.919Z</updated>
+    <updated>2025-06-15T01:51:07.118Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -591,16 +591,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Release: 19-05-2025
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/59" data-original="search-engine/service-search-engine!59" data-link="false" data-link-reference="false" data-project="313" data-merge-request="41136" data-project-path="search-engine/service-search-engine" data-iid="59" data-mr-title="Release: 19-05-2025" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!59</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: reduce ram]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d46c05b85737592b4c6e24557cdb8ff0fbacbfac</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d46c05b85737592b4c6e24557cdb8ff0fbacbfac"/>
-        <updated>2025-05-16T10:00:19.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>

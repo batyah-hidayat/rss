@@ -571,16 +571,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'release/19-05-2025' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d46c05b85737592b4c6e24557cdb8ff0fbacbfac",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d46c05b85737592b4c6e24557cdb8ff0fbacbfac",
-          "publishedOn": "2025-05-16T10:00:19.000Z",
-          "wordCount": 1175,
-          "title": "feat: reduce ram",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
