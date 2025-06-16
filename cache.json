@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/603cf354cff0526d1377df2eba4ecfc7d0baf3bc",
+          "author": null,
+          "description": "priority for new job post in nitification\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/103\" data-original=\"recommendation/service-recommendation!103\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41678\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"103\" data-mr-title=\"priority for new job post in nitification\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!103</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/603cf354cff0526d1377df2eba4ecfc7d0baf3bc",
+          "publishedOn": "2025-06-16T01:26:59.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/09-06-2025' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/966af5ac8959e3ecc36e1fdbe00ed30f1a189de3",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/966af5ac8959e3ecc36e1fdbe00ed30f1a189de3",
+          "publishedOn": "2025-06-16T01:20:20.000Z",
+          "wordCount": 1175,
+          "title": "priority for new job post in nitification",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/40b675d0be3eadeb23b8fa90f2145c63714a8ba5",
           "author": null,
           "description": "Release/09 06 2025\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/101\" data-original=\"recommendation/service-recommendation!101\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41590\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"101\" data-mr-title=\"Release/09 06 2025\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!101</a>",
