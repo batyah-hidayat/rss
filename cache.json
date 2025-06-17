@@ -323,6 +323,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/89c51b0b1185328f99a0c7accd352cb1e69ef24f",
+          "author": null,
+          "description": "Feat/ise 322\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/86\" data-original=\"search-engine/service-search-engine!86\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41709\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"86\" data-mr-title=\"Feat/ise 322\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!86</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/89c51b0b1185328f99a0c7accd352cb1e69ef24f",
+          "publishedOn": "2025-06-16T08:40:50.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-322' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/918000ab9bb497e5b44be3e75ffe36a68a4f2cce",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/918000ab9bb497e5b44be3e75ffe36a68a4f2cce",
+          "publishedOn": "2025-06-16T06:00:51.000Z",
+          "wordCount": 1175,
+          "title": "use occupation match disable limitations",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bb758f0bb824df2b96b9f5d92f8ee567cbd21e7a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bb758f0bb824df2b96b9f5d92f8ee567cbd21e7a",
+          "publishedOn": "2025-06-12T01:53:54.000Z",
+          "wordCount": 1175,
+          "title": "use occupation match in formula",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/de76a973c43dedbcb917a00c21d3c2f905bf0a23",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/de76a973c43dedbcb917a00c21d3c2f905bf0a23",
+          "publishedOn": "2025-06-11T08:38:24.000Z",
+          "wordCount": 1175,
+          "title": "use manual formula",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6bb4232e988146bfd54b37f1d6ef8e5f6828b596",
           "author": null,
           "description": "Feat/ise 352\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/84\" data-original=\"search-engine/service-search-engine!84\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41622\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"84\" data-mr-title=\"Feat/ise 352\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!84</a>",
@@ -520,6 +560,16 @@
           "publishedOn": "2025-06-03T06:11:52.000Z",
           "wordCount": 1175,
           "title": "feat: debug for premium service code",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/65d1d4e617a1b51b6c2367aa53795a44a36ec06a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/65d1d4e617a1b51b6c2367aa53795a44a36ec06a",
+          "publishedOn": "2025-05-30T03:31:08.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'production' into feat/ise-322",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
