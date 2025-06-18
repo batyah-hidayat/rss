@@ -323,6 +323,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/de3b06b9ccc7f9782d2fb7ac0f04a19dd2ffc4d8",
+          "author": null,
+          "description": "fix for A version update occupation matching disabe fix paid web\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/90\" data-original=\"search-engine/service-search-engine!90\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41722\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"90\" data-mr-title=\"fix for A version update occupation matching disabe fix paid web\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!90</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/de3b06b9ccc7f9782d2fb7ac0f04a19dd2ffc4d8",
+          "publishedOn": "2025-06-17T03:43:31.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-322' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/19a7cc6f0b15e6ed5fd72c7dd259ec391d0d54e4",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/19a7cc6f0b15e6ed5fd72c7dd259ec391d0d54e4",
+          "publishedOn": "2025-06-17T03:20:19.000Z",
+          "wordCount": 1175,
+          "title": "fix for A version update occupation matching disabe fix paid web",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9b9a4c6c1d99792dbdd7e75486c5e996062c7d0d",
+          "author": null,
+          "description": "update occupation matching disabe fix paid web\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/88\" data-original=\"search-engine/service-search-engine!88\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41720\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"88\" data-mr-title=\"update occupation matching disabe fix paid web\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!88</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9b9a4c6c1d99792dbdd7e75486c5e996062c7d0d",
+          "publishedOn": "2025-06-17T02:57:21.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-322' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/da57dba172580269e45aa42c7db905f14483be65",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/da57dba172580269e45aa42c7db905f14483be65",
+          "publishedOn": "2025-06-17T02:52:18.000Z",
+          "wordCount": 1175,
+          "title": "update occupation matching disabe fix paid web",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/89c51b0b1185328f99a0c7accd352cb1e69ef24f",
           "author": null,
           "description": "Feat/ise 322\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/86\" data-original=\"search-engine/service-search-engine!86\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41709\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"86\" data-mr-title=\"Feat/ise 322\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!86</a>",
@@ -630,16 +670,6 @@
           "publishedOn": "2025-05-26T07:19:34.000Z",
           "wordCount": 1175,
           "title": "feat: incrementail load of jobpost",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/50c042250988c37f7c00869848d2beb71a578802",
-          "author": null,
-          "description": "Release: 19-05-2025\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/59\" data-original=\"search-engine/service-search-engine!59\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41136\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"59\" data-mr-title=\"Release: 19-05-2025\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!59</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/50c042250988c37f7c00869848d2beb71a578802",
-          "publishedOn": "2025-05-19T07:28:32.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/19-05-2025' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
