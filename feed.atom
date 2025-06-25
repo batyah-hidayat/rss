@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-06-24T01:43:28.519Z</id>
+    <id>urn:2025-06-25T01:43:57.726Z</id>
     <title>osmos::feed</title>
-    <updated>2025-06-24T01:43:28.519Z</updated>
+    <updated>2025-06-25T01:43:57.726Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'release/2025-06-24' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ffd276489281c9a7c48a3e3e8d8e842e2e506399</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ffd276489281c9a7c48a3e3e8d8e842e2e506399"/>
+        <updated>2025-06-24T09:07:10.000Z</updated>
+        <summary type="html"><![CDATA[feat: parse datetime from jobpost json
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/115" data-original="recommendation/service-recommendation!115" data-link="false" data-link-reference="false" data-project="335" data-merge-request="41910" data-project-path="recommendation/service-recommendation" data-iid="115" data-mr-title="feat: parse datetime from jobpost json" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!115</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: parse datetime from jobpost json]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/464bfa16d311576bd23150be170e4bdb8655cc13</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/464bfa16d311576bd23150be170e4bdb8655cc13"/>
+        <updated>2025-06-23T08:40:56.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'release/2025-06-20' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9e135c3ddbb133a2e40eb6ee085328a8eeae2fc4</id>
