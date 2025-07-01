@@ -6,6 +6,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/821ee4d3f7d4db6c40ecd6b97d4df7149c1c3805",
+          "author": null,
+          "description": "Release: 2025 06 30\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/125\" data-original=\"recommendation/service-recommendation!125\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42061\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"125\" data-mr-title=\"Release: 2025 06 30\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!125</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/821ee4d3f7d4db6c40ecd6b97d4df7149c1c3805",
+          "publishedOn": "2025-06-30T06:58:57.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/2025-06-30' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7149c57bb6f685ebc04236ae087eef135889ecc5",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7149c57bb6f685ebc04236ae087eef135889ecc5",
+          "publishedOn": "2025-06-30T06:56:29.000Z",
+          "wordCount": 1175,
+          "title": "feat: enable send job alert",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/831fd5290cac30a447e505d001e7717c7288548e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/831fd5290cac30a447e505d001e7717c7288548e",
+          "publishedOn": "2025-06-30T03:20:02.000Z",
+          "wordCount": 1175,
+          "title": "feat: increase threshold to 60k",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ec395dc18a5c0ccb2981904e27a22097436fe74",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ec395dc18a5c0ccb2981904e27a22097436fe74",
+          "publishedOn": "2025-06-27T08:01:27.000Z",
+          "wordCount": 1175,
+          "title": "feat: disable new filter and add view-based",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/326327357c69ce44e2c59ac0baad50fc5aa66c3a",
           "author": null,
           "description": "feat: remove fix urgent position\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/122\" data-original=\"recommendation/service-recommendation!122\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41976\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"122\" data-mr-title=\"feat: remove fix urgent position\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!122</a>",
@@ -363,16 +403,6 @@
           "publishedOn": "2025-06-03T09:01:40.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'job-rotate' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2b6f6c7b1b6b63ced41b1bd5d99b3a31fd1b49d4",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2b6f6c7b1b6b63ced41b1bd5d99b3a31fd1b49d4",
-          "publishedOn": "2025-06-03T09:00:18.000Z",
-          "wordCount": 1175,
-          "title": "rotation by views",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
