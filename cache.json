@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4b8e7bbd3c069d0599d754a8990b1af4270c4e8c",
+          "author": null,
+          "description": "fix: potential panic\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/126\" data-original=\"recommendation/service-recommendation!126\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42126\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"126\" data-mr-title=\"fix: potential panic\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!126</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4b8e7bbd3c069d0599d754a8990b1af4270c4e8c",
+          "publishedOn": "2025-07-02T07:42:29.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'fix/ise-377' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/359cc87de8be6460dd16ebdb4662d39dd77da3c9",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/359cc87de8be6460dd16ebdb4662d39dd77da3c9",
+          "publishedOn": "2025-07-02T03:47:57.000Z",
+          "wordCount": 1175,
+          "title": "feat: log stderr into file",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/122b42e099dd75a0fe5fcb97da60b4a828363559",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/122b42e099dd75a0fe5fcb97da60b4a828363559",
+          "publishedOn": "2025-07-02T02:12:56.000Z",
+          "wordCount": 1175,
+          "title": "fix: potential panic",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/821ee4d3f7d4db6c40ecd6b97d4df7149c1c3805",
           "author": null,
           "description": "Release: 2025 06 30\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/125\" data-original=\"recommendation/service-recommendation!125\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42061\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"125\" data-mr-title=\"Release: 2025 06 30\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!125</a>",
@@ -374,36 +404,6 @@
           "wordCount": 1175,
           "title": "fix xgboost model for notifications",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8376aa536312307462e561986c8a89f2640eb898",
-          "author": null,
-          "description": "Merge Production v2 into Production\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/92\" data-original=\"recommendation/service-recommendation!92\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41547\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"92\" data-mr-title=\"Merge Production v2 into Production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!92</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8376aa536312307462e561986c8a89f2640eb898",
-          "publishedOn": "2025-06-06T08:01:12.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'production-v2' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e592911cd6760d0a7c240ee363e93ce44a8d2dad",
-          "author": null,
-          "description": "feat: log file for notification\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/91\" data-original=\"recommendation/service-recommendation!91\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41546\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"91\" data-mr-title=\"feat: log file for notification\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!91</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e592911cd6760d0a7c240ee363e93ce44a8d2dad",
-          "publishedOn": "2025-06-06T07:59:31.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-356' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a80a0ea5997c815d20adc1c1d16adde8c451d78d",
-          "author": null,
-          "description": "rotation by views\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/89\" data-original=\"recommendation/service-recommendation!89\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41446\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"89\" data-mr-title=\"rotation by views\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!89</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a80a0ea5997c815d20adc1c1d16adde8c451d78d",
-          "publishedOn": "2025-06-03T09:01:40.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'job-rotate' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -412,6 +412,26 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/57cc3370efbdb7497527171fe18cf85824b7844b",
+          "author": null,
+          "description": "fix: add stderr into log file\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/110\" data-original=\"search-engine/service-search-engine!110\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42158\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"110\" data-mr-title=\"fix: add stderr into log file\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!110</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/57cc3370efbdb7497527171fe18cf85824b7844b",
+          "publishedOn": "2025-07-02T08:52:00.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'fix/stderr-into-log-file' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0cecda3cedd2611e7fde5753d96d455f7c58a3da",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0cecda3cedd2611e7fde5753d96d455f7c58a3da",
+          "publishedOn": "2025-07-02T06:49:07.000Z",
+          "wordCount": 1175,
+          "title": "fix: add stderr into log file",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e949ad78536e5555b58be8c9ce50e662c164d114",
           "author": null,
@@ -790,26 +810,6 @@
           "publishedOn": "2025-06-17T03:20:19.000Z",
           "wordCount": 1175,
           "title": "fix for A version update occupation matching disabe fix paid web",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9b9a4c6c1d99792dbdd7e75486c5e996062c7d0d",
-          "author": null,
-          "description": "update occupation matching disabe fix paid web\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/88\" data-original=\"search-engine/service-search-engine!88\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41720\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"88\" data-mr-title=\"update occupation matching disabe fix paid web\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!88</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9b9a4c6c1d99792dbdd7e75486c5e996062c7d0d",
-          "publishedOn": "2025-06-17T02:57:21.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-322' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/da57dba172580269e45aa42c7db905f14483be65",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/da57dba172580269e45aa42c7db905f14483be65",
-          "publishedOn": "2025-06-17T02:52:18.000Z",
-          "wordCount": 1175,
-          "title": "update occupation matching disabe fix paid web",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
