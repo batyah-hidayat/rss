@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c266207fef1ae6c35d9f45b3a97dc279a71a892f",
+          "author": null,
+          "description": "fix: expire only yesterday job\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/130\" data-original=\"recommendation/service-recommendation!130\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42185\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"130\" data-mr-title=\"fix: expire only yesterday job\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!130</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c266207fef1ae6c35d9f45b3a97dc279a71a892f",
+          "publishedOn": "2025-07-03T09:21:04.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'fix/ise-373' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d4ef634b81782a3cb28d6cc9b5508623fb17cd23",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d4ef634b81782a3cb28d6cc9b5508623fb17cd23",
+          "publishedOn": "2025-07-03T06:58:33.000Z",
+          "wordCount": 1175,
+          "title": "fix: expire only yesterday job",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4b8e7bbd3c069d0599d754a8990b1af4270c4e8c",
           "author": null,
           "description": "fix: potential panic\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/126\" data-original=\"recommendation/service-recommendation!126\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42126\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"126\" data-mr-title=\"fix: potential panic\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!126</a>",
@@ -383,26 +403,6 @@
           "publishedOn": "2025-06-09T05:39:29.000Z",
           "wordCount": 1175,
           "title": "change check for new job post",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f05f56ebf0efa06616fe173d880e2645b26a8c00",
-          "author": null,
-          "description": "fix xgboost model for notifications\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/94\" data-original=\"recommendation/service-recommendation!94\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41569\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"94\" data-mr-title=\"fix xgboost model for notifications\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!94</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f05f56ebf0efa06616fe173d880e2645b26a8c00",
-          "publishedOn": "2025-06-08T08:47:09.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'hotfix/xboost' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/211942029845c2bc01e46baa24cfb881ed00975e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/211942029845c2bc01e46baa24cfb881ed00975e",
-          "publishedOn": "2025-06-08T03:17:24.000Z",
-          "wordCount": 1175,
-          "title": "fix xgboost model for notifications",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

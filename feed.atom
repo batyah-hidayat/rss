@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-03T01:43:40.733Z</id>
+    <id>urn:2025-07-04T01:43:12.768Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-03T01:43:40.733Z</updated>
+    <updated>2025-07-04T01:43:12.768Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'fix/ise-373' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c266207fef1ae6c35d9f45b3a97dc279a71a892f</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c266207fef1ae6c35d9f45b3a97dc279a71a892f"/>
+        <updated>2025-07-03T09:21:04.000Z</updated>
+        <summary type="html"><![CDATA[fix: expire only yesterday job
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/130" data-original="recommendation/service-recommendation!130" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42185" data-project-path="recommendation/service-recommendation" data-iid="130" data-mr-title="fix: expire only yesterday job" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!130</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix: expire only yesterday job]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d4ef634b81782a3cb28d6cc9b5508623fb17cd23</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d4ef634b81782a3cb28d6cc9b5508623fb17cd23"/>
+        <updated>2025-07-03T06:58:33.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'fix/stderr-into-log-file' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/57cc3370efbdb7497527171fe18cf85824b7844b</id>
@@ -840,28 +862,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a7e6040af371244471d2544f3459e528d58a9ac7</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a7e6040af371244471d2544f3459e528d58a9ac7"/>
         <updated>2025-06-09T05:39:29.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'hotfix/xboost' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f05f56ebf0efa06616fe173d880e2645b26a8c00</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f05f56ebf0efa06616fe173d880e2645b26a8c00"/>
-        <updated>2025-06-08T08:47:09.000Z</updated>
-        <summary type="html"><![CDATA[fix xgboost model for notifications
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/94" data-original="recommendation/service-recommendation!94" data-link="false" data-link-reference="false" data-project="335" data-merge-request="41569" data-project-path="recommendation/service-recommendation" data-iid="94" data-mr-title="fix xgboost model for notifications" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!94</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix xgboost model for notifications]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/211942029845c2bc01e46baa24cfb881ed00975e</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/211942029845c2bc01e46baa24cfb881ed00975e"/>
-        <updated>2025-06-08T03:17:24.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
