@@ -6,6 +6,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/deabc65c20d3f934687d3a3b15090c958fa07b1f",
+          "author": null,
+          "description": "Release/2025 07 14\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/136\" data-original=\"recommendation/service-recommendation!136\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42313\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"136\" data-mr-title=\"Release/2025 07 14\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!136</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/deabc65c20d3f934687d3a3b15090c958fa07b1f",
+          "publishedOn": "2025-07-14T07:58:44.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/2025-07-14' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4f39e2e42af275abbbb6823252d9d377bfc8136a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4f39e2e42af275abbbb6823252d9d377bfc8136a",
+          "publishedOn": "2025-07-14T06:21:32.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/2025-07-09' into release/2025-07-14",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e58407d29a44d6d9290f52e19bbb46ca34e2db9c",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e58407d29a44d6d9290f52e19bbb46ca34e2db9c",
+          "publishedOn": "2025-07-14T03:31:49.000Z",
+          "wordCount": 1175,
+          "title": "add debug print for similar job search",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2a4b737ee8579f47a096c122ad1ff092ddb23ee5",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2a4b737ee8579f47a096c122ad1ff092ddb23ee5",
+          "publishedOn": "2025-07-09T07:39:40.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-351' into feat/ise-382",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9155fa8f649c4db8a6e8b044369ca95f08e84122",
           "author": null,
           "description": "Release: 2025-07-04\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/132\" data-original=\"recommendation/service-recommendation!132\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42201\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"132\" data-mr-title=\"Release: 2025-07-04\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!132</a>",
@@ -133,6 +173,36 @@
           "publishedOn": "2025-06-26T08:37:57.000Z",
           "wordCount": 1175,
           "title": "feat: remove fix urgent position",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a9c84a08de47adaffad3457819311add00e4d2b0",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a9c84a08de47adaffad3457819311add00e4d2b0",
+          "publishedOn": "2025-06-26T04:43:54.000Z",
+          "wordCount": 1175,
+          "title": "add cache ab version and smilar job",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1878921dcb614c0657ce453f548001a888a53aea",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1878921dcb614c0657ce453f548001a888a53aea",
+          "publishedOn": "2025-06-26T03:08:40.000Z",
+          "wordCount": 1175,
+          "title": "similar job_id support",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f975db80f13fd61d67c7ae0d4ee65cd7994e269d",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f975db80f13fd61d67c7ae0d4ee65cd7994e269d",
+          "publishedOn": "2025-06-26T03:07:12.000Z",
+          "wordCount": 1175,
+          "title": "similar job_id support",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
@@ -333,36 +403,6 @@
           "publishedOn": "2025-06-18T09:20:45.000Z",
           "wordCount": 1175,
           "title": "feat: combine make and send",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a11ad215ad747ebb1c68d7cd1b1a954b3f72440",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a11ad215ad747ebb1c68d7cd1b1a954b3f72440",
-          "publishedOn": "2025-06-18T09:19:22.000Z",
-          "wordCount": 1175,
-          "title": "feat: update noti logic",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/603cf354cff0526d1377df2eba4ecfc7d0baf3bc",
-          "author": null,
-          "description": "priority for new job post in nitification\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/103\" data-original=\"recommendation/service-recommendation!103\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41678\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"103\" data-mr-title=\"priority for new job post in nitification\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!103</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/603cf354cff0526d1377df2eba4ecfc7d0baf3bc",
-          "publishedOn": "2025-06-16T01:26:59.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/09-06-2025' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/966af5ac8959e3ecc36e1fdbe00ed30f1a189de3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/966af5ac8959e3ecc36e1fdbe00ed30f1a189de3",
-          "publishedOn": "2025-06-16T01:20:20.000Z",
-          "wordCount": 1175,
-          "title": "priority for new job post in nitification",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
