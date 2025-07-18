@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cb9f1151ca6c7555bfd035cac9c04e36fcc547e",
+          "author": null,
+          "description": "fix: hotfix for total page\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/137\" data-original=\"recommendation/service-recommendation!137\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42382\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"137\" data-mr-title=\"fix: hotfix for total page\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!137</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cb9f1151ca6c7555bfd035cac9c04e36fcc547e",
+          "publishedOn": "2025-07-17T03:10:47.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'fix/notification-endpoint' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a9dbc04687085e2bfcfa3c8f4bbae52f707a9b2",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a9dbc04687085e2bfcfa3c8f4bbae52f707a9b2",
+          "publishedOn": "2025-07-17T03:07:44.000Z",
+          "wordCount": 1175,
+          "title": "fix: hotfix for total page",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/deabc65c20d3f934687d3a3b15090c958fa07b1f",
           "author": null,
           "description": "Release/2025 07 14\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/136\" data-original=\"recommendation/service-recommendation!136\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42313\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"136\" data-mr-title=\"Release/2025 07 14\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!136</a>",
@@ -383,26 +403,6 @@
           "publishedOn": "2025-06-19T04:15:30.000Z",
           "wordCount": 1175,
           "title": "feat: compare same day with timezone",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47941a61bcc8275773a296fc97ba3091ac11ffa6",
-          "author": null,
-          "description": "Release: 2025-06-18\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/105\" data-original=\"recommendation/service-recommendation!105\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41785\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"105\" data-mr-title=\"Release: 2025-06-18\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!105</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47941a61bcc8275773a296fc97ba3091ac11ffa6",
-          "publishedOn": "2025-06-18T09:46:17.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-06-18' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7168f0cd18a3d2b4ca227c8d839be3b633d8c898",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7168f0cd18a3d2b4ca227c8d839be3b633d8c898",
-          "publishedOn": "2025-06-18T09:20:45.000Z",
-          "wordCount": 1175,
-          "title": "feat: combine make and send",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-17T01:49:16.234Z</id>
+    <id>urn:2025-07-18T01:50:39.880Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-17T01:49:16.234Z</updated>
+    <updated>2025-07-18T01:50:39.880Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'fix/notification-endpoint' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cb9f1151ca6c7555bfd035cac9c04e36fcc547e</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cb9f1151ca6c7555bfd035cac9c04e36fcc547e"/>
+        <updated>2025-07-17T03:10:47.000Z</updated>
+        <summary type="html"><![CDATA[fix: hotfix for total page
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/137" data-original="recommendation/service-recommendation!137" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42382" data-project-path="recommendation/service-recommendation" data-iid="137" data-mr-title="fix: hotfix for total page" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!137</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix: hotfix for total page]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a9dbc04687085e2bfcfa3c8f4bbae52f707a9b2</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a9dbc04687085e2bfcfa3c8f4bbae52f707a9b2"/>
+        <updated>2025-07-17T03:07:44.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'production-v2' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46bd7489f1a3a2628dbbf07fb749b31026d3e1e6</id>
@@ -836,28 +858,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b1ff925f190166020e291146ce9ee11379a2d623</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b1ff925f190166020e291146ce9ee11379a2d623"/>
         <updated>2025-06-19T04:15:30.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'release/2025-06-18' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47941a61bcc8275773a296fc97ba3091ac11ffa6</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/47941a61bcc8275773a296fc97ba3091ac11ffa6"/>
-        <updated>2025-06-18T09:46:17.000Z</updated>
-        <summary type="html"><![CDATA[Release: 2025-06-18
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/105" data-original="recommendation/service-recommendation!105" data-link="false" data-link-reference="false" data-project="335" data-merge-request="41785" data-project-path="recommendation/service-recommendation" data-iid="105" data-mr-title="Release: 2025-06-18" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!105</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: combine make and send]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7168f0cd18a3d2b4ca227c8d839be3b633d8c898</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7168f0cd18a3d2b4ca227c8d839be3b633d8c898"/>
-        <updated>2025-06-18T09:20:45.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
