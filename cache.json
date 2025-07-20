@@ -354,36 +354,6 @@
           "wordCount": 1175,
           "title": "feat: parse datetime from jobpost json",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9e135c3ddbb133a2e40eb6ee085328a8eeae2fc4",
-          "author": null,
-          "description": "Release: 2025-06-20\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/107\" data-original=\"recommendation/service-recommendation!107\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"41850\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"107\" data-mr-title=\"Release: 2025-06-20\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!107</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9e135c3ddbb133a2e40eb6ee085328a8eeae2fc4",
-          "publishedOn": "2025-06-20T08:32:02.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-06-20' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6001611ddc937bb98270cfc1623fed9a6a9a58ec",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6001611ddc937bb98270cfc1623fed9a6a9a58ec",
-          "publishedOn": "2025-06-19T23:44:01.000Z",
-          "wordCount": 1175,
-          "title": "feat: seperate search api",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/88924046e2e62250296888d713bcd80e57debdd3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/88924046e2e62250296888d713bcd80e57debdd3",
-          "publishedOn": "2025-06-19T23:16:12.000Z",
-          "wordCount": 1175,
-          "title": "feat: change to vn time",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -770,26 +740,6 @@
           "publishedOn": "2025-06-23T01:33:39.000Z",
           "wordCount": 1175,
           "title": "load user profime and match province",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e38243b18c656dc108fafbfcf94415b6fd2ffbfb",
-          "author": null,
-          "description": "add deviceId to cache key\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/97\" data-original=\"search-engine/service-search-engine!97\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"41847\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"97\" data-mr-title=\"add deviceId to cache key\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!97</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e38243b18c656dc108fafbfcf94415b6fd2ffbfb",
-          "publishedOn": "2025-06-20T06:25:05.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-379' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/52982df4c81bd3f16fa9ab71de61db3b5284d40d",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/52982df4c81bd3f16fa9ab71de61db3b5284d40d",
-          "publishedOn": "2025-06-20T06:22:24.000Z",
-          "wordCount": 1175,
-          "title": "add deviceId to cache key",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
