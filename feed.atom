@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-23T01:50:35.130Z</id>
+    <id>urn:2025-07-24T01:49:38.424Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-23T01:50:35.130Z</updated>
+    <updated>2025-07-24T01:49:38.424Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-413' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/06965012ab00d0edc57bd6b01b924aed0601d990</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/06965012ab00d0edc57bd6b01b924aed0601d990"/>
+        <updated>2025-07-23T07:55:25.000Z</updated>
+        <summary type="html"><![CDATA[feat: add similar_job_id into cache key
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/146" data-original="recommendation/service-recommendation!146" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42502" data-project-path="recommendation/service-recommendation" data-iid="146" data-mr-title="feat: add similar_job_id into cache key" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!146</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add similar_job_id into cache key]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/df02a55b1ebc88cfeb3f7b9ae68173b3d420e759</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/df02a55b1ebc88cfeb3f7b9ae68173b3d420e759"/>
+        <updated>2025-07-23T07:53:26.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-406' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/768b802dec8aa96532ef998c81c8afd25f535864</id>
@@ -754,16 +776,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[feat: change search alert to internal]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/03a71b9bee649c91f65abcf7db3825f07ccd4159</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/03a71b9bee649c91f65abcf7db3825f07ccd4159"/>
-        <updated>2025-06-25T04:32:31.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Merge branch 'release/2025-06-25' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7a4f2a6b4151743cd9727cb55b0fd0a850b7480a</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7a4f2a6b4151743cd9727cb55b0fd0a850b7480a"/>
@@ -786,18 +798,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Merge branch 'release/2025-06-25' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/67b874f1f3e080de9e04653fd9cf9fbc8d45db95</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/67b874f1f3e080de9e04653fd9cf9fbc8d45db95"/>
-        <updated>2025-06-25T02:52:53.000Z</updated>
-        <summary type="html"><![CDATA[feat: change send job alert to 10
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/118" data-original="recommendation/service-recommendation!118" data-link="false" data-link-reference="false" data-project="335" data-merge-request="41921" data-project-path="recommendation/service-recommendation" data-iid="118" data-mr-title="feat: change send job alert to 10" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!118</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Merge branch 'release/2025-06-24' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a4b73ad91e5ea87bcaf209b8da4c95092fa1caae</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a4b73ad91e5ea87bcaf209b8da4c95092fa1caae"/>
@@ -805,26 +805,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Release: 2025 06 24
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/99" data-original="search-engine/service-search-engine!99" data-link="false" data-link-reference="false" data-project="313" data-merge-request="41918" data-project-path="search-engine/service-search-engine" data-iid="99" data-mr-title="Release: 2025 06 24" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!99</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: add filter by actived at from dt]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fec2aad13a2e98231f36425a21d77dbc76939c97</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fec2aad13a2e98231f36425a21d77dbc76939c97"/>
-        <updated>2025-06-24T08:59:46.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: parse datetime from jobpost json]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d15beb7d0cfd786034be30febdbb4ff44341d4e</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d15beb7d0cfd786034be30febdbb4ff44341d4e"/>
-        <updated>2025-06-24T02:54:07.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
