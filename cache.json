@@ -304,16 +304,6 @@
           "wordCount": 1175,
           "title": "feat: increase threshold to 60k",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ec395dc18a5c0ccb2981904e27a22097436fe74",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ec395dc18a5c0ccb2981904e27a22097436fe74",
-          "publishedOn": "2025-06-27T08:01:27.000Z",
-          "wordCount": 1175,
-          "title": "feat: disable new filter and add view-based",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
