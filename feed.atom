@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-29T02:02:10.873Z</id>
+    <id>urn:2025-07-30T01:52:19.676Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-29T02:02:10.873Z</updated>
+    <updated>2025-07-30T01:52:19.676Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -463,58 +463,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[This reverts commit <a href="/search-engine/service-search-engine/-/commit/52c17f2f68128facc91142020d283edab2a514bc" data-original="52c17f2f68128facc91142020d283edab2a514bc" data-link="false" data-link-reference="false" data-project="313" data-commit="52c17f2f68128facc91142020d283edab2a514bc" data-reference-type="commit" data-container="body" data-placement="top" title='Revert "feat: remove stop word and update default doc"' class="gfm gfm-commit has-tooltip">52c17f2f</a>.]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'release/2025-06-30' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/821ee4d3f7d4db6c40ecd6b97d4df7149c1c3805</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/821ee4d3f7d4db6c40ecd6b97d4df7149c1c3805"/>
-        <updated>2025-06-30T06:58:57.000Z</updated>
-        <summary type="html"><![CDATA[Release: 2025 06 30
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/125" data-original="recommendation/service-recommendation!125" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42061" data-project-path="recommendation/service-recommendation" data-iid="125" data-mr-title="Release: 2025 06 30" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!125</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: enable send job alert]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7149c57bb6f685ebc04236ae087eef135889ecc5</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7149c57bb6f685ebc04236ae087eef135889ecc5"/>
-        <updated>2025-06-30T06:56:29.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revert "feat: remove stop word and update default doc"]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/52c17f2f68128facc91142020d283edab2a514bc</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/52c17f2f68128facc91142020d283edab2a514bc"/>
-        <updated>2025-06-30T06:15:51.000Z</updated>
-        <summary type="html"><![CDATA[This reverts commit <a href="/search-engine/service-search-engine/-/commit/183441ee6fd91246a849efeae43930c47fdb501d" data-original="183441ee6fd91246a849efeae43930c47fdb501d" data-link="false" data-link-reference="false" data-project="313" data-commit="183441ee6fd91246a849efeae43930c47fdb501d" data-reference-type="commit" data-container="body" data-placement="top" title="feat: remove stop word and update default doc" class="gfm gfm-commit has-tooltip">183441ee</a>.]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new job bost incarese paid premium]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7dfea2603c15875f6b6e8331bb72e92643a60c88</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7dfea2603c15875f6b6e8331bb72e92643a60c88"/>
-        <updated>2025-06-30T05:54:48.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: increase threshold to 60k]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/831fd5290cac30a447e505d001e7717c7288548e</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/831fd5290cac30a447e505d001e7717c7288548e"/>
-        <updated>2025-06-30T03:20:02.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>

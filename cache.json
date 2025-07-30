@@ -274,36 +274,6 @@
           "wordCount": 1175,
           "title": "fix: potential panic",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/821ee4d3f7d4db6c40ecd6b97d4df7149c1c3805",
-          "author": null,
-          "description": "Release: 2025 06 30\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/125\" data-original=\"recommendation/service-recommendation!125\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42061\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"125\" data-mr-title=\"Release: 2025 06 30\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!125</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/821ee4d3f7d4db6c40ecd6b97d4df7149c1c3805",
-          "publishedOn": "2025-06-30T06:58:57.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-06-30' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7149c57bb6f685ebc04236ae087eef135889ecc5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7149c57bb6f685ebc04236ae087eef135889ecc5",
-          "publishedOn": "2025-06-30T06:56:29.000Z",
-          "wordCount": 1175,
-          "title": "feat: enable send job alert",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/831fd5290cac30a447e505d001e7717c7288548e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/831fd5290cac30a447e505d001e7717c7288548e",
-          "publishedOn": "2025-06-30T03:20:02.000Z",
-          "wordCount": 1175,
-          "title": "feat: increase threshold to 60k",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -470,26 +440,6 @@
           "publishedOn": "2025-07-01T02:09:37.000Z",
           "wordCount": 1175,
           "title": "Reapply \"feat: remove stop word and update default doc\"",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/52c17f2f68128facc91142020d283edab2a514bc",
-          "author": null,
-          "description": "This reverts commit <a href=\"/search-engine/service-search-engine/-/commit/183441ee6fd91246a849efeae43930c47fdb501d\" data-original=\"183441ee6fd91246a849efeae43930c47fdb501d\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-commit=\"183441ee6fd91246a849efeae43930c47fdb501d\" data-reference-type=\"commit\" data-container=\"body\" data-placement=\"top\" title=\"feat: remove stop word and update default doc\" class=\"gfm gfm-commit has-tooltip\">183441ee</a>.",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/52c17f2f68128facc91142020d283edab2a514bc",
-          "publishedOn": "2025-06-30T06:15:51.000Z",
-          "wordCount": 1175,
-          "title": "Revert \"feat: remove stop word and update default doc\"",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7dfea2603c15875f6b6e8331bb72e92643a60c88",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7dfea2603c15875f6b6e8331bb72e92643a60c88",
-          "publishedOn": "2025-06-30T05:54:48.000Z",
-          "wordCount": 1175,
-          "title": "new job bost incarese paid premium",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
