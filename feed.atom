@@ -1,10 +1,76 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-07-30T01:52:19.676Z</id>
+    <id>urn:2025-07-31T01:51:56.325Z</id>
     <title>osmos::feed</title>
-    <updated>2025-07-30T01:52:19.676Z</updated>
+    <updated>2025-07-31T01:51:56.325Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-421' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cf5e1b461c7eb12663a1439d5e99f6faa21e038</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cf5e1b461c7eb12663a1439d5e99f6faa21e038"/>
+        <updated>2025-07-30T10:24:23.000Z</updated>
+        <summary type="html"><![CDATA[fix similar job with empty seeker view history
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/152" data-original="recommendation/service-recommendation!152" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42642" data-project-path="recommendation/service-recommendation" data-iid="152" data-mr-title="fix similar job with empty seeker view history" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!152</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix similar job with empty seeker view history]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1d1ae5b2a9180b59194c8ad2e8ffe16a3c9e60ad</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1d1ae5b2a9180b59194c8ad2e8ffe16a3c9e60ad"/>
+        <updated>2025-07-30T10:19:14.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'release/2025-07-30' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a0eebd87661835e4d2a437350888a2d0fe361ae</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a0eebd87661835e4d2a437350888a2d0fe361ae"/>
+        <updated>2025-07-30T09:12:40.000Z</updated>
+        <summary type="html"><![CDATA[Release: 2025-07-30
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/151" data-original="recommendation/service-recommendation!151" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42638" data-project-path="recommendation/service-recommendation" data-iid="151" data-mr-title="Release: 2025-07-30" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!151</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'release/2025-07-30' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/31f5b162bd04f97c8562b288122e9ce091cebf57</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/31f5b162bd04f97c8562b288122e9ce091cebf57"/>
+        <updated>2025-07-30T08:51:56.000Z</updated>
+        <summary type="html"><![CDATA[Release: 2025-07-30
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/122" data-original="search-engine/service-search-engine!122" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42637" data-project-path="search-engine/service-search-engine" data-iid="122" data-mr-title="Release: 2025-07-30" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!122</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add rel threshold for similar]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/aff1a61ba9a5263dc85831537341f24df349ca2c</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/aff1a61ba9a5263dc85831537341f24df349ca2c"/>
+        <updated>2025-07-30T08:14:30.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add api param for relevance threshold]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e65fe9447368d4fe87c49356ade3e4ca81ca48fd</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e65fe9447368d4fe87c49356ade3e4ca81ca48fd"/>
+        <updated>2025-07-24T02:58:29.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-413' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/06965012ab00d0edc57bd6b01b924aed0601d990</id>
@@ -421,48 +487,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-389' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e949ad78536e5555b58be8c9ce50e662c164d114</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e949ad78536e5555b58be8c9ce50e662c164d114"/>
-        <updated>2025-07-01T07:55:33.000Z</updated>
-        <summary type="html"><![CDATA[Revert "fix filter"
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/108" data-original="search-engine/service-search-engine!108" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42098" data-project-path="search-engine/service-search-engine" data-iid="108" data-mr-title='Revert "fix filter"' data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!108</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reapply "Reapply "feat: remove stop word and update default doc""]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d891c1b6071aac19753b7bad755a80999f65dc08</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d891c1b6071aac19753b7bad755a80999f65dc08"/>
-        <updated>2025-07-01T07:33:36.000Z</updated>
-        <summary type="html"><![CDATA[This reverts commit <a href="/search-engine/service-search-engine/-/commit/b8aa98a17ecb886db6029e60c5418e10ec3a0822" data-original="b8aa98a17ecb886db6029e60c5418e10ec3a0822" data-link="false" data-link-reference="false" data-project="313" data-commit="b8aa98a17ecb886db6029e60c5418e10ec3a0822" data-reference-type="commit" data-container="body" data-placement="top" title='Revert "Reapply "feat: remove stop word and update default doc""' class="gfm gfm-commit has-tooltip">b8aa98a1</a>.]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revert "Reapply "feat: remove stop word and update default doc""]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b8aa98a17ecb886db6029e60c5418e10ec3a0822</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b8aa98a17ecb886db6029e60c5418e10ec3a0822"/>
-        <updated>2025-07-01T03:21:06.000Z</updated>
-        <summary type="html"><![CDATA[This reverts commit <a href="/search-engine/service-search-engine/-/commit/b661d5b0245b7214dd5e35c4f7461ef33880d909" data-original="b661d5b0245b7214dd5e35c4f7461ef33880d909" data-link="false" data-link-reference="false" data-project="313" data-commit="b661d5b0245b7214dd5e35c4f7461ef33880d909" data-reference-type="commit" data-container="body" data-placement="top" title='Reapply "feat: remove stop word and update default doc"' class="gfm gfm-commit has-tooltip">b661d5b0</a>.]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reapply "feat: remove stop word and update default doc"]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b661d5b0245b7214dd5e35c4f7461ef33880d909</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b661d5b0245b7214dd5e35c4f7461ef33880d909"/>
-        <updated>2025-07-01T02:09:37.000Z</updated>
-        <summary type="html"><![CDATA[This reverts commit <a href="/search-engine/service-search-engine/-/commit/52c17f2f68128facc91142020d283edab2a514bc" data-original="52c17f2f68128facc91142020d283edab2a514bc" data-link="false" data-link-reference="false" data-project="313" data-commit="52c17f2f68128facc91142020d283edab2a514bc" data-reference-type="commit" data-container="body" data-placement="top" title='Revert "feat: remove stop word and update default doc"' class="gfm gfm-commit has-tooltip">52c17f2f</a>.]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>

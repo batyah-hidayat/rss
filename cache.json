@@ -6,6 +6,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cf5e1b461c7eb12663a1439d5e99f6faa21e038",
+          "author": null,
+          "description": "fix similar job with empty seeker view history\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/152\" data-original=\"recommendation/service-recommendation!152\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42642\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"152\" data-mr-title=\"fix similar job with empty seeker view history\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!152</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cf5e1b461c7eb12663a1439d5e99f6faa21e038",
+          "publishedOn": "2025-07-30T10:24:23.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-421' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1d1ae5b2a9180b59194c8ad2e8ffe16a3c9e60ad",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1d1ae5b2a9180b59194c8ad2e8ffe16a3c9e60ad",
+          "publishedOn": "2025-07-30T10:19:14.000Z",
+          "wordCount": 1175,
+          "title": "fix similar job with empty seeker view history",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a0eebd87661835e4d2a437350888a2d0fe361ae",
+          "author": null,
+          "description": "Release: 2025-07-30\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/151\" data-original=\"recommendation/service-recommendation!151\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42638\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"151\" data-mr-title=\"Release: 2025-07-30\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!151</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a0eebd87661835e4d2a437350888a2d0fe361ae",
+          "publishedOn": "2025-07-30T09:12:40.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/2025-07-30' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/aff1a61ba9a5263dc85831537341f24df349ca2c",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/aff1a61ba9a5263dc85831537341f24df349ca2c",
+          "publishedOn": "2025-07-30T08:14:30.000Z",
+          "wordCount": 1175,
+          "title": "feat: add rel threshold for similar",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/06965012ab00d0edc57bd6b01b924aed0601d990",
           "author": null,
           "description": "feat: add similar_job_id into cache key\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/146\" data-original=\"recommendation/service-recommendation!146\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42502\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"146\" data-mr-title=\"feat: add similar_job_id into cache key\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!146</a>",
@@ -283,6 +323,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/31f5b162bd04f97c8562b288122e9ce091cebf57",
+          "author": null,
+          "description": "Release: 2025-07-30\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/122\" data-original=\"search-engine/service-search-engine!122\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42637\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"122\" data-mr-title=\"Release: 2025-07-30\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!122</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/31f5b162bd04f97c8562b288122e9ce091cebf57",
+          "publishedOn": "2025-07-30T08:51:56.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/2025-07-30' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e65fe9447368d4fe87c49356ade3e4ca81ca48fd",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e65fe9447368d4fe87c49356ade3e4ca81ca48fd",
+          "publishedOn": "2025-07-24T02:58:29.000Z",
+          "wordCount": 1175,
+          "title": "add api param for relevance threshold",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8b6ca39952eb610c23b27650fe2ef5efcf0fad2c",
           "author": null,
           "description": "feat: remove slow detection\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/117\" data-original=\"search-engine/service-search-engine!117\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42420\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"117\" data-mr-title=\"feat: remove slow detection\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!117</a>",
@@ -400,46 +460,6 @@
           "publishedOn": "2025-07-02T06:49:07.000Z",
           "wordCount": 1175,
           "title": "fix: add stderr into log file",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e949ad78536e5555b58be8c9ce50e662c164d114",
-          "author": null,
-          "description": "Revert \"fix filter\"\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/108\" data-original=\"search-engine/service-search-engine!108\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42098\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"108\" data-mr-title='Revert \"fix filter\"' data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!108</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e949ad78536e5555b58be8c9ce50e662c164d114",
-          "publishedOn": "2025-07-01T07:55:33.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-389' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d891c1b6071aac19753b7bad755a80999f65dc08",
-          "author": null,
-          "description": "This reverts commit <a href=\"/search-engine/service-search-engine/-/commit/b8aa98a17ecb886db6029e60c5418e10ec3a0822\" data-original=\"b8aa98a17ecb886db6029e60c5418e10ec3a0822\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-commit=\"b8aa98a17ecb886db6029e60c5418e10ec3a0822\" data-reference-type=\"commit\" data-container=\"body\" data-placement=\"top\" title='Revert \"Reapply \"feat: remove stop word and update default doc\"\"' class=\"gfm gfm-commit has-tooltip\">b8aa98a1</a>.",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d891c1b6071aac19753b7bad755a80999f65dc08",
-          "publishedOn": "2025-07-01T07:33:36.000Z",
-          "wordCount": 1175,
-          "title": "Reapply \"Reapply \"feat: remove stop word and update default doc\"\"",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b8aa98a17ecb886db6029e60c5418e10ec3a0822",
-          "author": null,
-          "description": "This reverts commit <a href=\"/search-engine/service-search-engine/-/commit/b661d5b0245b7214dd5e35c4f7461ef33880d909\" data-original=\"b661d5b0245b7214dd5e35c4f7461ef33880d909\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-commit=\"b661d5b0245b7214dd5e35c4f7461ef33880d909\" data-reference-type=\"commit\" data-container=\"body\" data-placement=\"top\" title='Reapply \"feat: remove stop word and update default doc\"' class=\"gfm gfm-commit has-tooltip\">b661d5b0</a>.",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b8aa98a17ecb886db6029e60c5418e10ec3a0822",
-          "publishedOn": "2025-07-01T03:21:06.000Z",
-          "wordCount": 1175,
-          "title": "Revert \"Reapply \"feat: remove stop word and update default doc\"\"",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b661d5b0245b7214dd5e35c4f7461ef33880d909",
-          "author": null,
-          "description": "This reverts commit <a href=\"/search-engine/service-search-engine/-/commit/52c17f2f68128facc91142020d283edab2a514bc\" data-original=\"52c17f2f68128facc91142020d283edab2a514bc\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-commit=\"52c17f2f68128facc91142020d283edab2a514bc\" data-reference-type=\"commit\" data-container=\"body\" data-placement=\"top\" title='Revert \"feat: remove stop word and update default doc\"' class=\"gfm gfm-commit has-tooltip\">52c17f2f</a>.",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b661d5b0245b7214dd5e35c4f7461ef33880d909",
-          "publishedOn": "2025-07-01T02:09:37.000Z",
-          "wordCount": 1175,
-          "title": "Reapply \"feat: remove stop word and update default doc\"",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
