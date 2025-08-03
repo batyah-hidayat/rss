@@ -254,16 +254,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-351' into feat/ise-382",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9155fa8f649c4db8a6e8b044369ca95f08e84122",
-          "author": null,
-          "description": "Release: 2025-07-04\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/132\" data-original=\"recommendation/service-recommendation!132\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42201\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"132\" data-mr-title=\"Release: 2025-07-04\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!132</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9155fa8f649c4db8a6e8b044369ca95f08e84122",
-          "publishedOn": "2025-07-04T09:05:47.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-07-04' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -380,46 +370,6 @@
           "publishedOn": "2025-07-16T09:36:58.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'production-v2' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a36092a71ec686990e87e1079147301e69334738",
-          "author": null,
-          "description": "Feat/ise 389\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/115\" data-original=\"search-engine/service-search-engine!115\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42212\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"115\" data-mr-title=\"Feat/ise 389\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!115</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a36092a71ec686990e87e1079147301e69334738",
-          "publishedOn": "2025-07-04T09:46:00.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-389' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/269a8bb718dacdb070b02f3e9ee2ed6ce3316afd",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/269a8bb718dacdb070b02f3e9ee2ed6ce3316afd",
-          "publishedOn": "2025-07-04T09:06:34.000Z",
-          "wordCount": 1175,
-          "title": "added file with xgboost model 03/07",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1500414aba41eb5dd8151a308f3bb84e3f1bc891",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1500414aba41eb5dd8151a308f3bb84e3f1bc891",
-          "publishedOn": "2025-07-04T08:22:55.000Z",
-          "wordCount": 1175,
-          "title": "update revelance formula + province detection",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61aeedcdda3c55c975978ca5a158f0e96f6ff885",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61aeedcdda3c55c975978ca5a158f0e96f6ff885",
-          "publishedOn": "2025-07-04T08:05:49.000Z",
-          "wordCount": 1175,
-          "title": "update revelance formula + province detection",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
