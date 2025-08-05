@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-04T02:00:13.687Z</id>
+    <id>urn:2025-08-05T01:54:41.476Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-04T02:00:13.687Z</updated>
+    <updated>2025-08-05T01:54:41.476Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-422' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b57f6a86565a0cba4503f95a9fd81891ff8e76b0</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b57f6a86565a0cba4503f95a9fd81891ff8e76b0"/>
+        <updated>2025-08-04T08:13:15.000Z</updated>
+        <summary type="html"><![CDATA[feat: resolve for notification endpoint
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/156" data-original="recommendation/service-recommendation!156" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42699" data-project-path="recommendation/service-recommendation" data-iid="156" data-mr-title="feat: resolve for notification endpoint" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!156</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: filter urgent only having parameter]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eed888b6b36a6e7b9485ee391abec8002afd031d</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eed888b6b36a6e7b9485ee391abec8002afd031d"/>
+        <updated>2025-08-04T07:00:37.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: resolve for notification endpoint]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5852022ac158c93714c46ff7eb6795477e005d81</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5852022ac158c93714c46ff7eb6795477e005d81"/>
+        <updated>2025-08-04T03:36:56.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-398' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/935249f3205762a888dd0abe45c9d186c2d92c59</id>
