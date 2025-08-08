@@ -274,16 +274,6 @@
           "wordCount": 1175,
           "title": "add debug print for similar job search",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2a4b737ee8579f47a096c122ad1ff092ddb23ee5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2a4b737ee8579f47a096c122ad1ff092ddb23ee5",
-          "publishedOn": "2025-07-09T07:39:40.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-351' into feat/ise-382",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
