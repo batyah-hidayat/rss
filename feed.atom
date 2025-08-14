@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-13T01:43:55.448Z</id>
+    <id>urn:2025-08-14T01:44:31.963Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-13T01:43:55.448Z</updated>
+    <updated>2025-08-14T01:44:31.963Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'release/2025-08-13' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ff4542cd7cf0be6e2098a06764623f278925d83</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ff4542cd7cf0be6e2098a06764623f278925d83"/>
+        <updated>2025-08-13T07:11:17.000Z</updated>
+        <summary type="html"><![CDATA[feat: non-keyword search
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/132" data-original="search-engine/service-search-engine!132" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42861" data-project-path="search-engine/service-search-engine" data-iid="132" data-mr-title="feat: non-keyword search" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!132</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: non-keyword search]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6058e04854d7ae9fddf2f997cf631be0cc087fba</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6058e04854d7ae9fddf2f997cf631be0cc087fba"/>
+        <updated>2025-08-13T03:33:04.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-434' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0fde9ba710facbf48c7798e469c3f8ab66a6b19d</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0fde9ba710facbf48c7798e469c3f8ab66a6b19d"/>
+        <updated>2025-08-13T01:47:14.000Z</updated>
+        <summary type="html"><![CDATA[switch on recommendation_result_log_v2 table
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/161" data-original="recommendation/service-recommendation!161" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42859" data-project-path="recommendation/service-recommendation" data-iid="161" data-mr-title="switch on recommendation_result_log_v2 table" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!161</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[switch on recommendation_result_log_v2 table]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9a6ff0ab33a969a9b0fd9576c977bcdfc6ec119d</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9a6ff0ab33a969a9b0fd9576c977bcdfc6ec119d"/>
+        <updated>2025-08-13T01:33:50.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'release/2025-08-11' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b2053ac98ef7f647c3f43368d1b816f42dfeced</id>
