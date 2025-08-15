@@ -451,16 +451,6 @@
           "wordCount": 1175,
           "title": "feat: remove slow detection",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46bd7489f1a3a2628dbbf07fb749b31026d3e1e6",
-          "author": null,
-          "description": "Merge Production v2 into Production\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/116\" data-original=\"search-engine/service-search-engine!116\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42369\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"116\" data-mr-title=\"Merge Production v2 into Production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!116</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46bd7489f1a3a2628dbbf07fb749b31026d3e1e6",
-          "publishedOn": "2025-07-16T09:36:58.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'production-v2' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

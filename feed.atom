@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-14T01:44:31.963Z</id>
+    <id>urn:2025-08-15T01:44:58.392Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-14T01:44:31.963Z</updated>
+    <updated>2025-08-15T01:44:58.392Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -479,18 +479,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'production-v2' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46bd7489f1a3a2628dbbf07fb749b31026d3e1e6</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46bd7489f1a3a2628dbbf07fb749b31026d3e1e6"/>
-        <updated>2025-07-16T09:36:58.000Z</updated>
-        <summary type="html"><![CDATA[Merge Production v2 into Production
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/116" data-original="search-engine/service-search-engine!116" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42369" data-project-path="search-engine/service-search-engine" data-iid="116" data-mr-title="Merge Production v2 into Production" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!116</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
