@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-15T01:44:58.392Z</id>
+    <id>urn:2025-08-16T01:39:42.180Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-15T01:44:58.392Z</updated>
+    <updated>2025-08-16T01:39:42.180Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-438' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1837ec713241a87f934bc29494d9ae334cd0282</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1837ec713241a87f934bc29494d9ae334cd0282"/>
+        <updated>2025-08-15T09:28:16.000Z</updated>
+        <summary type="html"><![CDATA[feat: change index update interval to 2m to production
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/136" data-original="search-engine/service-search-engine!136" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42950" data-project-path="search-engine/service-search-engine" data-iid="136" data-mr-title="feat: change index update interval to 2m to production" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!136</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: change index update interval to 2m]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7d801989ee2ea71388bbb86f4309dd05a4ea0e80</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7d801989ee2ea71388bbb86f4309dd05a4ea0e80"/>
+        <updated>2025-08-15T06:53:47.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'release/2025-08-13' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ff4542cd7cf0be6e2098a06764623f278925d83</id>
@@ -447,38 +469,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/117" data-original="search-engine/service-search-engine!117" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42420" data-project-path="search-engine/service-search-engine" data-iid="117" data-mr-title="feat: remove slow detection" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!117</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: remove slow detection]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/68c40a291fb76e7ab222f08c9b43a255c4c14232</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/68c40a291fb76e7ab222f08c9b43a255c4c14232"/>
-        <updated>2025-07-17T04:04:51.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'fix/notification-endpoint' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cb9f1151ca6c7555bfd035cac9c04e36fcc547e</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8cb9f1151ca6c7555bfd035cac9c04e36fcc547e"/>
-        <updated>2025-07-17T03:10:47.000Z</updated>
-        <summary type="html"><![CDATA[fix: hotfix for total page
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/137" data-original="recommendation/service-recommendation!137" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42382" data-project-path="recommendation/service-recommendation" data-iid="137" data-mr-title="fix: hotfix for total page" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!137</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix: hotfix for total page]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a9dbc04687085e2bfcfa3c8f4bbae52f707a9b2</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4a9dbc04687085e2bfcfa3c8f4bbae52f707a9b2"/>
-        <updated>2025-07-17T03:07:44.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
