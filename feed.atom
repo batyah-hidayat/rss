@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-16T01:39:42.180Z</id>
+    <id>urn:2025-08-17T01:50:03.490Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-16T01:39:42.180Z</updated>
+    <updated>2025-08-17T01:50:03.490Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -457,18 +457,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-397' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8b6ca39952eb610c23b27650fe2ef5efcf0fad2c</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8b6ca39952eb610c23b27650fe2ef5efcf0fad2c"/>
-        <updated>2025-07-18T04:02:27.000Z</updated>
-        <summary type="html"><![CDATA[feat: remove slow detection
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/117" data-original="search-engine/service-search-engine!117" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42420" data-project-path="search-engine/service-search-engine" data-iid="117" data-mr-title="feat: remove slow detection" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!117</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>

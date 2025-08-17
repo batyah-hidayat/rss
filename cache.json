@@ -431,16 +431,6 @@
           "wordCount": 1175,
           "title": "add api param for relevance threshold",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8b6ca39952eb610c23b27650fe2ef5efcf0fad2c",
-          "author": null,
-          "description": "feat: remove slow detection\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/117\" data-original=\"search-engine/service-search-engine!117\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42420\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"117\" data-mr-title=\"feat: remove slow detection\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!117</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8b6ca39952eb610c23b27650fe2ef5efcf0fad2c",
-          "publishedOn": "2025-07-18T04:02:27.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-397' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
