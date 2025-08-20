@@ -264,76 +264,6 @@
           "wordCount": 1175,
           "title": "feat: apply handicap for version B",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c954e58f8f3fad7d2166703ba314d0de1ccca060",
-          "author": null,
-          "description": "Release: 2025-07-21\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/139\" data-original=\"recommendation/service-recommendation!139\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42441\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"139\" data-mr-title=\"Release: 2025-07-21\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!139</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c954e58f8f3fad7d2166703ba314d0de1ccca060",
-          "publishedOn": "2025-07-21T08:55:01.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-07-21' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d2d6a252eaa5c183d17e4b19c2589c33c947d657",
-          "author": null,
-          "description": "This reverts commit <a href=\"/recommendation/service-recommendation/-/commit/337b329f9944b6f3e5b6d88b02c965ee7b7040d1\" data-original=\"337b329f9944b6f3e5b6d88b02c965ee7b7040d1\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-commit=\"337b329f9944b6f3e5b6d88b02c965ee7b7040d1\" data-reference-type=\"commit\" data-container=\"body\" data-placement=\"top\" title=\"feat: apply handicap for version B\" class=\"gfm gfm-commit has-tooltip\">337b329f</a>.",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d2d6a252eaa5c183d17e4b19c2589c33c947d657",
-          "publishedOn": "2025-07-21T08:48:44.000Z",
-          "wordCount": 1175,
-          "title": "Revert \"feat: apply handicap for version B\"",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ae02adef4cca2ae49f838f9e9fda9ee3dcfaec6f",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ae02adef4cca2ae49f838f9e9fda9ee3dcfaec6f",
-          "publishedOn": "2025-07-21T06:44:53.000Z",
-          "wordCount": 1175,
-          "title": "feat: remove debug log",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f03ebf6e2bc4f64a934893a27d295b6fe1bb18b9",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f03ebf6e2bc4f64a934893a27d295b6fe1bb18b9",
-          "publishedOn": "2025-07-21T03:43:42.000Z",
-          "wordCount": 1175,
-          "title": "feat: use 1 constant for occupation id",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/26133fbf8eafe4aaaaca1aee8baf5231e9697493",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/26133fbf8eafe4aaaaca1aee8baf5231e9697493",
-          "publishedOn": "2025-07-21T03:43:31.000Z",
-          "wordCount": 1175,
-          "title": "fix: mismatch ds occupation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/00803ff4b8ada35669ddeb09b2a9d042567979d4",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/00803ff4b8ada35669ddeb09b2a9d042567979d4",
-          "publishedOn": "2025-07-21T03:43:12.000Z",
-          "wordCount": 1175,
-          "title": "feat: rate limit for app notification",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/337b329f9944b6f3e5b6d88b02c965ee7b7040d1",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/337b329f9944b6f3e5b6d88b02c965ee7b7040d1",
-          "publishedOn": "2025-07-21T03:42:32.000Z",
-          "wordCount": 1175,
-          "title": "feat: apply handicap for version B",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -342,6 +272,96 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/da8d3dd03c0573ce2de0555abc0e280c12468fd8",
+          "author": null,
+          "description": "update ranking formula\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/145\" data-original=\"search-engine/service-search-engine!145\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42990\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"145\" data-mr-title=\"update ranking formula\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!145</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/da8d3dd03c0573ce2de0555abc0e280c12468fd8",
+          "publishedOn": "2025-08-19T09:41:03.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-436' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e838b0d65cecc89ed6ef1621b8ca80a7cb3489e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e838b0d65cecc89ed6ef1621b8ca80a7cb3489e",
+          "publishedOn": "2025-08-19T09:23:35.000Z",
+          "wordCount": 1175,
+          "title": "update ranking formula",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9b4562ab4866badd51793904fb5b29abb2feafaa",
+          "author": null,
+          "description": "add missing occupation id mapping\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/144\" data-original=\"search-engine/service-search-engine!144\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42983\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"144\" data-mr-title=\"add missing occupation id mapping\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!144</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9b4562ab4866badd51793904fb5b29abb2feafaa",
+          "publishedOn": "2025-08-19T07:19:54.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-436' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/295e7554e2585a09e2ec5c39fd1f0768e7523752",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/295e7554e2585a09e2ec5c39fd1f0768e7523752",
+          "publishedOn": "2025-08-19T06:32:36.000Z",
+          "wordCount": 1175,
+          "title": "add missing occupation id mapping",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6ec403ccb66db8be90767fff069c7bc3ffbf022f",
+          "author": null,
+          "description": "disable log missing occupation\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/142\" data-original=\"search-engine/service-search-engine!142\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42977\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"142\" data-mr-title=\"disable log missing occupation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!142</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6ec403ccb66db8be90767fff069c7bc3ffbf022f",
+          "publishedOn": "2025-08-19T05:12:45.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-436' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daa6327f6ecc933a2ce18bc3cfc4c040ca45133c",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daa6327f6ecc933a2ce18bc3cfc4c040ca45133c",
+          "publishedOn": "2025-08-19T05:10:59.000Z",
+          "wordCount": 1175,
+          "title": "disable log missing occupation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c620e699a985327cad0f84f1a8c5754f8732dea7",
+          "author": null,
+          "description": "Feat/ise 436\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/141\" data-original=\"search-engine/service-search-engine!141\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42973\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"141\" data-mr-title=\"Feat/ise 436\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!141</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c620e699a985327cad0f84f1a8c5754f8732dea7",
+          "publishedOn": "2025-08-19T03:26:48.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-436' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3d57f67f8e2a649e8d771acd509c459d9c9d6ab4",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3d57f67f8e2a649e8d771acd509c459d9c9d6ab4",
+          "publishedOn": "2025-08-19T03:14:57.000Z",
+          "wordCount": 1175,
+          "title": "use occupation matching from filter",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dc04faf561a6989da1c488841e37b20021f99b97",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dc04faf561a6989da1c488841e37b20021f99b97",
+          "publishedOn": "2025-08-19T01:12:48.000Z",
+          "wordCount": 1175,
+          "title": "update ranking non keyword",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a730876a240e2b69e4bf97a9e753cde1948f3bc",
           "author": null,
