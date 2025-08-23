@@ -6,6 +6,76 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0951312adf209a737660c3ff938f6d6039c978b3",
+          "author": null,
+          "description": "disable job alert notifications\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/169\" data-original=\"recommendation/service-recommendation!169\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43077\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"169\" data-mr-title=\"disable job alert notifications\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!169</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0951312adf209a737660c3ff938f6d6039c978b3",
+          "publishedOn": "2025-08-22T09:59:00.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'chore/turn-off-alert' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/284d13e6b31e2ad992de6fa5a276d2f3f6f10bb9",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/284d13e6b31e2ad992de6fa5a276d2f3f6f10bb9",
+          "publishedOn": "2025-08-22T09:58:04.000Z",
+          "wordCount": 1175,
+          "title": "disable job alert notifications",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6cc2478392338301c344357d9af7cc8413ee1682",
+          "author": null,
+          "description": "update boost paid vs promo\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/168\" data-original=\"recommendation/service-recommendation!168\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43074\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"168\" data-mr-title=\"update boost paid vs promo\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!168</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6cc2478392338301c344357d9af7cc8413ee1682",
+          "publishedOn": "2025-08-22T08:30:58.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-448' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38a32494b15db549fe009682124f0b891cea5715",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38a32494b15db549fe009682124f0b891cea5715",
+          "publishedOn": "2025-08-22T07:38:18.000Z",
+          "wordCount": 1175,
+          "title": "update boost paid vs promo",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/844cd49e12c13298b10c365f179ed1bf8ceaf5c6",
+          "author": null,
+          "description": "Revert \"chore: turn off job alert\"\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/166\" data-original=\"recommendation/service-recommendation!166\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43051\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"166\" data-mr-title='Revert \"chore: turn off job alert\"' data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!166</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/844cd49e12c13298b10c365f179ed1bf8ceaf5c6",
+          "publishedOn": "2025-08-22T06:36:47.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'chore/turn-off-alert' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/567f7f88ea4acbbc2debdb34520bc654098c1cd6",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/567f7f88ea4acbbc2debdb34520bc654098c1cd6",
+          "publishedOn": "2025-08-22T06:35:54.000Z",
+          "wordCount": 1175,
+          "title": "enable job alert at 14:00",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0b68643b43c69780d82423268bc490236031f54f",
+          "author": null,
+          "description": "This reverts commit <a href=\"/recommendation/service-recommendation/-/commit/b78d6d1a38944106cc7ef8b8b6da4b24c3480062\" data-original=\"b78d6d1a38944106cc7ef8b8b6da4b24c3480062\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-commit=\"b78d6d1a38944106cc7ef8b8b6da4b24c3480062\" data-reference-type=\"commit\" data-container=\"body\" data-placement=\"top\" title=\"chore: turn off job alert\" class=\"gfm gfm-commit has-tooltip\">b78d6d1a</a>.",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0b68643b43c69780d82423268bc490236031f54f",
+          "publishedOn": "2025-08-21T08:42:58.000Z",
+          "wordCount": 1175,
+          "title": "Revert \"chore: turn off job alert\"",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c79d719bb1b092c3bacaba098a32a9f431c4156a",
           "author": null,
           "description": "chore: turn off job alert\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/165\" data-original=\"recommendation/service-recommendation!165\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43030\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"165\" data-mr-title=\"chore: turn off job alert\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!165</a>",
@@ -212,6 +282,26 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d0379b4005d0a7c14058ecce7af62970a870f995",
+          "author": null,
+          "description": "update rank k\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/156\" data-original=\"search-engine/service-search-engine!156\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43069\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"156\" data-mr-title=\"update rank k\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!156</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d0379b4005d0a7c14058ecce7af62970a870f995",
+          "publishedOn": "2025-08-22T06:49:01.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-446' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5e730b460d1a9abdd3fab615604f2a647a9fb54",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5e730b460d1a9abdd3fab615604f2a647a9fb54",
+          "publishedOn": "2025-08-22T06:29:45.000Z",
+          "wordCount": 1175,
+          "title": "update rank k",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/75ba17a3b0c3053fc482e85a8711e94b085f1e13",
           "author": null,
@@ -590,16 +680,6 @@
           "publishedOn": "2025-07-30T08:51:56.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'release/2025-07-30' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e65fe9447368d4fe87c49356ade3e4ca81ca48fd",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e65fe9447368d4fe87c49356ade3e4ca81ca48fd",
-          "publishedOn": "2025-07-24T02:58:29.000Z",
-          "wordCount": 1175,
-          "title": "add api param for relevance threshold",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
