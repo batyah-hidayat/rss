@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/81bb6fd428011a58a538ffc5d15cf01555d4053d",
+          "author": null,
+          "description": "chore: turn on job alert\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/170\" data-original=\"recommendation/service-recommendation!170\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43082\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"170\" data-mr-title=\"chore: turn on job alert\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!170</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/81bb6fd428011a58a538ffc5d15cf01555d4053d",
+          "publishedOn": "2025-08-25T02:36:30.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'chore/turn-off-alert' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e74a8dffdd45e98098642f038788e9ed685c3615",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e74a8dffdd45e98098642f038788e9ed685c3615",
+          "publishedOn": "2025-08-25T02:35:18.000Z",
+          "wordCount": 1175,
+          "title": "chore: turn on job alert",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0951312adf209a737660c3ff938f6d6039c978b3",
           "author": null,
           "description": "disable job alert notifications\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/169\" data-original=\"recommendation/service-recommendation!169\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43077\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"169\" data-mr-title=\"disable job alert notifications\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!169</a>",
@@ -282,6 +302,66 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/afa0795fcaa7d6de19312f9885e92821ce2d1778",
+          "author": null,
+          "description": "update paid boost for non kw and add cache for non kw\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/164\" data-original=\"search-engine/service-search-engine!164\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43109\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"164\" data-mr-title=\"update paid boost for non kw and add cache for non kw\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!164</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/afa0795fcaa7d6de19312f9885e92821ce2d1778",
+          "publishedOn": "2025-08-26T01:37:17.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-446' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db9901cbb8a1adb1fbed02942b81579cd430d612",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db9901cbb8a1adb1fbed02942b81579cd430d612",
+          "publishedOn": "2025-08-26T01:24:35.000Z",
+          "wordCount": 1175,
+          "title": "update paid boost for non kw and add cache for non kw",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7847053509e84abefa3edcdcd1aba654ccf21eff",
+          "author": null,
+          "description": "xgboost optimization\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/162\" data-original=\"search-engine/service-search-engine!162\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43094\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"162\" data-mr-title=\"xgboost optimization\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!162</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7847053509e84abefa3edcdcd1aba654ccf21eff",
+          "publishedOn": "2025-08-25T05:26:17.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-446' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/de0667e29b9cd2be60e195dd1507ed8737d8dcfe",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/de0667e29b9cd2be60e195dd1507ed8737d8dcfe",
+          "publishedOn": "2025-08-25T05:14:39.000Z",
+          "wordCount": 1175,
+          "title": "xgboost optimization",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fce170d761190439e82cf1294063ea7536eb41a3",
+          "author": null,
+          "description": "add xgboost model for non kw\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/158\" data-original=\"search-engine/service-search-engine!158\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43081\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"158\" data-mr-title=\"add xgboost model for non kw\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!158</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fce170d761190439e82cf1294063ea7536eb41a3",
+          "publishedOn": "2025-08-25T01:59:20.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-446' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cebbdcca75269b5f8cd2238b50595613495d81bd",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cebbdcca75269b5f8cd2238b50595613495d81bd",
+          "publishedOn": "2025-08-25T01:43:58.000Z",
+          "wordCount": 1175,
+          "title": "add xgboost model for non kw",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d0379b4005d0a7c14058ecce7af62970a870f995",
           "author": null,
@@ -620,66 +700,6 @@
           "publishedOn": "2025-08-01T02:14:39.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-398' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/53468721766d588ed2f9e47b8a7c41e15dee7f96",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/53468721766d588ed2f9e47b8a7c41e15dee7f96",
-          "publishedOn": "2025-08-01T02:12:43.000Z",
-          "wordCount": 1175,
-          "title": "feat: apply for web only",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1595e459762c41478079f3b4d05837512fe88c",
-          "author": null,
-          "description": "feat: apply handicap for B version\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/126\" data-original=\"search-engine/service-search-engine!126\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42657\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"126\" data-mr-title=\"feat: apply handicap for B version\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!126</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1595e459762c41478079f3b4d05837512fe88c",
-          "publishedOn": "2025-07-31T10:22:51.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-07-31' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/832f07a310f299125c688b1bc94a41d5e17ba0a5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/832f07a310f299125c688b1bc94a41d5e17ba0a5",
-          "publishedOn": "2025-07-31T06:06:09.000Z",
-          "wordCount": 1175,
-          "title": "feat: apply handicap for B version",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/24f4afa947b9475f329950a8508fc855434fa7ac",
-          "author": null,
-          "description": "feat: apply limitation for urgent\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/125\" data-original=\"search-engine/service-search-engine!125\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42644\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"125\" data-mr-title=\"feat: apply limitation for urgent\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!125</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/24f4afa947b9475f329950a8508fc855434fa7ac",
-          "publishedOn": "2025-07-31T03:06:33.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-07-31' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3786d916e5a20e5bcf92e8b9502d75ef7a5ffb39",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3786d916e5a20e5bcf92e8b9502d75ef7a5ffb39",
-          "publishedOn": "2025-07-30T09:37:27.000Z",
-          "wordCount": 1175,
-          "title": "feat: apply limitation for urgent",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/31f5b162bd04f97c8562b288122e9ce091cebf57",
-          "author": null,
-          "description": "Release: 2025-07-30\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/122\" data-original=\"search-engine/service-search-engine!122\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42637\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"122\" data-mr-title=\"Release: 2025-07-30\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!122</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/31f5b162bd04f97c8562b288122e9ce091cebf57",
-          "publishedOn": "2025-07-30T08:51:56.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-07-30' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
