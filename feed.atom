@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-08-26T01:38:03.000Z</id>
+    <id>urn:2025-08-27T01:27:09.328Z</id>
     <title>osmos::feed</title>
-    <updated>2025-08-26T01:38:03.000Z</updated>
+    <updated>2025-08-27T01:27:09.328Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-451-update-job-alert-rule' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2c81de67f009ad5b7ecdcf83f55057c766373248</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2c81de67f009ad5b7ecdcf83f55057c766373248"/>
+        <updated>2025-08-26T09:36:15.000Z</updated>
+        <summary type="html"><![CDATA[feat: update job alert rule
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/174" data-original="recommendation/service-recommendation!174" data-link="false" data-link-reference="false" data-project="335" data-merge-request="43127" data-project-path="recommendation/service-recommendation" data-iid="174" data-mr-title="feat: update job alert rule" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!174</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: update job alert rule]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8af11da6fd6c9af84e40bf4ead1f3c47f9783e58</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8af11da6fd6c9af84e40bf4ead1f3c47f9783e58"/>
+        <updated>2025-08-26T08:07:58.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-446' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e3e15cfea543b2d31e6943ae69e0bdcc61ff3dac</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e3e15cfea543b2d31e6943ae69e0bdcc61ff3dac"/>
+        <updated>2025-08-26T07:53:42.000Z</updated>
+        <summary type="html"><![CDATA[change paid boost parameters add xgboost sort for empty profile
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/166" data-original="search-engine/service-search-engine!166" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43126" data-project-path="search-engine/service-search-engine" data-iid="166" data-mr-title="change paid boost parameters add xgboost sort for empty profile" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!166</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[change paid boost parameters add xgboost sort for empty profile]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/826b2257402e86cbd19119b0826fa196e20203b3</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/826b2257402e86cbd19119b0826fa196e20203b3"/>
+        <updated>2025-08-26T07:28:53.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-446' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/afa0795fcaa7d6de19312f9885e92821ce2d1778</id>
@@ -650,16 +694,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[feat: 100% handicap]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d42ba5a997ca09f16ecc3f0f8ca7a5f9fa5f6ca5</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d42ba5a997ca09f16ecc3f0f8ca7a5f9fa5f6ca5"/>
-        <updated>2025-08-11T06:34:26.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[feat: 100% for handicap]]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5d2121060d54b0b1b5476e400b576f04aa7c11b3</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5d2121060d54b0b1b5476e400b576f04aa7c11b3"/>
@@ -699,18 +733,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-398' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/935249f3205762a888dd0abe45c9d186c2d92c59</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/935249f3205762a888dd0abe45c9d186c2d92c59"/>
-        <updated>2025-08-01T02:14:39.000Z</updated>
-        <summary type="html"><![CDATA[feat: handicap apply for web only
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/127" data-original="search-engine/service-search-engine!127" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42680" data-project-path="search-engine/service-search-engine" data-iid="127" data-mr-title="feat: handicap apply for web only" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!127</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
     <entry>
