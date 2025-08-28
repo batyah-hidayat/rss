@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9f46d653271d38e4ca95d08c30916e11217ab3a3",
+          "author": null,
+          "description": "feat: release promo and paid for 100%\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/175\" data-original=\"recommendation/service-recommendation!175\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43134\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"175\" data-mr-title=\"feat: release promo and paid for 100%\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!175</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9f46d653271d38e4ca95d08c30916e11217ab3a3",
+          "publishedOn": "2025-08-27T03:47:51.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-452-release-promo-and-paid-for-100' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f50abbb0451b64e7fd2306342cc4bd9c215e5f04",
+          "author": null,
+          "description": "feat: clean by cursor tool to production\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/171\" data-original=\"recommendation/service-recommendation!171\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43085\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"171\" data-mr-title=\"feat: clean by cursor tool to production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!171</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f50abbb0451b64e7fd2306342cc4bd9c215e5f04",
+          "publishedOn": "2025-08-27T03:15:56.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-449' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/520214d317f5ee50b3a47ebb8552498b177506a5",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/520214d317f5ee50b3a47ebb8552498b177506a5",
+          "publishedOn": "2025-08-27T02:33:22.000Z",
+          "wordCount": 1175,
+          "title": "feat: release promo and paid for 100%",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2c81de67f009ad5b7ecdcf83f55057c766373248",
           "author": null,
           "description": "feat: update job alert rule\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/174\" data-original=\"recommendation/service-recommendation!174\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43127\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"174\" data-mr-title=\"feat: update job alert rule\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!174</a>",
@@ -23,6 +53,16 @@
           "publishedOn": "2025-08-26T08:07:58.000Z",
           "wordCount": 1175,
           "title": "feat: update job alert rule",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b281ab2477b0ce0ba8c35278994e69fb7192cf1f",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b281ab2477b0ce0ba8c35278994e69fb7192cf1f",
+          "publishedOn": "2025-08-25T03:38:32.000Z",
+          "wordCount": 1175,
+          "title": "feat: clean by cursor tool",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
