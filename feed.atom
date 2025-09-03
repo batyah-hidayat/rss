@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-02T01:27:50.262Z</id>
+    <id>urn:2025-09-03T01:22:34.364Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-02T01:27:50.262Z</updated>
+    <updated>2025-09-03T01:22:34.364Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -772,38 +772,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5d2121060d54b0b1b5476e400b576f04aa7c11b3</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5d2121060d54b0b1b5476e400b576f04aa7c11b3"/>
         <updated>2025-08-11T06:28:34.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-422' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b57f6a86565a0cba4503f95a9fd81891ff8e76b0</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b57f6a86565a0cba4503f95a9fd81891ff8e76b0"/>
-        <updated>2025-08-04T08:13:15.000Z</updated>
-        <summary type="html"><![CDATA[feat: resolve for notification endpoint
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/156" data-original="recommendation/service-recommendation!156" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42699" data-project-path="recommendation/service-recommendation" data-iid="156" data-mr-title="feat: resolve for notification endpoint" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!156</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: filter urgent only having parameter]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eed888b6b36a6e7b9485ee391abec8002afd031d</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eed888b6b36a6e7b9485ee391abec8002afd031d"/>
-        <updated>2025-08-04T07:00:37.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: resolve for notification endpoint]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5852022ac158c93714c46ff7eb6795477e005d81</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5852022ac158c93714c46ff7eb6795477e005d81"/>
-        <updated>2025-08-04T03:36:56.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>

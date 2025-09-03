@@ -314,36 +314,6 @@
           "wordCount": 1175,
           "title": "feat: 100% for handicap",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b57f6a86565a0cba4503f95a9fd81891ff8e76b0",
-          "author": null,
-          "description": "feat: resolve for notification endpoint\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/156\" data-original=\"recommendation/service-recommendation!156\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42699\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"156\" data-mr-title=\"feat: resolve for notification endpoint\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!156</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b57f6a86565a0cba4503f95a9fd81891ff8e76b0",
-          "publishedOn": "2025-08-04T08:13:15.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-422' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eed888b6b36a6e7b9485ee391abec8002afd031d",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/eed888b6b36a6e7b9485ee391abec8002afd031d",
-          "publishedOn": "2025-08-04T07:00:37.000Z",
-          "wordCount": 1175,
-          "title": "feat: filter urgent only having parameter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5852022ac158c93714c46ff7eb6795477e005d81",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5852022ac158c93714c46ff7eb6795477e005d81",
-          "publishedOn": "2025-08-04T03:36:56.000Z",
-          "wordCount": 1175,
-          "title": "feat: resolve for notification endpoint",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
