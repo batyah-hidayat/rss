@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-03T01:22:34.364Z</id>
+    <id>urn:2025-09-04T01:22:35.736Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-03T01:22:34.364Z</updated>
+    <updated>2025-09-04T01:22:35.736Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-461' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/72058b26265cef769a9e621e9b62a8909cff1587</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/72058b26265cef769a9e621e9b62a8909cff1587"/>
+        <updated>2025-09-03T06:28:59.000Z</updated>
+        <summary type="html"><![CDATA[Feat/ise 461
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/183" data-original="search-engine/service-search-engine!183" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43258" data-project-path="search-engine/service-search-engine" data-iid="183" data-mr-title="Feat/ise 461" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!183</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[encode embeddings in real time for staging and production]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9ad1bf96328f5af2e3e0eaf56d8c070036b208e5</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9ad1bf96328f5af2e3e0eaf56d8c070036b208e5"/>
+        <updated>2025-09-03T05:03:20.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[encode embeddings in real time]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7872a3fa094adf36531c30d089d5c122bf2fc0e9</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7872a3fa094adf36531c30d089d5c122bf2fc0e9"/>
+        <updated>2025-09-03T02:27:18.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-454' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62a9b219f2689091e8fec971f563e422cee1a431</id>
@@ -619,40 +651,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/295e7554e2585a09e2ec5c39fd1f0768e7523752"/>
         <updated>2025-08-19T06:32:36.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-436' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6ec403ccb66db8be90767fff069c7bc3ffbf022f</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6ec403ccb66db8be90767fff069c7bc3ffbf022f"/>
-        <updated>2025-08-19T05:12:45.000Z</updated>
-        <summary type="html"><![CDATA[disable log missing occupation
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/142" data-original="search-engine/service-search-engine!142" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42977" data-project-path="search-engine/service-search-engine" data-iid="142" data-mr-title="disable log missing occupation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!142</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[disable log missing occupation]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daa6327f6ecc933a2ce18bc3cfc4c040ca45133c</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daa6327f6ecc933a2ce18bc3cfc4c040ca45133c"/>
-        <updated>2025-08-19T05:10:59.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-436' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c620e699a985327cad0f84f1a8c5754f8732dea7</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c620e699a985327cad0f84f1a8c5754f8732dea7"/>
-        <updated>2025-08-19T03:26:48.000Z</updated>
-        <summary type="html"><![CDATA[Feat/ise 436
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/141" data-original="search-engine/service-search-engine!141" data-link="false" data-link-reference="false" data-project="313" data-merge-request="42973" data-project-path="search-engine/service-search-engine" data-iid="141" data-mr-title="Feat/ise 436" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!141</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
