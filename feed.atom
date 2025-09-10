@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-09T01:26:10.796Z</id>
+    <id>urn:2025-09-10T01:23:18.565Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-09T01:26:10.796Z</updated>
+    <updated>2025-09-10T01:23:18.565Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -761,16 +761,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Release 2025-08-11: 100% for handicap
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/157" data-original="recommendation/service-recommendation!157" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42808" data-project-path="recommendation/service-recommendation" data-iid="157" data-mr-title="Release 2025-08-11: 100% for handicap" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!157</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: 100% for handicap]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5d2121060d54b0b1b5476e400b576f04aa7c11b3</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5d2121060d54b0b1b5476e400b576f04aa7c11b3"/>
-        <updated>2025-08-11T06:28:34.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
