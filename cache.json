@@ -274,36 +274,6 @@
           "wordCount": 1175,
           "title": "switch on recommendation_result_log_v2 table",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b2053ac98ef7f647c3f43368d1b816f42dfeced",
-          "author": null,
-          "description": "feat: disable fetchSeenJobPostBySeeker\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/159\" data-original=\"recommendation/service-recommendation!159\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42850\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"159\" data-mr-title=\"feat: disable fetchSeenJobPostBySeeker\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!159</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b2053ac98ef7f647c3f43368d1b816f42dfeced",
-          "publishedOn": "2025-08-12T09:59:08.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-08-11' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/718b78eeda308dc18874938aa694082e41c7a9f3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/718b78eeda308dc18874938aa694082e41c7a9f3",
-          "publishedOn": "2025-08-12T09:55:32.000Z",
-          "wordCount": 1175,
-          "title": "feat: disable fetchSeenJobPostBySeeker",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/43eddafc0e2704b3458824305d1d83c3a6134ead",
-          "author": null,
-          "description": "Release 2025-08-11: 100% for handicap\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/157\" data-original=\"recommendation/service-recommendation!157\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42808\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"157\" data-mr-title=\"Release 2025-08-11: 100% for handicap\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!157</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/43eddafc0e2704b3458824305d1d83c3a6134ead",
-          "publishedOn": "2025-08-12T08:43:29.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-08-11' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-10T01:23:18.565Z</id>
+    <id>urn:2025-09-11T01:25:21.819Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-10T01:23:18.565Z</updated>
+    <updated>2025-09-11T01:25:21.820Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -727,40 +727,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9a6ff0ab33a969a9b0fd9576c977bcdfc6ec119d"/>
         <updated>2025-08-13T01:33:50.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'release/2025-08-11' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b2053ac98ef7f647c3f43368d1b816f42dfeced</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b2053ac98ef7f647c3f43368d1b816f42dfeced"/>
-        <updated>2025-08-12T09:59:08.000Z</updated>
-        <summary type="html"><![CDATA[feat: disable fetchSeenJobPostBySeeker
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/159" data-original="recommendation/service-recommendation!159" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42850" data-project-path="recommendation/service-recommendation" data-iid="159" data-mr-title="feat: disable fetchSeenJobPostBySeeker" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!159</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: disable fetchSeenJobPostBySeeker]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/718b78eeda308dc18874938aa694082e41c7a9f3</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/718b78eeda308dc18874938aa694082e41c7a9f3"/>
-        <updated>2025-08-12T09:55:32.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'release/2025-08-11' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/43eddafc0e2704b3458824305d1d83c3a6134ead</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/43eddafc0e2704b3458824305d1d83c3a6134ead"/>
-        <updated>2025-08-12T08:43:29.000Z</updated>
-        <summary type="html"><![CDATA[Release 2025-08-11: 100% for handicap
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/157" data-original="recommendation/service-recommendation!157" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42808" data-project-path="recommendation/service-recommendation" data-iid="157" data-mr-title="Release 2025-08-11: 100% for handicap" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!157</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
