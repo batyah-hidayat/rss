@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-11T01:25:21.819Z</id>
+    <id>urn:2025-09-12T01:22:21.702Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-11T01:25:21.820Z</updated>
+    <updated>2025-09-12T01:22:21.702Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -684,48 +684,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1883ea4e7b6c493f9256b695efff8abe1bfd49d5</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1883ea4e7b6c493f9256b695efff8abe1bfd49d5"/>
         <updated>2025-08-18T03:57:56.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: promo & paid with a/b testing]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1a68500128aed5626783c855ee9e58cb4ced8835</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1a68500128aed5626783c855ee9e58cb4ced8835"/>
-        <updated>2025-08-13T07:23:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: promo & paid adjustment]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/db6c92573b7bfc829ff00372e473a13c77886ccd</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/db6c92573b7bfc829ff00372e473a13c77886ccd"/>
-        <updated>2025-08-13T07:04:56.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-434' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0fde9ba710facbf48c7798e469c3f8ab66a6b19d</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0fde9ba710facbf48c7798e469c3f8ab66a6b19d"/>
-        <updated>2025-08-13T01:47:14.000Z</updated>
-        <summary type="html"><![CDATA[switch on recommendation_result_log_v2 table
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/161" data-original="recommendation/service-recommendation!161" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42859" data-project-path="recommendation/service-recommendation" data-iid="161" data-mr-title="switch on recommendation_result_log_v2 table" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!161</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[switch on recommendation_result_log_v2 table]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9a6ff0ab33a969a9b0fd9576c977bcdfc6ec119d</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9a6ff0ab33a969a9b0fd9576c977bcdfc6ec119d"/>
-        <updated>2025-08-13T01:33:50.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
