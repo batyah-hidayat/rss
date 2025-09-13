@@ -6,6 +6,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a834923c63e6d0e42c2a689b4038dd0be3136fc6",
+          "author": null,
+          "description": "fix: update correct url\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/189\" data-original=\"recommendation/service-recommendation!189\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43413\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"189\" data-mr-title=\"fix: update correct url\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!189</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a834923c63e6d0e42c2a689b4038dd0be3136fc6",
+          "publishedOn": "2025-09-12T07:10:15.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-469' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e3259cf3bd37fcf85de8809c3b6c9bb3c517a7ea",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e3259cf3bd37fcf85de8809c3b6c9bb3c517a7ea",
+          "publishedOn": "2025-09-12T06:40:38.000Z",
+          "wordCount": 1175,
+          "title": "fix: update correct url",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/79ea03dd364d642a6e2f0de7c1e72ca4f7e16020",
+          "author": null,
+          "description": "feat: replace onelink on email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/188\" data-original=\"recommendation/service-recommendation!188\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43347\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"188\" data-mr-title=\"feat: replace onelink on email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!188</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/79ea03dd364d642a6e2f0de7c1e72ca4f7e16020",
+          "publishedOn": "2025-09-12T03:09:44.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-469' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3da7afaf510e2cb0e29fa654a8a63de772d59fe1",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3da7afaf510e2cb0e29fa654a8a63de772d59fe1",
+          "publishedOn": "2025-09-08T08:28:45.000Z",
+          "wordCount": 1175,
+          "title": "feat: replace onelink on email",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f662b36a79751d0d0de9768f055c1fe114ede320",
           "author": null,
           "description": "Release: 2025-08-28\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/181\" data-original=\"recommendation/service-recommendation!181\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43202\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"181\" data-mr-title=\"Release: 2025-08-28\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!181</a>",
