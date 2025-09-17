@@ -244,36 +244,6 @@
           "wordCount": 1175,
           "title": "chore: turn off job alert",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9bc56334522ef581bf07c463dc724f285fac2f4c",
-          "author": null,
-          "description": "feat: change job alert notification rule to production\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/164\" data-original=\"recommendation/service-recommendation!164\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42960\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"164\" data-mr-title=\"feat: change job alert notification rule to production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!164</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9bc56334522ef581bf07c463dc724f285fac2f4c",
-          "publishedOn": "2025-08-18T09:53:38.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-441' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19ae72391fd800496351e8c4897847528d1e235f",
-          "author": null,
-          "description": "feat: promo &amp; paid adjustment\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/162\" data-original=\"recommendation/service-recommendation!162\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"42876\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"162\" data-mr-title=\"feat: promo &amp; paid adjustment\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!162</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19ae72391fd800496351e8c4897847528d1e235f",
-          "publishedOn": "2025-08-18T08:41:53.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-08-13' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1883ea4e7b6c493f9256b695efff8abe1bfd49d5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1883ea4e7b6c493f9256b695efff8abe1bfd49d5",
-          "publishedOn": "2025-08-18T03:57:56.000Z",
-          "wordCount": 1175,
-          "title": "feat: change job alert notification rule",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },

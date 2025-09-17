@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-16T01:23:13.072Z</id>
+    <id>urn:2025-09-17T01:23:19.658Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-16T01:23:13.072Z</updated>
+    <updated>2025-09-17T01:23:19.658Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -697,40 +697,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-441' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9bc56334522ef581bf07c463dc724f285fac2f4c</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9bc56334522ef581bf07c463dc724f285fac2f4c"/>
-        <updated>2025-08-18T09:53:38.000Z</updated>
-        <summary type="html"><![CDATA[feat: change job alert notification rule to production
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/164" data-original="recommendation/service-recommendation!164" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42960" data-project-path="recommendation/service-recommendation" data-iid="164" data-mr-title="feat: change job alert notification rule to production" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!164</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'release/2025-08-13' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19ae72391fd800496351e8c4897847528d1e235f</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19ae72391fd800496351e8c4897847528d1e235f"/>
-        <updated>2025-08-18T08:41:53.000Z</updated>
-        <summary type="html"><![CDATA[feat: promo &amp; paid adjustment
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/162" data-original="recommendation/service-recommendation!162" data-link="false" data-link-reference="false" data-project="335" data-merge-request="42876" data-project-path="recommendation/service-recommendation" data-iid="162" data-mr-title="feat: promo &amp; paid adjustment" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!162</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: change job alert notification rule]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1883ea4e7b6c493f9256b695efff8abe1bfd49d5</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1883ea4e7b6c493f9256b695efff8abe1bfd49d5"/>
-        <updated>2025-08-18T03:57:56.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
