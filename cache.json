@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/62221ed874767882abb03b1d2d506e96506afa34",
+          "author": null,
+          "description": "feat: update cache key\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/190\" data-original=\"recommendation/service-recommendation!190\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43509\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"190\" data-mr-title=\"feat: update cache key\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!190</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/62221ed874767882abb03b1d2d506e96506afa34",
+          "publishedOn": "2025-09-18T10:17:43.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'fix/cache-similar-job' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1e0dcadf68824d8192587be200786bd35459da19",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1e0dcadf68824d8192587be200786bd35459da19",
+          "publishedOn": "2025-09-18T10:11:30.000Z",
+          "wordCount": 1175,
+          "title": "feat: remove get profile from device id",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c048df47b688a7bd8ec956fa1801ce095f8c4b85",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c048df47b688a7bd8ec956fa1801ce095f8c4b85",
+          "publishedOn": "2025-09-18T10:05:55.000Z",
+          "wordCount": 1175,
+          "title": "feat: update cache key",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a834923c63e6d0e42c2a689b4038dd0be3136fc6",
           "author": null,
           "description": "fix: update correct url\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/189\" data-original=\"recommendation/service-recommendation!189\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43413\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"189\" data-mr-title=\"fix: update correct url\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!189</a>",
@@ -610,46 +640,6 @@
           "publishedOn": "2025-08-21T03:36:56.000Z",
           "wordCount": 1175,
           "title": "fix configs",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4a03d0b77093a3e596e37b5b2b66f543125eda6a",
-          "author": null,
-          "description": "update job view feature\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/149\" data-original=\"search-engine/service-search-engine!149\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43002\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"149\" data-mr-title=\"update job view feature\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!149</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4a03d0b77093a3e596e37b5b2b66f543125eda6a",
-          "publishedOn": "2025-08-20T03:52:13.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-436' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/89423473e9e3d044c214ca902f4f9413bacc071e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/89423473e9e3d044c214ca902f4f9413bacc071e",
-          "publishedOn": "2025-08-20T03:50:53.000Z",
-          "wordCount": 1175,
-          "title": "update job view feature",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4635cf5b02ce975686222686259519032d13578f",
-          "author": null,
-          "description": "add industry , cr and job score features\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/147\" data-original=\"search-engine/service-search-engine!147\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"42997\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"147\" data-mr-title=\"add industry , cr and job score features\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!147</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4635cf5b02ce975686222686259519032d13578f",
-          "publishedOn": "2025-08-20T02:57:58.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-436' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ec2bbf4eb095893d943f2b06343b67f2766db82c",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ec2bbf4eb095893d943f2b06343b67f2766db82c",
-          "publishedOn": "2025-08-20T02:36:02.000Z",
-          "wordCount": 1175,
-          "title": "add industry , cr and job score features",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
