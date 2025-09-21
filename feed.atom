@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-20T01:21:42.782Z</id>
+    <id>urn:2025-09-21T01:39:24.072Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-20T01:21:42.782Z</updated>
+    <updated>2025-09-21T01:39:24.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -476,94 +476,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cebbdcca75269b5f8cd2238b50595613495d81bd</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/cebbdcca75269b5f8cd2238b50595613495d81bd"/>
         <updated>2025-08-25T01:43:58.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'chore/turn-off-alert' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0951312adf209a737660c3ff938f6d6039c978b3</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0951312adf209a737660c3ff938f6d6039c978b3"/>
-        <updated>2025-08-22T09:59:00.000Z</updated>
-        <summary type="html"><![CDATA[disable job alert notifications
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/169" data-original="recommendation/service-recommendation!169" data-link="false" data-link-reference="false" data-project="335" data-merge-request="43077" data-project-path="recommendation/service-recommendation" data-iid="169" data-mr-title="disable job alert notifications" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!169</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[disable job alert notifications]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/284d13e6b31e2ad992de6fa5a276d2f3f6f10bb9</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/284d13e6b31e2ad992de6fa5a276d2f3f6f10bb9"/>
-        <updated>2025-08-22T09:58:04.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-448' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6cc2478392338301c344357d9af7cc8413ee1682</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6cc2478392338301c344357d9af7cc8413ee1682"/>
-        <updated>2025-08-22T08:30:58.000Z</updated>
-        <summary type="html"><![CDATA[update boost paid vs promo
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/168" data-original="recommendation/service-recommendation!168" data-link="false" data-link-reference="false" data-project="335" data-merge-request="43074" data-project-path="recommendation/service-recommendation" data-iid="168" data-mr-title="update boost paid vs promo" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!168</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update boost paid vs promo]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38a32494b15db549fe009682124f0b891cea5715</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38a32494b15db549fe009682124f0b891cea5715"/>
-        <updated>2025-08-22T07:38:18.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-446' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d0379b4005d0a7c14058ecce7af62970a870f995</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d0379b4005d0a7c14058ecce7af62970a870f995"/>
-        <updated>2025-08-22T06:49:01.000Z</updated>
-        <summary type="html"><![CDATA[update rank k
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/156" data-original="search-engine/service-search-engine!156" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43069" data-project-path="search-engine/service-search-engine" data-iid="156" data-mr-title="update rank k" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!156</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'chore/turn-off-alert' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/844cd49e12c13298b10c365f179ed1bf8ceaf5c6</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/844cd49e12c13298b10c365f179ed1bf8ceaf5c6"/>
-        <updated>2025-08-22T06:36:47.000Z</updated>
-        <summary type="html"><![CDATA[Revert "chore: turn off job alert"
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/166" data-original="recommendation/service-recommendation!166" data-link="false" data-link-reference="false" data-project="335" data-merge-request="43051" data-project-path="recommendation/service-recommendation" data-iid="166" data-mr-title='Revert "chore: turn off job alert"' data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!166</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[enable job alert at 14:00]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/567f7f88ea4acbbc2debdb34520bc654098c1cd6</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/567f7f88ea4acbbc2debdb34520bc654098c1cd6"/>
-        <updated>2025-08-22T06:35:54.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update rank k]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5e730b460d1a9abdd3fab615604f2a647a9fb54</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5e730b460d1a9abdd3fab615604f2a647a9fb54"/>
-        <updated>2025-08-22T06:29:45.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
