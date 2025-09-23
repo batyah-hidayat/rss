@@ -6,6 +6,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/130de573b426ac47d8485109657965ae3d467412",
+          "author": null,
+          "description": "feat: forward traffic to rec v2\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/198\" data-original=\"recommendation/service-recommendation!198\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43554\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"198\" data-mr-title=\"feat: forward traffic to rec v2\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!198</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/130de573b426ac47d8485109657965ae3d467412",
+          "publishedOn": "2025-09-22T09:42:29.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-482' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de1afa8aea1d9a516380dcb6a76102290ed74041",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de1afa8aea1d9a516380dcb6a76102290ed74041",
+          "publishedOn": "2025-09-22T06:26:13.000Z",
+          "wordCount": 1175,
+          "title": "feat: update url",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7793bd6029bb0708e471fd9b08578a6319798c29",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7793bd6029bb0708e471fd9b08578a6319798c29",
+          "publishedOn": "2025-09-22T03:42:04.000Z",
+          "wordCount": 1175,
+          "title": "feat: random 10% of traffic",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/15e6d741fe1dd3ddac82a31dd59d6307894625a1",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/15e6d741fe1dd3ddac82a31dd59d6307894625a1",
+          "publishedOn": "2025-09-19T06:57:29.000Z",
+          "wordCount": 1175,
+          "title": "feat: forward traffic to rec v2",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/62221ed874767882abb03b1d2d506e96506afa34",
           "author": null,
           "description": "feat: update cache key\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/190\" data-original=\"recommendation/service-recommendation!190\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43509\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"190\" data-mr-title=\"feat: update cache key\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!190</a>",
