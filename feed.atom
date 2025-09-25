@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-09-24T01:24:24.352Z</id>
+    <id>urn:2025-09-25T01:25:15.753Z</id>
     <title>osmos::feed</title>
-    <updated>2025-09-24T01:24:24.352Z</updated>
+    <updated>2025-09-25T01:25:15.753Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -401,72 +401,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-451-update-job-alert-rule' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2c81de67f009ad5b7ecdcf83f55057c766373248</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2c81de67f009ad5b7ecdcf83f55057c766373248"/>
-        <updated>2025-08-26T09:36:15.000Z</updated>
-        <summary type="html"><![CDATA[feat: update job alert rule
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/174" data-original="recommendation/service-recommendation!174" data-link="false" data-link-reference="false" data-project="335" data-merge-request="43127" data-project-path="recommendation/service-recommendation" data-iid="174" data-mr-title="feat: update job alert rule" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!174</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: update job alert rule]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8af11da6fd6c9af84e40bf4ead1f3c47f9783e58</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8af11da6fd6c9af84e40bf4ead1f3c47f9783e58"/>
-        <updated>2025-08-26T08:07:58.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-446' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e3e15cfea543b2d31e6943ae69e0bdcc61ff3dac</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e3e15cfea543b2d31e6943ae69e0bdcc61ff3dac"/>
-        <updated>2025-08-26T07:53:42.000Z</updated>
-        <summary type="html"><![CDATA[change paid boost parameters add xgboost sort for empty profile
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/166" data-original="search-engine/service-search-engine!166" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43126" data-project-path="search-engine/service-search-engine" data-iid="166" data-mr-title="change paid boost parameters add xgboost sort for empty profile" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!166</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[change paid boost parameters add xgboost sort for empty profile]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/826b2257402e86cbd19119b0826fa196e20203b3</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/826b2257402e86cbd19119b0826fa196e20203b3"/>
-        <updated>2025-08-26T07:28:53.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-446' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/afa0795fcaa7d6de19312f9885e92821ce2d1778</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/afa0795fcaa7d6de19312f9885e92821ce2d1778"/>
-        <updated>2025-08-26T01:37:17.000Z</updated>
-        <summary type="html"><![CDATA[update paid boost for non kw and add cache for non kw
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/164" data-original="search-engine/service-search-engine!164" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43109" data-project-path="search-engine/service-search-engine" data-iid="164" data-mr-title="update paid boost for non kw and add cache for non kw" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!164</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update paid boost for non kw and add cache for non kw]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db9901cbb8a1adb1fbed02942b81579cd430d612</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db9901cbb8a1adb1fbed02942b81579cd430d612"/>
-        <updated>2025-08-26T01:24:35.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>

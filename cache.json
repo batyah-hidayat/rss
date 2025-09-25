@@ -194,26 +194,6 @@
           "wordCount": 1175,
           "title": "feat: release promo and paid for 100%",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2c81de67f009ad5b7ecdcf83f55057c766373248",
-          "author": null,
-          "description": "feat: update job alert rule\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/174\" data-original=\"recommendation/service-recommendation!174\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43127\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"174\" data-mr-title=\"feat: update job alert rule\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!174</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2c81de67f009ad5b7ecdcf83f55057c766373248",
-          "publishedOn": "2025-08-26T09:36:15.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-451-update-job-alert-rule' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8af11da6fd6c9af84e40bf4ead1f3c47f9783e58",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8af11da6fd6c9af84e40bf4ead1f3c47f9783e58",
-          "publishedOn": "2025-08-26T08:07:58.000Z",
-          "wordCount": 1175,
-          "title": "feat: update job alert rule",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -400,46 +380,6 @@
           "publishedOn": "2025-08-28T03:11:10.000Z",
           "wordCount": 1175,
           "title": "enable embeddings search for mobile app and B",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e3e15cfea543b2d31e6943ae69e0bdcc61ff3dac",
-          "author": null,
-          "description": "change paid boost parameters add xgboost sort for empty profile\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/166\" data-original=\"search-engine/service-search-engine!166\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43126\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"166\" data-mr-title=\"change paid boost parameters add xgboost sort for empty profile\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!166</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e3e15cfea543b2d31e6943ae69e0bdcc61ff3dac",
-          "publishedOn": "2025-08-26T07:53:42.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-446' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/826b2257402e86cbd19119b0826fa196e20203b3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/826b2257402e86cbd19119b0826fa196e20203b3",
-          "publishedOn": "2025-08-26T07:28:53.000Z",
-          "wordCount": 1175,
-          "title": "change paid boost parameters add xgboost sort for empty profile",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/afa0795fcaa7d6de19312f9885e92821ce2d1778",
-          "author": null,
-          "description": "update paid boost for non kw and add cache for non kw\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/164\" data-original=\"search-engine/service-search-engine!164\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43109\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"164\" data-mr-title=\"update paid boost for non kw and add cache for non kw\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!164</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/afa0795fcaa7d6de19312f9885e92821ce2d1778",
-          "publishedOn": "2025-08-26T01:37:17.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-446' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db9901cbb8a1adb1fbed02942b81579cd430d612",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db9901cbb8a1adb1fbed02942b81579cd430d612",
-          "publishedOn": "2025-08-26T01:24:35.000Z",
-          "wordCount": 1175,
-          "title": "update paid boost for non kw and add cache for non kw",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
