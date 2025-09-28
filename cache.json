@@ -301,56 +301,6 @@
           "wordCount": 1175,
           "title": "encode embeddings in real time",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62a9b219f2689091e8fec971f563e422cee1a431",
-          "author": null,
-          "description": "Feat/ise 454\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/180\" data-original=\"search-engine/service-search-engine!180\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43236\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"180\" data-mr-title=\"Feat/ise 454\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!180</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/62a9b219f2689091e8fec971f563e422cee1a431",
-          "publishedOn": "2025-08-29T07:01:35.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-454' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f156142021876b8f3bc11bf374aa3cf2af542c8e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f156142021876b8f3bc11bf374aa3cf2af542c8e",
-          "publishedOn": "2025-08-29T06:40:50.000Z",
-          "wordCount": 1175,
-          "title": "add check for mil counter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6648c73760641c3cca3d1d9cae206d36b4faceb7",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6648c73760641c3cca3d1d9cae206d36b4faceb7",
-          "publishedOn": "2025-08-29T05:19:44.000Z",
-          "wordCount": 1175,
-          "title": "update to pointer counter for embeddings usage",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1ee500bcd69a9d4cae3080382c15e059ffa6ba5b",
-          "author": null,
-          "description": "add counter for embeddings usage\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/175\" data-original=\"search-engine/service-search-engine!175\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43223\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"175\" data-mr-title=\"add counter for embeddings usage\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!175</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1ee500bcd69a9d4cae3080382c15e059ffa6ba5b",
-          "publishedOn": "2025-08-29T03:45:47.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-454' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/03d70eb48d81b8452a87c6e8689189180b6e5e15",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/03d70eb48d81b8452a87c6e8689189180b6e5e15",
-          "publishedOn": "2025-08-29T03:09:42.000Z",
-          "wordCount": 1175,
-          "title": "add counter for embeddings usage",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
