@@ -271,36 +271,6 @@
           "wordCount": 1175,
           "title": "add discount for many job views for ai search",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/72058b26265cef769a9e621e9b62a8909cff1587",
-          "author": null,
-          "description": "Feat/ise 461\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/183\" data-original=\"search-engine/service-search-engine!183\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43258\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"183\" data-mr-title=\"Feat/ise 461\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!183</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/72058b26265cef769a9e621e9b62a8909cff1587",
-          "publishedOn": "2025-09-03T06:28:59.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-461' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9ad1bf96328f5af2e3e0eaf56d8c070036b208e5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9ad1bf96328f5af2e3e0eaf56d8c070036b208e5",
-          "publishedOn": "2025-09-03T05:03:20.000Z",
-          "wordCount": 1175,
-          "title": "encode embeddings in real time for staging and production",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7872a3fa094adf36531c30d089d5c122bf2fc0e9",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7872a3fa094adf36531c30d089d5c122bf2fc0e9",
-          "publishedOn": "2025-09-03T02:27:18.000Z",
-          "wordCount": 1175,
-          "title": "encode embeddings in real time",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
