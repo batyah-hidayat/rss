@@ -231,46 +231,6 @@
           "wordCount": 1175,
           "title": "ai search for mobile 100%",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c54c911ca4ea799a4cb4652e3b30ddaaba61fbcc",
-          "author": null,
-          "description": "update search logs for ai search\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/188\" data-original=\"search-engine/service-search-engine!188\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43286\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"188\" data-mr-title=\"update search logs for ai search\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!188</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c54c911ca4ea799a4cb4652e3b30ddaaba61fbcc",
-          "publishedOn": "2025-09-04T08:05:53.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-461' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2bab54eb0c5762e56e36eb1b7d0a7b373c7b7a8f",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2bab54eb0c5762e56e36eb1b7d0a7b373c7b7a8f",
-          "publishedOn": "2025-09-04T07:54:41.000Z",
-          "wordCount": 1175,
-          "title": "update search logs for ai search",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdf0495096993dc84a52a75d2cd8f0d4d5886017",
-          "author": null,
-          "description": "add discount for many job views for ai search\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/186\" data-original=\"search-engine/service-search-engine!186\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43275\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"186\" data-mr-title=\"add discount for many job views for ai search\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!186</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdf0495096993dc84a52a75d2cd8f0d4d5886017",
-          "publishedOn": "2025-09-04T05:27:07.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-461' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/28692eb6be36db214a4f9557e7ec448d2329f2ad",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/28692eb6be36db214a4f9557e7ec448d2329f2ad",
-          "publishedOn": "2025-09-04T04:21:12.000Z",
-          "wordCount": 1175,
-          "title": "add discount for many job views for ai search",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

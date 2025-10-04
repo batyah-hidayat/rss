@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-03T01:22:52.678Z</id>
+    <id>urn:2025-10-04T01:20:46.601Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-03T01:22:52.678Z</updated>
+    <updated>2025-10-04T01:20:46.601Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -239,50 +239,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-461' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c54c911ca4ea799a4cb4652e3b30ddaaba61fbcc</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c54c911ca4ea799a4cb4652e3b30ddaaba61fbcc"/>
-        <updated>2025-09-04T08:05:53.000Z</updated>
-        <summary type="html"><![CDATA[update search logs for ai search
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/188" data-original="search-engine/service-search-engine!188" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43286" data-project-path="search-engine/service-search-engine" data-iid="188" data-mr-title="update search logs for ai search" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!188</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update search logs for ai search]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2bab54eb0c5762e56e36eb1b7d0a7b373c7b7a8f</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2bab54eb0c5762e56e36eb1b7d0a7b373c7b7a8f"/>
-        <updated>2025-09-04T07:54:41.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-461' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdf0495096993dc84a52a75d2cd8f0d4d5886017</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdf0495096993dc84a52a75d2cd8f0d4d5886017"/>
-        <updated>2025-09-04T05:27:07.000Z</updated>
-        <summary type="html"><![CDATA[add discount for many job views for ai search
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/186" data-original="search-engine/service-search-engine!186" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43275" data-project-path="search-engine/service-search-engine" data-iid="186" data-mr-title="add discount for many job views for ai search" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!186</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add discount for many job views for ai search]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/28692eb6be36db214a4f9557e7ec448d2329f2ad</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/28692eb6be36db214a4f9557e7ec448d2329f2ad"/>
-        <updated>2025-09-04T04:21:12.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
