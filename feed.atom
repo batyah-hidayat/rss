@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-07T01:24:14.148Z</id>
+    <id>urn:2025-10-08T01:24:32.722Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-07T01:24:14.148Z</updated>
+    <updated>2025-10-08T01:24:32.722Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -227,16 +227,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[feat: replace onelink on email
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/188" data-original="recommendation/service-recommendation!188" data-link="false" data-link-reference="false" data-project="335" data-merge-request="43347" data-project-path="recommendation/service-recommendation" data-iid="188" data-mr-title="feat: replace onelink on email" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!188</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: replace onelink on email]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3da7afaf510e2cb0e29fa654a8a63de772d59fe1</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3da7afaf510e2cb0e29fa654a8a63de772d59fe1"/>
-        <updated>2025-09-08T08:28:45.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
