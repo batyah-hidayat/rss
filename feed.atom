@@ -1,10 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-14T01:24:55.203Z</id>
+    <id>urn:2025-10-15T01:27:08.706Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-14T01:24:55.203Z</updated>
+    <updated>2025-10-15T01:27:08.706Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-521' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6f73473d0f4db6d0aa1f7c5337d70e810ad85a4</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6f73473d0f4db6d0aa1f7c5337d70e810ad85a4"/>
+        <updated>2025-10-14T05:56:40.000Z</updated>
+        <summary type="html"><![CDATA[Feat/ise 521
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/203" data-original="search-engine/service-search-engine!203" data-link="false" data-link-reference="false" data-project="313" data-merge-request="44010" data-project-path="search-engine/service-search-engine" data-iid="203" data-mr-title="Feat/ise 521" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!203</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/production' into feat/ise-522]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4c242e6e89915cead98b93ef6cf882a8cc4994b7</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4c242e6e89915cead98b93ef6cf882a8cc4994b7"/>
+        <updated>2025-10-14T05:21:56.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/add-search-id-into-exclude' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c35e89a4426e5e323612efd151112f75d5c9ce38</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c35e89a4426e5e323612efd151112f75d5c9ce38"/>
+        <updated>2025-10-14T04:37:25.000Z</updated>
+        <summary type="html"><![CDATA[feat: sort cache key
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/200" data-original="search-engine/service-search-engine!200" data-link="false" data-link-reference="false" data-project="313" data-merge-request="44006" data-project-path="search-engine/service-search-engine" data-iid="200" data-mr-title="feat: sort cache key" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!200</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: sort key]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1f06b5c72d190cb4776d4293129360f1be9ce63b</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/1f06b5c72d190cb4776d4293129360f1be9ce63b"/>
+        <updated>2025-10-14T04:32:53.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/production' into feat/ise-521]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/63468ec5dcef246c719e4526d55fffec39642b42</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/63468ec5dcef246c719e4526d55fffec39642b42"/>
+        <updated>2025-10-14T04:09:33.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/add-search-id-into-exclude' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bd0d65914bb137963ce4d8741c638b61f57dfb27</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bd0d65914bb137963ce4d8741c638b61f57dfb27"/>
+        <updated>2025-10-14T03:56:31.000Z</updated>
+        <summary type="html"><![CDATA[feat: add search_id into exclude cache key
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/199" data-original="search-engine/service-search-engine!199" data-link="false" data-link-reference="false" data-project="313" data-merge-request="44003" data-project-path="search-engine/service-search-engine" data-iid="199" data-mr-title="feat: add search_id into exclude cache key" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!199</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add search_id into exclude cache key]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/951f751926df8e4ca1a2bd04a3a3306210618c1d</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/951f751926df8e4ca1a2bd04a3a3306210618c1d"/>
+        <updated>2025-10-14T03:54:13.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/production' into feat/ise-521]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6406d78581597f9e1f515541074f35da8a6a0f41</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6406d78581597f9e1f515541074f35da8a6a0f41"/>
+        <updated>2025-10-14T03:33:30.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[enable AI search for web B version]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/407f35d23f29d27bdba6f75f7a12b2416ff8a505</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/407f35d23f29d27bdba6f75f7a12b2416ff8a505"/>
+        <updated>2025-10-14T03:33:10.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'release/2025-10-13' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3673c812b980905e168d6cb726996f653d6c22bf</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3673c812b980905e168d6cb726996f653d6c22bf"/>
+        <updated>2025-10-14T03:30:59.000Z</updated>
+        <summary type="html"><![CDATA[Release: 2025 10 13 to production
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/196" data-original="search-engine/service-search-engine!196" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43988" data-project-path="search-engine/service-search-engine" data-iid="196" data-mr-title="Release: 2025 10 13 to production" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!196</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: just return distance for show jp]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/82878426308ae628a7d25a220d93f2a0d1ae5fee</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/82878426308ae628a7d25a220d93f2a0d1ae5fee"/>
+        <updated>2025-10-13T10:12:47.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: change cache key to full url]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5973245201310998d50eef953ebac4e81c762c9</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5973245201310998d50eef953ebac4e81c762c9"/>
+        <updated>2025-10-13T09:30:07.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add default lat, lng]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/38ab30ad9296eee072a41a6917fc171993b180e0</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/38ab30ad9296eee072a41a6917fc171993b180e0"/>
+        <updated>2025-10-13T09:26:00.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add filter job near me]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5f307af68ca98c4e41f81038afbc8044c93ba45e</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5f307af68ca98c4e41f81038afbc8044c93ba45e"/>
+        <updated>2025-10-13T09:25:54.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-505' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47833fe0903e38f396563f4cb03fad144ba3b8eb</id>
