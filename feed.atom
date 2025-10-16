@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-15T01:27:08.706Z</id>
+    <id>urn:2025-10-16T01:26:29.254Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-15T01:27:08.706Z</updated>
+    <updated>2025-10-16T01:26:29.254Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -333,16 +333,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ai search for mobile 100%]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/566d824936f8bd7cfbf37c909ea0cf353dd699d4</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/566d824936f8bd7cfbf37c909ea0cf353dd699d4"/>
-        <updated>2025-09-16T06:19:33.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
