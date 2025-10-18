@@ -104,36 +104,6 @@
           "wordCount": 1175,
           "title": "feat: forward traffic to rec v2",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/62221ed874767882abb03b1d2d506e96506afa34",
-          "author": null,
-          "description": "feat: update cache key\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/190\" data-original=\"recommendation/service-recommendation!190\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"43509\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"190\" data-mr-title=\"feat: update cache key\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!190</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/62221ed874767882abb03b1d2d506e96506afa34",
-          "publishedOn": "2025-09-18T10:17:43.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'fix/cache-similar-job' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1e0dcadf68824d8192587be200786bd35459da19",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1e0dcadf68824d8192587be200786bd35459da19",
-          "publishedOn": "2025-09-18T10:11:30.000Z",
-          "wordCount": 1175,
-          "title": "feat: remove get profile from device id",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c048df47b688a7bd8ec956fa1801ce095f8c4b85",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c048df47b688a7bd8ec956fa1801ce095f8c4b85",
-          "publishedOn": "2025-09-18T10:05:55.000Z",
-          "wordCount": 1175,
-          "title": "feat: update cache key",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
