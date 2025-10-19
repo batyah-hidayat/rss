@@ -94,16 +94,6 @@
           "wordCount": 1175,
           "title": "feat: random 10% of traffic",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/15e6d741fe1dd3ddac82a31dd59d6307894625a1",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/15e6d741fe1dd3ddac82a31dd59d6307894625a1",
-          "publishedOn": "2025-09-19T06:57:29.000Z",
-          "wordCount": 1175,
-          "title": "feat: forward traffic to rec v2",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
