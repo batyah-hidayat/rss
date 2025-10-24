@@ -53,6 +53,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f045ebf35da911ffb8a3ae672a2a7e40161e697e",
+          "author": null,
+          "description": "feat: skip invalid job in index load\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/205\" data-original=\"search-engine/service-search-engine!205\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44189\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"205\" data-mr-title=\"feat: skip invalid job in index load\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!205</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f045ebf35da911ffb8a3ae672a2a7e40161e697e",
+          "publishedOn": "2025-10-23T09:06:20.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-535' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/170bd2473a4ce61efb820a22dde23137daf60700",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/170bd2473a4ce61efb820a22dde23137daf60700",
+          "publishedOn": "2025-10-23T04:33:11.000Z",
+          "wordCount": 1175,
+          "title": "feat: skip invalid job in index load",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6f73473d0f4db6d0aa1f7c5337d70e810ad85a4",
           "author": null,
           "description": "Feat/ise 521\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/203\" data-original=\"search-engine/service-search-engine!203\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44010\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"203\" data-mr-title=\"Feat/ise 521\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!203</a>",
