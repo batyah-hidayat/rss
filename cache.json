@@ -170,36 +170,6 @@
           "wordCount": 1175,
           "title": "feat: add filter job near me",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47833fe0903e38f396563f4cb03fad144ba3b8eb",
-          "author": null,
-          "description": "feat: update salary filter\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/193\" data-original=\"search-engine/service-search-engine!193\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"43682\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"193\" data-mr-title=\"feat: update salary filter\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!193</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47833fe0903e38f396563f4cb03fad144ba3b8eb",
-          "publishedOn": "2025-09-26T08:16:08.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-505' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b1a6d0e2ac46b506e0592322412d8336fc7bc1aa",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b1a6d0e2ac46b506e0592322412d8336fc7bc1aa",
-          "publishedOn": "2025-09-26T08:09:42.000Z",
-          "wordCount": 1175,
-          "title": "feat: add filter for salary_range",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d94ec272b4f5e4bd354e4b507ff1017c872f9b11",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d94ec272b4f5e4bd354e4b507ff1017c872f9b11",
-          "publishedOn": "2025-09-26T07:15:43.000Z",
-          "wordCount": 1175,
-          "title": "feat: update salary filter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
