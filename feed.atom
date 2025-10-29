@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-10-28T01:26:54.859Z</id>
+    <id>urn:2025-10-29T01:41:18.248Z</id>
     <title>osmos::feed</title>
-    <updated>2025-10-28T01:26:54.859Z</updated>
+    <updated>2025-10-29T01:41:18.248Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'fix/restart' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/595dfd52afb86ba34a3abaeb511180f386cb3242</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/595dfd52afb86ba34a3abaeb511180f386cb3242"/>
+        <updated>2025-10-28T08:55:43.000Z</updated>
+        <summary type="html"><![CDATA[fix: just commit for restart
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/206" data-original="search-engine/service-search-engine!206" data-link="false" data-link-reference="false" data-project="313" data-merge-request="44263" data-project-path="search-engine/service-search-engine" data-iid="206" data-mr-title="fix: just commit for restart" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!206</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix: just commit for restart]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/58cabc268f1b668d550e0cf05a6d9f72172b71b8</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/58cabc268f1b668d550e0cf05a6d9f72172b71b8"/>
+        <updated>2025-10-28T08:53:34.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-535' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f045ebf35da911ffb8a3ae672a2a7e40161e697e</id>
