@@ -4,13 +4,74 @@
       "title": "Service Recommendation:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f5d9eeb71adf0c631b9081315031da2bb932f5a6",
+          "author": null,
+          "description": "Release/30 10 2025\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/241\" data-original=\"recommendation/service-recommendation!241\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44314\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"241\" data-mr-title=\"Release/30 10 2025\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!241</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f5d9eeb71adf0c631b9081315031da2bb932f5a6",
+          "publishedOn": "2025-10-30T08:01:57.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/30-10-2025' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bc3d9043a04cdc79a046e26e93c1d63804e114da",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bc3d9043a04cdc79a046e26e93c1d63804e114da",
+          "publishedOn": "2025-10-30T07:27:39.000Z",
+          "wordCount": 1175,
+          "title": "Merge remote-tracking branch 'origin/production' into release/29-10-2025",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f844aefb910bab19f03af0e6383e82e47cc666a1",
+          "author": null,
+          "description": "add check for list similar reset profile for similar job\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/235\" data-original=\"recommendation/service-recommendation!235\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44013\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"235\" data-mr-title=\"add check for list similar reset profile for similar job\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!235</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f844aefb910bab19f03af0e6383e82e47cc666a1",
+          "publishedOn": "2025-10-14T07:24:01.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-504' into 'production-v2'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/174e2cb8b988a53bb29936c20dfe918eca4e1677",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/174e2cb8b988a53bb29936c20dfe918eca4e1677",
+          "publishedOn": "2025-10-14T07:12:50.000Z",
+          "wordCount": 1175,
+          "title": "add check for list similar reset profile for similar job",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        }
+      ]
     },
     {
       "title": "Service Search Engine:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b28addbc6599978617b1cf262446dd2a94a2cc60",
+          "author": null,
+          "description": "100% release for embedings web and mobile\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/209\" data-original=\"search-engine/service-search-engine!209\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44300\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"209\" data-mr-title=\"100% release for embedings web and mobile\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!209</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b28addbc6599978617b1cf262446dd2a94a2cc60",
+          "publishedOn": "2025-10-30T06:34:51.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/30-10-2025' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c615f076784804530733a665637dd216ae8067d6",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c615f076784804530733a665637dd216ae8067d6",
+          "publishedOn": "2025-10-30T01:11:46.000Z",
+          "wordCount": 1175,
+          "title": "100% release for embedings web and mobile",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/595dfd52afb86ba34a3abaeb511180f386cb3242",
           "author": null,
