@@ -261,46 +261,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'release/2025-10-13' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/82878426308ae628a7d25a220d93f2a0d1ae5fee",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/82878426308ae628a7d25a220d93f2a0d1ae5fee",
-          "publishedOn": "2025-10-13T10:12:47.000Z",
-          "wordCount": 1175,
-          "title": "feat: just return distance for show jp",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5973245201310998d50eef953ebac4e81c762c9",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5973245201310998d50eef953ebac4e81c762c9",
-          "publishedOn": "2025-10-13T09:30:07.000Z",
-          "wordCount": 1175,
-          "title": "feat: change cache key to full url",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/38ab30ad9296eee072a41a6917fc171993b180e0",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/38ab30ad9296eee072a41a6917fc171993b180e0",
-          "publishedOn": "2025-10-13T09:26:00.000Z",
-          "wordCount": 1175,
-          "title": "feat: add default lat, lng",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5f307af68ca98c4e41f81038afbc8044c93ba45e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5f307af68ca98c4e41f81038afbc8044c93ba45e",
-          "publishedOn": "2025-10-13T09:25:54.000Z",
-          "wordCount": 1175,
-          "title": "feat: add filter job near me",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

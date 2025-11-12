@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-11T01:40:22.520Z</id>
+    <id>urn:2025-11-12T01:39:33.979Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-11T01:40:22.520Z</updated>
+    <updated>2025-11-12T01:39:33.979Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -273,46 +273,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[Release: 2025 10 13 to production
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/196" data-original="search-engine/service-search-engine!196" data-link="false" data-link-reference="false" data-project="313" data-merge-request="43988" data-project-path="search-engine/service-search-engine" data-iid="196" data-mr-title="Release: 2025 10 13 to production" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!196</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: just return distance for show jp]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/82878426308ae628a7d25a220d93f2a0d1ae5fee</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/82878426308ae628a7d25a220d93f2a0d1ae5fee"/>
-        <updated>2025-10-13T10:12:47.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: change cache key to full url]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5973245201310998d50eef953ebac4e81c762c9</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f5973245201310998d50eef953ebac4e81c762c9"/>
-        <updated>2025-10-13T09:30:07.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: add default lat, lng]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/38ab30ad9296eee072a41a6917fc171993b180e0</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/38ab30ad9296eee072a41a6917fc171993b180e0"/>
-        <updated>2025-10-13T09:26:00.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: add filter job near me]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5f307af68ca98c4e41f81038afbc8044c93ba45e</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5f307af68ca98c4e41f81038afbc8044c93ba45e"/>
-        <updated>2025-10-13T09:25:54.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
