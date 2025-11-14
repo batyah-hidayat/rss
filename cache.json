@@ -6,6 +6,76 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7c3b5f86922b691fac0cfdfa4deb0b3c5a9003fa",
+          "author": null,
+          "description": "Release: 2025-11-13\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/252\" data-original=\"recommendation/service-recommendation!252\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44557\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"252\" data-mr-title=\"Release: 2025-11-13\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!252</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7c3b5f86922b691fac0cfdfa4deb0b3c5a9003fa",
+          "publishedOn": "2025-11-13T06:21:01.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/2025-11-13' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/219d812cb96011e994e9789cced4ba6fa72daa1f",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/219d812cb96011e994e9789cced4ba6fa72daa1f",
+          "publishedOn": "2025-11-13T03:50:44.000Z",
+          "wordCount": 1175,
+          "title": "feat: default rec sort",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/625725f28b4f09f884ec0a07c6adf26a91f57888",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/625725f28b4f09f884ec0a07c6adf26a91f57888",
+          "publishedOn": "2025-11-13T03:47:42.000Z",
+          "wordCount": 1175,
+          "title": "feat: remove build key func",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5796d6c2af610a8e8fe6010a52f2dd4784e8068e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5796d6c2af610a8e8fe6010a52f2dd4784e8068e",
+          "publishedOn": "2025-11-13T03:32:04.000Z",
+          "wordCount": 1175,
+          "title": "feat: add log for load Params",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7bfbe5abe46813ea13a1b6a1cadb011763414d22",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7bfbe5abe46813ea13a1b6a1cadb011763414d22",
+          "publishedOn": "2025-11-13T03:28:32.000Z",
+          "wordCount": 1175,
+          "title": "feat: add a/b test for disable occupation filter",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b81a43fb2c6443d751a3ab54e94ed08166e0262a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b81a43fb2c6443d751a3ab54e94ed08166e0262a",
+          "publishedOn": "2025-11-13T03:26:21.000Z",
+          "wordCount": 1175,
+          "title": "feat: add sort query parameter",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e1d1bf18b531041945b7fb9f3db56f34d0e6e035",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e1d1bf18b531041945b7fb9f3db56f34d0e6e035",
+          "publishedOn": "2025-11-13T03:24:32.000Z",
+          "wordCount": 1175,
+          "title": "feat: add cache key for full url for cv rec",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c289477fe1849c8f5dd47f967aa752142047cdd6",
           "author": null,
           "description": "Release 2025 11 06 to prod\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/244\" data-original=\"recommendation/service-recommendation!244\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44448\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"244\" data-mr-title=\"Release 2025 11 06 to prod\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!244</a>",
