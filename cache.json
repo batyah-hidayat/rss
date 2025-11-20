@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/610b9aeb927fca654bb55f27246b63cb6e6f8899",
+          "author": null,
+          "description": "fix similar job\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/257\" data-original=\"recommendation/service-recommendation!257\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44691\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"257\" data-mr-title=\"fix similar job\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!257</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/610b9aeb927fca654bb55f27246b63cb6e6f8899",
+          "publishedOn": "2025-11-19T08:55:36.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-597' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/01a1ff9d4ea3b3a6cbffbb5362f08fb3c0a23df8",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/01a1ff9d4ea3b3a6cbffbb5362f08fb3c0a23df8",
+          "publishedOn": "2025-11-19T08:41:01.000Z",
+          "wordCount": 1175,
+          "title": "fix similar job",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7c3b5f86922b691fac0cfdfa4deb0b3c5a9003fa",
           "author": null,
           "description": "Release: 2025-11-13\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/252\" data-original=\"recommendation/service-recommendation!252\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44557\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"252\" data-mr-title=\"Release: 2025-11-13\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!252</a>",
