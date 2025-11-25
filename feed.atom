@@ -1,10 +1,120 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-24T01:46:02.790Z</id>
+    <id>urn:2025-11-25T01:40:39.315Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-24T01:46:02.790Z</updated>
+    <updated>2025-11-25T01:40:39.315Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-603' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5bb1a0b22ea11f214b95cf89d34363d1455040d1</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5bb1a0b22ea11f214b95cf89d34363d1455040d1"/>
+        <updated>2025-11-24T08:42:17.000Z</updated>
+        <summary type="html"><![CDATA[add mutex lock for  buildCandidateRecommendationFeatures
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/271" data-original="recommendation/service-recommendation!271" data-link="false" data-link-reference="false" data-project="335" data-merge-request="44780" data-project-path="recommendation/service-recommendation" data-iid="271" data-mr-title="add mutex lock for  buildCandidateRecommendationFeatures" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!271</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add mutex lock for  buildCandidateRecommendationFeatures]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ecc841ed3253dd0c5cd095ea06800a98e458e3c4</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ecc841ed3253dd0c5cd095ea06800a98e458e3c4"/>
+        <updated>2025-11-24T08:35:53.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-603' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f71ba2c2acf2a3aa5962500b4305b23e825e25dc</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f71ba2c2acf2a3aa5962500b4305b23e825e25dc"/>
+        <updated>2025-11-24T08:11:06.000Z</updated>
+        <summary type="html"><![CDATA[add flush logs
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/269" data-original="recommendation/service-recommendation!269" data-link="false" data-link-reference="false" data-project="335" data-merge-request="44776" data-project-path="recommendation/service-recommendation" data-iid="269" data-mr-title="add flush logs" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!269</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add flush logs]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/78da0d5cdffb5c6708da09cc48e7c5d5041548c6</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/78da0d5cdffb5c6708da09cc48e7c5d5041548c6"/>
+        <updated>2025-11-24T08:03:56.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-603' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/147ac3ad1c2ccf36f2a74b70e6d7b4926672cdd1</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/147ac3ad1c2ccf36f2a74b70e6d7b4926672cdd1"/>
+        <updated>2025-11-24T07:19:28.000Z</updated>
+        <summary type="html"><![CDATA[add debug print
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/266" data-original="recommendation/service-recommendation!266" data-link="false" data-link-reference="false" data-project="335" data-merge-request="44770" data-project-path="recommendation/service-recommendation" data-iid="266" data-mr-title="add debug print" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!266</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add debug print]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b98d8190ce48ddda57d743ade9355c5344066780</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b98d8190ce48ddda57d743ade9355c5344066780"/>
+        <updated>2025-11-24T07:13:43.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-603' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ea328c8359a8f9aab180fc76fc2217af3cd4eac</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ea328c8359a8f9aab180fc76fc2217af3cd4eac"/>
+        <updated>2025-11-24T05:26:56.000Z</updated>
+        <summary type="html"><![CDATA[add check for jobMap
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/264" data-original="recommendation/service-recommendation!264" data-link="false" data-link-reference="false" data-project="335" data-merge-request="44756" data-project-path="recommendation/service-recommendation" data-iid="264" data-mr-title="add check for jobMap" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!264</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add check for jobMap]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d7a7f5cd92a21138b8a24f18159d2a6eabdce288</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d7a7f5cd92a21138b8a24f18159d2a6eabdce288"/>
+        <updated>2025-11-24T05:16:37.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-603' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de68c60017c699d26da625bac06c8229dccbd8a5</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de68c60017c699d26da625bac06c8229dccbd8a5"/>
+        <updated>2025-11-24T02:18:44.000Z</updated>
+        <summary type="html"><![CDATA[B version of features for CV recommend
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/262" data-original="recommendation/service-recommendation!262" data-link="false" data-link-reference="false" data-project="335" data-merge-request="44746" data-project-path="recommendation/service-recommendation" data-iid="262" data-mr-title="B version of features for CV recommend" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!262</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[B version of features for CV recommend]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3a5d4f5e9b4d72eac7cab14a73056f82bcbbd168</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3a5d4f5e9b4d72eac7cab14a73056f82bcbbd168"/>
+        <updated>2025-11-21T06:01:50.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-556' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6045c99147a42c84482a86ed17d008b44bfb188</id>

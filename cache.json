@@ -6,6 +6,106 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5bb1a0b22ea11f214b95cf89d34363d1455040d1",
+          "author": null,
+          "description": "add mutex lock for  buildCandidateRecommendationFeatures\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/271\" data-original=\"recommendation/service-recommendation!271\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44780\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"271\" data-mr-title=\"add mutex lock for  buildCandidateRecommendationFeatures\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!271</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5bb1a0b22ea11f214b95cf89d34363d1455040d1",
+          "publishedOn": "2025-11-24T08:42:17.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-603' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ecc841ed3253dd0c5cd095ea06800a98e458e3c4",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ecc841ed3253dd0c5cd095ea06800a98e458e3c4",
+          "publishedOn": "2025-11-24T08:35:53.000Z",
+          "wordCount": 1175,
+          "title": "add mutex lock for  buildCandidateRecommendationFeatures",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f71ba2c2acf2a3aa5962500b4305b23e825e25dc",
+          "author": null,
+          "description": "add flush logs\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/269\" data-original=\"recommendation/service-recommendation!269\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44776\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"269\" data-mr-title=\"add flush logs\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!269</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f71ba2c2acf2a3aa5962500b4305b23e825e25dc",
+          "publishedOn": "2025-11-24T08:11:06.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-603' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/78da0d5cdffb5c6708da09cc48e7c5d5041548c6",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/78da0d5cdffb5c6708da09cc48e7c5d5041548c6",
+          "publishedOn": "2025-11-24T08:03:56.000Z",
+          "wordCount": 1175,
+          "title": "add flush logs",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/147ac3ad1c2ccf36f2a74b70e6d7b4926672cdd1",
+          "author": null,
+          "description": "add debug print\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/266\" data-original=\"recommendation/service-recommendation!266\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44770\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"266\" data-mr-title=\"add debug print\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!266</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/147ac3ad1c2ccf36f2a74b70e6d7b4926672cdd1",
+          "publishedOn": "2025-11-24T07:19:28.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-603' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b98d8190ce48ddda57d743ade9355c5344066780",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b98d8190ce48ddda57d743ade9355c5344066780",
+          "publishedOn": "2025-11-24T07:13:43.000Z",
+          "wordCount": 1175,
+          "title": "add debug print",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ea328c8359a8f9aab180fc76fc2217af3cd4eac",
+          "author": null,
+          "description": "add check for jobMap\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/264\" data-original=\"recommendation/service-recommendation!264\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44756\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"264\" data-mr-title=\"add check for jobMap\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!264</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ea328c8359a8f9aab180fc76fc2217af3cd4eac",
+          "publishedOn": "2025-11-24T05:26:56.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-603' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d7a7f5cd92a21138b8a24f18159d2a6eabdce288",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d7a7f5cd92a21138b8a24f18159d2a6eabdce288",
+          "publishedOn": "2025-11-24T05:16:37.000Z",
+          "wordCount": 1175,
+          "title": "add check for jobMap",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de68c60017c699d26da625bac06c8229dccbd8a5",
+          "author": null,
+          "description": "B version of features for CV recommend\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/262\" data-original=\"recommendation/service-recommendation!262\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44746\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"262\" data-mr-title=\"B version of features for CV recommend\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!262</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/de68c60017c699d26da625bac06c8229dccbd8a5",
+          "publishedOn": "2025-11-24T02:18:44.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-603' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3a5d4f5e9b4d72eac7cab14a73056f82bcbbd168",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3a5d4f5e9b4d72eac7cab14a73056f82bcbbd168",
+          "publishedOn": "2025-11-21T06:01:50.000Z",
+          "wordCount": 1175,
+          "title": "B version of features for CV recommend",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2d3ddfcaa18a34b5001904eb28083264d7a28615",
           "author": null,
           "description": "feat: 100% for handicap b version\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/259\" data-original=\"recommendation/service-recommendation!259\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44710\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"259\" data-mr-title=\"feat: 100% for handicap b version\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!259</a>",
