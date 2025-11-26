@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-11-25T01:40:39.315Z</id>
+    <id>urn:2025-11-26T01:40:16.981Z</id>
     <title>osmos::feed</title>
-    <updated>2025-11-25T01:40:39.315Z</updated>
+    <updated>2025-11-26T01:40:16.981Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-603' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38461a19ee37200ef64d83460f88d6d2ffb020ee</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38461a19ee37200ef64d83460f88d6d2ffb020ee"/>
+        <updated>2025-11-25T07:35:17.000Z</updated>
+        <summary type="html"><![CDATA[fix fallback aggregator request
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/274" data-original="recommendation/service-recommendation!274" data-link="false" data-link-reference="false" data-project="335" data-merge-request="44816" data-project-path="recommendation/service-recommendation" data-iid="274" data-mr-title="fix fallback aggregator request" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!274</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix fallback aggregator request]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/964d9aa5d505e0df959afdd193276e725e5cc37b</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/964d9aa5d505e0df959afdd193276e725e5cc37b"/>
+        <updated>2025-11-25T07:19:56.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-603' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5bb1a0b22ea11f214b95cf89d34363d1455040d1</id>

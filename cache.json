@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38461a19ee37200ef64d83460f88d6d2ffb020ee",
+          "author": null,
+          "description": "fix fallback aggregator request\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/274\" data-original=\"recommendation/service-recommendation!274\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44816\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"274\" data-mr-title=\"fix fallback aggregator request\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!274</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38461a19ee37200ef64d83460f88d6d2ffb020ee",
+          "publishedOn": "2025-11-25T07:35:17.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-603' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/964d9aa5d505e0df959afdd193276e725e5cc37b",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/964d9aa5d505e0df959afdd193276e725e5cc37b",
+          "publishedOn": "2025-11-25T07:19:56.000Z",
+          "wordCount": 1175,
+          "title": "fix fallback aggregator request",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5bb1a0b22ea11f214b95cf89d34363d1455040d1",
           "author": null,
           "description": "add mutex lock for  buildCandidateRecommendationFeatures\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/271\" data-original=\"recommendation/service-recommendation!271\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44780\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"271\" data-mr-title=\"add mutex lock for  buildCandidateRecommendationFeatures\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!271</a>",
