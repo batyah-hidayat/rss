@@ -501,26 +501,6 @@
           "wordCount": 1175,
           "title": "100% release for embedings web and mobile",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/595dfd52afb86ba34a3abaeb511180f386cb3242",
-          "author": null,
-          "description": "fix: just commit for restart\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/206\" data-original=\"search-engine/service-search-engine!206\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44263\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"206\" data-mr-title=\"fix: just commit for restart\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!206</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/595dfd52afb86ba34a3abaeb511180f386cb3242",
-          "publishedOn": "2025-10-28T08:55:43.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'fix/restart' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/58cabc268f1b668d550e0cf05a6d9f72172b71b8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/58cabc268f1b668d550e0cf05a6d9f72172b71b8",
-          "publishedOn": "2025-10-28T08:53:34.000Z",
-          "wordCount": 1175,
-          "title": "fix: just commit for restart",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
