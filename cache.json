@@ -354,16 +354,6 @@
           "wordCount": 1175,
           "title": "feat: add config for saleorder table",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1db0265ce40e5f4e131399b490a23402630693e5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1db0265ce40e5f4e131399b490a23402630693e5",
-          "publishedOn": "2025-10-31T09:05:31.000Z",
-          "wordCount": 1175,
-          "title": "feat: apply A/B test handicap for monthly freemium",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -450,16 +440,6 @@
           "publishedOn": "2025-11-06T08:05:27.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'release/2025-11-06' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6490883e4bbdfd79a3eec94a03ae3efd963ac19b",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6490883e4bbdfd79a3eec94a03ae3efd963ac19b",
-          "publishedOn": "2025-10-31T07:44:11.000Z",
-          "wordCount": 1175,
-          "title": "feat: apply A/B test handicap for monthly freemium",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
