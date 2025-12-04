@@ -344,16 +344,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'release/2025-11-06' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/94e30e8a34472e4b49a10ed10b9e6cfd1268f021",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/94e30e8a34472e4b49a10ed10b9e6cfd1268f021",
-          "publishedOn": "2025-11-04T02:35:43.000Z",
-          "wordCount": 1175,
-          "title": "feat: add config for saleorder table",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
