@@ -6,6 +6,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3592b64d917a45ed9311f4d7a8bfb1c2fc17af7c",
+          "author": null,
+          "description": "fix: max score for cv recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/277\" data-original=\"recommendation/service-recommendation!277\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45045\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"277\" data-mr-title=\"fix: max score for cv recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!277</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3592b64d917a45ed9311f4d7a8bfb1c2fc17af7c",
+          "publishedOn": "2025-12-04T09:37:26.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'fix/max-score-cv-recommend' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58e6c5b00858949ca2bb40abcecdc1f3cf4c2c12",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58e6c5b00858949ca2bb40abcecdc1f3cf4c2c12",
+          "publishedOn": "2025-12-04T09:34:21.000Z",
+          "wordCount": 1175,
+          "title": "fix: max score for cv recommendation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ff21a0109d3587aec0e0b43886ba5ba93393f921",
+          "author": null,
+          "description": "feat: release for b version\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/276\" data-original=\"recommendation/service-recommendation!276\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45031\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"276\" data-mr-title=\"feat: release for b version\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!276</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ff21a0109d3587aec0e0b43886ba5ba93393f921",
+          "publishedOn": "2025-12-04T08:37:07.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/2025-12-04' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c61c92319c56d4e7efc41a78bce7c64c24cdd2d1",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c61c92319c56d4e7efc41a78bce7c64c24cdd2d1",
+          "publishedOn": "2025-12-04T06:54:30.000Z",
+          "wordCount": 1175,
+          "title": "feat: release for b version",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/38461a19ee37200ef64d83460f88d6d2ffb020ee",
           "author": null,
           "description": "fix fallback aggregator request\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/274\" data-original=\"recommendation/service-recommendation!274\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44816\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"274\" data-mr-title=\"fix fallback aggregator request\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!274</a>",
