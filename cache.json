@@ -374,16 +374,6 @@
           "wordCount": 1175,
           "title": "feat: add cache key for full url for cv rec",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c289477fe1849c8f5dd47f967aa752142047cdd6",
-          "author": null,
-          "description": "Release 2025 11 06 to prod\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/244\" data-original=\"recommendation/service-recommendation!244\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44448\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"244\" data-mr-title=\"Release 2025 11 06 to prod\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!244</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c289477fe1849c8f5dd47f967aa752142047cdd6",
-          "publishedOn": "2025-11-06T08:14:28.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-11-06' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -460,16 +450,6 @@
           "publishedOn": "2025-11-14T06:27:03.000Z",
           "wordCount": 1175,
           "title": "feat: add paid_boost parameter for search",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dacd1f7ccd67bc45ee94df92d1188d9a9b431b6b",
-          "author": null,
-          "description": "Release: 2025 11 06 to prod\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/212\" data-original=\"search-engine/service-search-engine!212\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44447\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"212\" data-mr-title=\"Release: 2025 11 06 to prod\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!212</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dacd1f7ccd67bc45ee94df92d1188d9a9b431b6b",
-          "publishedOn": "2025-11-06T08:05:27.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-11-06' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
