@@ -371,16 +371,6 @@
           "wordCount": 1175,
           "title": "feat: update redis",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4db3bdd6bfd0088eeaba7f4b0b0dc8f62cdfc839",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4db3bdd6bfd0088eeaba7f4b0b0dc8f62cdfc839",
-          "publishedOn": "2025-11-14T06:27:03.000Z",
-          "wordCount": 1175,
-          "title": "feat: add paid_boost parameter for search",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
