@@ -351,26 +351,6 @@
           "wordCount": 1175,
           "title": "feat: 100% for handicap b version",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dbd2e7c0ac9dff9d5867cc2cbf2f79a71d21c7fa",
-          "author": null,
-          "description": "feat: update redis\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/213\" data-original=\"search-engine/service-search-engine!213\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44665\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"213\" data-mr-title=\"feat: update redis\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!213</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dbd2e7c0ac9dff9d5867cc2cbf2f79a71d21c7fa",
-          "publishedOn": "2025-11-18T09:12:52.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-590' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5531d8f8e05388232579cca6ddb543ec9ca0e395",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5531d8f8e05388232579cca6ddb543ec9ca0e395",
-          "publishedOn": "2025-11-18T09:11:20.000Z",
-          "wordCount": 1175,
-          "title": "feat: update redis",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

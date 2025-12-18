@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-17T01:41:43.915Z</id>
+    <id>urn:2025-12-18T01:42:07.976Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-17T01:41:43.915Z</updated>
+    <updated>2025-12-18T01:42:07.976Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -371,28 +371,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-590' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dbd2e7c0ac9dff9d5867cc2cbf2f79a71d21c7fa</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dbd2e7c0ac9dff9d5867cc2cbf2f79a71d21c7fa"/>
-        <updated>2025-11-18T09:12:52.000Z</updated>
-        <summary type="html"><![CDATA[feat: update redis
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/213" data-original="search-engine/service-search-engine!213" data-link="false" data-link-reference="false" data-project="313" data-merge-request="44665" data-project-path="search-engine/service-search-engine" data-iid="213" data-mr-title="feat: update redis" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!213</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: update redis]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5531d8f8e05388232579cca6ddb543ec9ca0e395</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5531d8f8e05388232579cca6ddb543ec9ca0e395"/>
-        <updated>2025-11-18T09:11:20.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
