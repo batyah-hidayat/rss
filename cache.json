@@ -274,36 +274,6 @@
           "wordCount": 1175,
           "title": "feat: filter for optional cv",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/610b9aeb927fca654bb55f27246b63cb6e6f8899",
-          "author": null,
-          "description": "fix similar job\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/257\" data-original=\"recommendation/service-recommendation!257\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"44691\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"257\" data-mr-title=\"fix similar job\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!257</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/610b9aeb927fca654bb55f27246b63cb6e6f8899",
-          "publishedOn": "2025-11-19T08:55:36.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-597' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/01a1ff9d4ea3b3a6cbffbb5362f08fb3c0a23df8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/01a1ff9d4ea3b3a6cbffbb5362f08fb3c0a23df8",
-          "publishedOn": "2025-11-19T08:41:01.000Z",
-          "wordCount": 1175,
-          "title": "fix similar job",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/06b0568311fae6e8a4133edf1336d2cd3690fec4",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/06b0568311fae6e8a4133edf1336d2cd3690fec4",
-          "publishedOn": "2025-11-19T07:13:33.000Z",
-          "wordCount": 1175,
-          "title": "feat: cv recommendation logs",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -312,6 +282,26 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e2455f1caffeb872e56467e83e16249ccabf715",
+          "author": null,
+          "description": "Reload index\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/238\" data-original=\"search-engine/service-search-engine!238\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45217\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"238\" data-mr-title=\"Reload index\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!238</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e2455f1caffeb872e56467e83e16249ccabf715",
+          "publishedOn": "2025-12-18T04:49:15.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'hoahv-production-patch-33234' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d",
+          "publishedOn": "2025-12-18T04:45:44.000Z",
+          "wordCount": 1175,
+          "title": "Update README.md",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6045c99147a42c84482a86ed17d008b44bfb188",
           "author": null,
