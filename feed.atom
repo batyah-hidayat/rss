@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-25T01:46:30.603Z</id>
+    <id>urn:2025-12-26T01:45:58.515Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-25T01:46:30.603Z</updated>
+    <updated>2025-12-26T01:45:58.515Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/js-7293' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0312f816f07e3acce1cf8bc567a2b8967e066e31</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0312f816f07e3acce1cf8bc567a2b8967e066e31"/>
+        <updated>2025-12-25T03:08:44.000Z</updated>
+        <summary type="html"><![CDATA[feat: add URL_VIEW_ALL for recommend email
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/279" data-original="recommendation/service-recommendation!279" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45323" data-project-path="recommendation/service-recommendation" data-iid="279" data-mr-title="feat: add URL_VIEW_ALL for recommend email" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!279</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add URL_VIEW_ALL for recommend email]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46"/>
+        <updated>2025-12-24T09:30:26.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'production-v2' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/549feb8977fc0a0c0769eef3e4461bfbf6caea30</id>
@@ -361,18 +383,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b861013cd6c857a330a230c873e11f669e58e555"/>
         <updated>2025-11-28T07:20:15.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-595' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e185aa7bb806f52506415a1c2ab73e50f22a79f7</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e185aa7bb806f52506415a1c2ab73e50f22a79f7"/>
-        <updated>2025-11-26T06:55:52.000Z</updated>
-        <summary type="html"><![CDATA[Feat/ise 595
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/217" data-original="search-engine/service-search-engine!217" data-link="false" data-link-reference="false" data-project="313" data-merge-request="44855" data-project-path="search-engine/service-search-engine" data-iid="217" data-mr-title="Feat/ise 595" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!217</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>

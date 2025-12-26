@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0312f816f07e3acce1cf8bc567a2b8967e066e31",
+          "author": null,
+          "description": "feat: add URL_VIEW_ALL for recommend email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/279\" data-original=\"recommendation/service-recommendation!279\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45323\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"279\" data-mr-title=\"feat: add URL_VIEW_ALL for recommend email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!279</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0312f816f07e3acce1cf8bc567a2b8967e066e31",
+          "publishedOn": "2025-12-25T03:08:44.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/js-7293' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46",
+          "publishedOn": "2025-12-24T09:30:26.000Z",
+          "wordCount": 1175,
+          "title": "feat: add URL_VIEW_ALL for recommend email",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3592b64d917a45ed9311f4d7a8bfb1c2fc17af7c",
           "author": null,
           "description": "fix: max score for cv recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/277\" data-original=\"recommendation/service-recommendation!277\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45045\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"277\" data-mr-title=\"fix: max score for cv recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!277</a>",
@@ -340,16 +360,6 @@
           "publishedOn": "2025-11-28T07:20:15.000Z",
           "wordCount": 1175,
           "title": "add logs for V2",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e185aa7bb806f52506415a1c2ab73e50f22a79f7",
-          "author": null,
-          "description": "Feat/ise 595\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/217\" data-original=\"search-engine/service-search-engine!217\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44855\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"217\" data-mr-title=\"Feat/ise 595\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!217</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e185aa7bb806f52506415a1c2ab73e50f22a79f7",
-          "publishedOn": "2025-11-26T06:55:52.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-595' into 'production-v2'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
