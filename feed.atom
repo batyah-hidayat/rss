@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2025-12-30T01:47:00.866Z</id>
+    <id>urn:2025-12-31T01:47:35.019Z</id>
     <title>osmos::feed</title>
-    <updated>2025-12-30T01:47:00.866Z</updated>
+    <updated>2025-12-31T01:47:35.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -350,28 +350,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e906913d12b6f381ea6eb2b0a9b74d6a318969c3</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e906913d12b6f381ea6eb2b0a9b74d6a318969c3"/>
         <updated>2025-12-02T03:33:56.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-595' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c82e492b677c82710d9baf24ca96935740f22b92</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c82e492b677c82710d9baf24ca96935740f22b92"/>
-        <updated>2025-12-01T01:59:17.000Z</updated>
-        <summary type="html"><![CDATA[Feat/ise 595
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/220" data-original="search-engine/service-search-engine!220" data-link="false" data-link-reference="false" data-project="313" data-merge-request="44949" data-project-path="search-engine/service-search-engine" data-iid="220" data-mr-title="Feat/ise 595" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!220</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[limit number of aggregator sources]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/27ad48b27bbc1a4a04089a34abdf61986a96ae36</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/27ad48b27bbc1a4a04089a34abdf61986a96ae36"/>
-        <updated>2025-12-01T00:43:25.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>

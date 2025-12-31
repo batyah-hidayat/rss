@@ -331,26 +331,6 @@
           "wordCount": 1175,
           "title": "fix aggregator endpoint production",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c82e492b677c82710d9baf24ca96935740f22b92",
-          "author": null,
-          "description": "Feat/ise 595\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/220\" data-original=\"search-engine/service-search-engine!220\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44949\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"220\" data-mr-title=\"Feat/ise 595\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!220</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c82e492b677c82710d9baf24ca96935740f22b92",
-          "publishedOn": "2025-12-01T01:59:17.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-595' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/27ad48b27bbc1a4a04089a34abdf61986a96ae36",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/27ad48b27bbc1a4a04089a34abdf61986a96ae36",
-          "publishedOn": "2025-12-01T00:43:25.000Z",
-          "wordCount": 1175,
-          "title": "limit number of aggregator sources",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
