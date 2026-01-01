@@ -311,26 +311,6 @@
           "wordCount": 1175,
           "title": "new ranking W for Non Kw queries",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9c900223da97cd27a540719ff4b867a44732083a",
-          "author": null,
-          "description": "fix aggregator endpoint production\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/222\" data-original=\"search-engine/service-search-engine!222\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"44976\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"222\" data-mr-title=\"fix aggregator endpoint production\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!222</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9c900223da97cd27a540719ff4b867a44732083a",
-          "publishedOn": "2025-12-02T03:37:13.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-595' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e906913d12b6f381ea6eb2b0a9b74d6a318969c3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e906913d12b6f381ea6eb2b0a9b74d6a318969c3",
-          "publishedOn": "2025-12-02T03:33:56.000Z",
-          "wordCount": 1175,
-          "title": "fix aggregator endpoint production",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
