@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-02T01:48:56.558Z</id>
+    <id>urn:2026-01-03T01:42:48.202Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-02T01:48:56.558Z</updated>
+    <updated>2026-01-03T01:42:48.202Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -265,72 +265,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'fix/max-score-cv-recommend' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3592b64d917a45ed9311f4d7a8bfb1c2fc17af7c</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3592b64d917a45ed9311f4d7a8bfb1c2fc17af7c"/>
-        <updated>2025-12-04T09:37:26.000Z</updated>
-        <summary type="html"><![CDATA[fix: max score for cv recommendation
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/277" data-original="recommendation/service-recommendation!277" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45045" data-project-path="recommendation/service-recommendation" data-iid="277" data-mr-title="fix: max score for cv recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!277</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix: max score for cv recommendation]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58e6c5b00858949ca2bb40abcecdc1f3cf4c2c12</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58e6c5b00858949ca2bb40abcecdc1f3cf4c2c12"/>
-        <updated>2025-12-04T09:34:21.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'release/2025-12-04' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ff21a0109d3587aec0e0b43886ba5ba93393f921</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ff21a0109d3587aec0e0b43886ba5ba93393f921"/>
-        <updated>2025-12-04T08:37:07.000Z</updated>
-        <summary type="html"><![CDATA[feat: release for b version
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/276" data-original="recommendation/service-recommendation!276" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45031" data-project-path="recommendation/service-recommendation" data-iid="276" data-mr-title="feat: release for b version" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!276</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-595' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ddd78801bfa27a8e480b46b4ef977aef25fadec</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ddd78801bfa27a8e480b46b4ef977aef25fadec"/>
-        <updated>2025-12-04T07:21:32.000Z</updated>
-        <summary type="html"><![CDATA[new ranking W for Non Kw queries
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/224" data-original="search-engine/service-search-engine!224" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45032" data-project-path="search-engine/service-search-engine" data-iid="224" data-mr-title="new ranking W for Non Kw queries" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!224</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new ranking W for Non Kw queries]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/67db4bceeb5720d0c1399a5c3957fe06eeb45c57</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/67db4bceeb5720d0c1399a5c3957fe06eeb45c57"/>
-        <updated>2025-12-04T07:08:18.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: release for b version]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c61c92319c56d4e7efc41a78bce7c64c24cdd2d1</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c61c92319c56d4e7efc41a78bce7c64c24cdd2d1"/>
-        <updated>2025-12-04T06:54:30.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>

@@ -24,46 +24,6 @@
           "wordCount": 1175,
           "title": "feat: add URL_VIEW_ALL for recommend email",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3592b64d917a45ed9311f4d7a8bfb1c2fc17af7c",
-          "author": null,
-          "description": "fix: max score for cv recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/277\" data-original=\"recommendation/service-recommendation!277\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45045\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"277\" data-mr-title=\"fix: max score for cv recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!277</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3592b64d917a45ed9311f4d7a8bfb1c2fc17af7c",
-          "publishedOn": "2025-12-04T09:37:26.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'fix/max-score-cv-recommend' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58e6c5b00858949ca2bb40abcecdc1f3cf4c2c12",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/58e6c5b00858949ca2bb40abcecdc1f3cf4c2c12",
-          "publishedOn": "2025-12-04T09:34:21.000Z",
-          "wordCount": 1175,
-          "title": "fix: max score for cv recommendation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ff21a0109d3587aec0e0b43886ba5ba93393f921",
-          "author": null,
-          "description": "feat: release for b version\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/276\" data-original=\"recommendation/service-recommendation!276\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45031\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"276\" data-mr-title=\"feat: release for b version\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!276</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ff21a0109d3587aec0e0b43886ba5ba93393f921",
-          "publishedOn": "2025-12-04T08:37:07.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/2025-12-04' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c61c92319c56d4e7efc41a78bce7c64c24cdd2d1",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c61c92319c56d4e7efc41a78bce7c64c24cdd2d1",
-          "publishedOn": "2025-12-04T06:54:30.000Z",
-          "wordCount": 1175,
-          "title": "feat: release for b version",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -290,26 +250,6 @@
           "publishedOn": "2025-12-05T03:00:54.000Z",
           "wordCount": 1175,
           "title": "new ranking W for Non Kw queries + manual formula",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ddd78801bfa27a8e480b46b4ef977aef25fadec",
-          "author": null,
-          "description": "new ranking W for Non Kw queries\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/224\" data-original=\"search-engine/service-search-engine!224\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45032\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"224\" data-mr-title=\"new ranking W for Non Kw queries\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!224</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ddd78801bfa27a8e480b46b4ef977aef25fadec",
-          "publishedOn": "2025-12-04T07:21:32.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-595' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/67db4bceeb5720d0c1399a5c3957fe06eeb45c57",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/67db4bceeb5720d0c1399a5c3957fe06eeb45c57",
-          "publishedOn": "2025-12-04T07:08:18.000Z",
-          "wordCount": 1175,
-          "title": "new ranking W for Non Kw queries",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
