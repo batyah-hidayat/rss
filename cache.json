@@ -211,46 +211,6 @@
           "wordCount": 1175,
           "title": "set new ranking w for KW search",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dfedbfd94703e7536f01b2c404dd351622f9fd94",
-          "author": null,
-          "description": "disable predoition normalization for NON kw\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/229\" data-original=\"search-engine/service-search-engine!229\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45054\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"229\" data-mr-title=\"disable predoition normalization for NON kw\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!229</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dfedbfd94703e7536f01b2c404dd351622f9fd94",
-          "publishedOn": "2025-12-05T05:47:07.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-595' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0cb477c6d58f236a32e0059fa03c0a6d10383c0e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0cb477c6d58f236a32e0059fa03c0a6d10383c0e",
-          "publishedOn": "2025-12-05T05:38:35.000Z",
-          "wordCount": 1175,
-          "title": "disable predoition normalization for NON kw",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c870c86ec4dde308176dc93d272badda465d20e",
-          "author": null,
-          "description": "new ranking W for Non Kw queries + manual formula\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/226\" data-original=\"search-engine/service-search-engine!226\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45047\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"226\" data-mr-title=\"new ranking W for Non Kw queries + manual formula\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!226</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c870c86ec4dde308176dc93d272badda465d20e",
-          "publishedOn": "2025-12-05T03:06:57.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-595' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/690f496c74c19e30db53d6bf22800539a002d0fe",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/690f496c74c19e30db53d6bf22800539a002d0fe",
-          "publishedOn": "2025-12-05T03:00:54.000Z",
-          "wordCount": 1175,
-          "title": "new ranking W for Non Kw queries + manual formula",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

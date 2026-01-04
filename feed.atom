@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-03T01:42:48.202Z</id>
+    <id>urn:2026-01-04T01:57:44.072Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-03T01:42:48.202Z</updated>
+    <updated>2026-01-04T01:57:44.072Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -218,50 +218,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4b411cafa9871c88f76281b0f037a69772f1540d</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4b411cafa9871c88f76281b0f037a69772f1540d"/>
         <updated>2025-12-08T08:16:08.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-595' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dfedbfd94703e7536f01b2c404dd351622f9fd94</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dfedbfd94703e7536f01b2c404dd351622f9fd94"/>
-        <updated>2025-12-05T05:47:07.000Z</updated>
-        <summary type="html"><![CDATA[disable predoition normalization for NON kw
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/229" data-original="search-engine/service-search-engine!229" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45054" data-project-path="search-engine/service-search-engine" data-iid="229" data-mr-title="disable predoition normalization for NON kw" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!229</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[disable predoition normalization for NON kw]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0cb477c6d58f236a32e0059fa03c0a6d10383c0e</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0cb477c6d58f236a32e0059fa03c0a6d10383c0e"/>
-        <updated>2025-12-05T05:38:35.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-595' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c870c86ec4dde308176dc93d272badda465d20e</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c870c86ec4dde308176dc93d272badda465d20e"/>
-        <updated>2025-12-05T03:06:57.000Z</updated>
-        <summary type="html"><![CDATA[new ranking W for Non Kw queries + manual formula
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/226" data-original="search-engine/service-search-engine!226" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45047" data-project-path="search-engine/service-search-engine" data-iid="226" data-mr-title="new ranking W for Non Kw queries + manual formula" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!226</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new ranking W for Non Kw queries + manual formula]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/690f496c74c19e30db53d6bf22800539a002d0fe</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/690f496c74c19e30db53d6bf22800539a002d0fe"/>
-        <updated>2025-12-05T03:00:54.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
