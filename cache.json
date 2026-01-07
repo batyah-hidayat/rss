@@ -63,6 +63,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/40f2d989cc5aa837b0a32f70d573f23f1e7ed990",
+          "author": null,
+          "description": "add second nlp occupation filter for nhan vien\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/245\" data-original=\"search-engine/service-search-engine!245\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45439\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"245\" data-mr-title=\"add second nlp occupation filter for nhan vien\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!245</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/40f2d989cc5aa837b0a32f70d573f23f1e7ed990",
+          "publishedOn": "2026-01-06T06:28:02.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-646' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2b28e8873dafe8693fd7a7415afca13a72bfe739",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2b28e8873dafe8693fd7a7415afca13a72bfe739",
+          "publishedOn": "2026-01-06T06:09:43.000Z",
+          "wordCount": 1175,
+          "title": "add second nlp occupation filter for nhan vien",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5cef9b49225c87b14101a96da6cf3fef766622c",
           "author": null,
           "description": "feat: integrate with nlp parser\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/242\" data-original=\"search-engine/service-search-engine!242\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45388\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"242\" data-mr-title=\"feat: integrate with nlp parser\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!242</a>",
@@ -268,26 +288,6 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c44ce8a6644d3244f8ac9f6aa75549512958cb3b",
           "publishedOn": "2025-12-09T01:13:15.000Z",
-          "wordCount": 1175,
-          "title": "set new ranking w for KW search",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f11e5e8e6f41abc98f858bb45b54b47b1261ff1d",
-          "author": null,
-          "description": "set new ranking w for KW search\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/231\" data-original=\"search-engine/service-search-engine!231\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45072\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"231\" data-mr-title=\"set new ranking w for KW search\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!231</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f11e5e8e6f41abc98f858bb45b54b47b1261ff1d",
-          "publishedOn": "2025-12-08T08:20:15.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-595' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4b411cafa9871c88f76281b0f037a69772f1540d",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4b411cafa9871c88f76281b0f037a69772f1540d",
-          "publishedOn": "2025-12-08T08:16:08.000Z",
           "wordCount": 1175,
           "title": "set new ranking w for KW search",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
