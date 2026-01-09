@@ -181,36 +181,6 @@
           "wordCount": 1175,
           "title": "Update README.md",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7381cc1405f45a04e865f5de20e90631b3bc6d42",
-          "author": null,
-          "description": "feat: Decrease paid boost for users with no application\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/237\" data-original=\"search-engine/service-search-engine!237\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45106\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"237\" data-mr-title=\"feat: Decrease paid boost for users with no application\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!237</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7381cc1405f45a04e865f5de20e90631b3bc6d42",
-          "publishedOn": "2025-12-10T08:33:21.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-630' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dd0667262f0c7f36ff8067b22c9de6d66259239b",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dd0667262f0c7f36ff8067b22c9de6d66259239b",
-          "publishedOn": "2025-12-10T08:17:37.000Z",
-          "wordCount": 1175,
-          "title": "feat: update paid_boost value",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7db336175ee4708a3a8dfd699fcb80dbfc72df93",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7db336175ee4708a3a8dfd699fcb80dbfc72df93",
-          "publishedOn": "2025-12-10T07:46:59.000Z",
-          "wordCount": 1175,
-          "title": "feat: Decrease paid boost for users with no application",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

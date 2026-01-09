@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-08T01:48:49.102Z</id>
+    <id>urn:2026-01-09T01:49:42.663Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-08T01:48:49.102Z</updated>
+    <updated>2026-01-09T01:49:42.663Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -184,38 +184,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d"/>
         <updated>2025-12-18T04:45:44.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-630' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7381cc1405f45a04e865f5de20e90631b3bc6d42</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7381cc1405f45a04e865f5de20e90631b3bc6d42"/>
-        <updated>2025-12-10T08:33:21.000Z</updated>
-        <summary type="html"><![CDATA[feat: Decrease paid boost for users with no application
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/237" data-original="search-engine/service-search-engine!237" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45106" data-project-path="search-engine/service-search-engine" data-iid="237" data-mr-title="feat: Decrease paid boost for users with no application" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!237</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: update paid_boost value]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dd0667262f0c7f36ff8067b22c9de6d66259239b</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dd0667262f0c7f36ff8067b22c9de6d66259239b"/>
-        <updated>2025-12-10T08:17:37.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: Decrease paid boost for users with no application]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7db336175ee4708a3a8dfd699fcb80dbfc72df93</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7db336175ee4708a3a8dfd699fcb80dbfc72df93"/>
-        <updated>2025-12-10T07:46:59.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
