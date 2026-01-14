@@ -63,6 +63,66 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47b3c4abc7640c170665bf664a9006c4d2498b29",
+          "author": null,
+          "description": "Add industry NLP &amp; seperate ai occupation process\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/249\" data-original=\"search-engine/service-search-engine!249\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45526\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"249\" data-mr-title=\"Add industry NLP &amp; seperate ai occupation process\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!249</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47b3c4abc7640c170665bf664a9006c4d2498b29",
+          "publishedOn": "2026-01-13T08:27:57.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-646' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/07c5373807d96ddb942faa9bf5978292e5a45b2a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/07c5373807d96ddb942faa9bf5978292e5a45b2a",
+          "publishedOn": "2026-01-13T03:24:06.000Z",
+          "wordCount": 1175,
+          "title": "feat: add seperator for job hash",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/87e0f81e102be4e5e5db2c2b4fcddba6e0307260",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/87e0f81e102be4e5e5db2c2b4fcddba6e0307260",
+          "publishedOn": "2026-01-12T08:04:36.000Z",
+          "wordCount": 1175,
+          "title": "seperate ai occupation func",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d",
+          "publishedOn": "2026-01-12T02:21:58.000Z",
+          "wordCount": 1175,
+          "title": "add industry nlp",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3ed4b8828f26127869f7bcc1f6000019f95cf2b8",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3ed4b8828f26127869f7bcc1f6000019f95cf2b8",
+          "publishedOn": "2026-01-08T07:15:54.000Z",
+          "wordCount": 1175,
+          "title": "update ai loaded job",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c0e9d7d9e084dd58ab2857af9c038cd9d660dae3",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c0e9d7d9e084dd58ab2857af9c038cd9d660dae3",
+          "publishedOn": "2026-01-08T04:25:44.000Z",
+          "wordCount": 1175,
+          "title": "add a b for paid nlp",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/40f2d989cc5aa837b0a32f70d573f23f1e7ed990",
           "author": null,
           "description": "add second nlp occupation filter for nhan vien\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/245\" data-original=\"search-engine/service-search-engine!245\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45439\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"245\" data-mr-title=\"add second nlp occupation filter for nhan vien\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!245</a>",
