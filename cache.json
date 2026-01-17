@@ -201,46 +201,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'production-v2' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b0272c2f529614d65a9529ae68f6c2ff95fe97a6",
-          "author": null,
-          "description": "chore: add check exist seeker profile\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/239\" data-original=\"search-engine/service-search-engine!239\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45230\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"239\" data-mr-title=\"chore: add check exist seeker profile\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!239</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b0272c2f529614d65a9529ae68f6c2ff95fe97a6",
-          "publishedOn": "2025-12-18T08:34:45.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/add-check-seeker-profile' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d2b2ab5bc04f0af2ff873e8789a7206b3f971ba1",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d2b2ab5bc04f0af2ff873e8789a7206b3f971ba1",
-          "publishedOn": "2025-12-18T08:10:05.000Z",
-          "wordCount": 1175,
-          "title": "chore: add check exist seeker profile",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e2455f1caffeb872e56467e83e16249ccabf715",
-          "author": null,
-          "description": "Reload index\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/238\" data-original=\"search-engine/service-search-engine!238\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45217\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"238\" data-mr-title=\"Reload index\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!238</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e2455f1caffeb872e56467e83e16249ccabf715",
-          "publishedOn": "2025-12-18T04:49:15.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'hoahv-production-patch-33234' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d",
-          "publishedOn": "2025-12-18T04:45:44.000Z",
-          "wordCount": 1175,
-          "title": "Update README.md",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

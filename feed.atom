@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-16T01:50:12.807Z</id>
+    <id>urn:2026-01-17T01:44:33.577Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-16T01:50:12.807Z</updated>
+    <updated>2026-01-17T01:44:33.577Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -203,50 +203,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Production v2
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/241" data-original="search-engine/service-search-engine!241" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45256" data-project-path="search-engine/service-search-engine" data-iid="241" data-mr-title="Production v2" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!241</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/add-check-seeker-profile' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b0272c2f529614d65a9529ae68f6c2ff95fe97a6</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b0272c2f529614d65a9529ae68f6c2ff95fe97a6"/>
-        <updated>2025-12-18T08:34:45.000Z</updated>
-        <summary type="html"><![CDATA[chore: add check exist seeker profile
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/239" data-original="search-engine/service-search-engine!239" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45230" data-project-path="search-engine/service-search-engine" data-iid="239" data-mr-title="chore: add check exist seeker profile" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!239</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore: add check exist seeker profile]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d2b2ab5bc04f0af2ff873e8789a7206b3f971ba1</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d2b2ab5bc04f0af2ff873e8789a7206b3f971ba1"/>
-        <updated>2025-12-18T08:10:05.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'hoahv-production-patch-33234' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e2455f1caffeb872e56467e83e16249ccabf715</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e2455f1caffeb872e56467e83e16249ccabf715"/>
-        <updated>2025-12-18T04:49:15.000Z</updated>
-        <summary type="html"><![CDATA[Reload index
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/238" data-original="search-engine/service-search-engine!238" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45217" data-project-path="search-engine/service-search-engine" data-iid="238" data-mr-title="Reload index" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!238</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update README.md]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b9f7210fa6a6c4f3429c9722fd59755c4eee545d"/>
-        <updated>2025-12-18T04:45:44.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
