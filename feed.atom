@@ -1,10 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-20T01:49:51.856Z</id>
+    <id>urn:2026-01-21T01:52:48.259Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-20T01:49:51.856Z</updated>
+    <updated>2026-01-21T01:52:48.259Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-664' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6b104dfb45bd84fe7905013a8214440cd318d2de</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6b104dfb45bd84fe7905013a8214440cd318d2de"/>
+        <updated>2026-01-20T08:10:33.000Z</updated>
+        <summary type="html"><![CDATA[Feat/ise 664
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/254" data-original="search-engine/service-search-engine!254" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45634" data-project-path="search-engine/service-search-engine" data-iid="254" data-mr-title="Feat/ise 664" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!254</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/production' into feat/ise-664]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3451b4b88fe0b3a66d4f385c573eb93634a7c9e7</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3451b4b88fe0b3a66d4f385c573eb93634a7c9e7"/>
+        <updated>2026-01-20T07:18:34.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add api predictor request for kw search]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce0d74116029996aa42a6be84b01b2411f6c89b1</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce0d74116029996aa42a6be84b01b2411f6c89b1"/>
+        <updated>2026-01-20T07:17:59.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-665' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c4cba648a1685b0429f9493825caaf21922e7bf5</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c4cba648a1685b0429f9493825caaf21922e7bf5"/>
+        <updated>2026-01-20T04:32:17.000Z</updated>
+        <summary type="html"><![CDATA[check paidBoost for fixed paid rule
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/252" data-original="search-engine/service-search-engine!252" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45622" data-project-path="search-engine/service-search-engine" data-iid="252" data-mr-title="check paidBoost for fixed paid rule" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!252</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[check paidBoost for fixed paid rule]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8fd259d923a987c93312723f929d409c6e508780</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8fd259d923a987c93312723f929d409c6e508780"/>
+        <updated>2026-01-20T04:11:35.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-646' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47b3c4abc7640c170665bf664a9006c4d2498b29</id>
@@ -193,18 +247,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'production-v2' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/549feb8977fc0a0c0769eef3e4461bfbf6caea30</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/549feb8977fc0a0c0769eef3e4461bfbf6caea30"/>
-        <updated>2025-12-22T06:09:55.000Z</updated>
-        <summary type="html"><![CDATA[Production v2
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/241" data-original="search-engine/service-search-engine!241" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45256" data-project-path="search-engine/service-search-engine" data-iid="241" data-mr-title="Production v2" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!241</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
