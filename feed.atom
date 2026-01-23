@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-22T01:53:22.287Z</id>
+    <id>urn:2026-01-23T01:49:40.710Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-22T01:53:22.287Z</updated>
+    <updated>2026-01-23T01:49:40.710Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-620' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fd325ed4679a0526f98c46ebe47b61bcdd02e89b</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fd325ed4679a0526f98c46ebe47b61bcdd02e89b"/>
+        <updated>2026-01-22T06:31:16.000Z</updated>
+        <summary type="html"><![CDATA[feat: update string for time
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/275" data-original="recommendation/service-recommendation!275" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45003" data-project-path="recommendation/service-recommendation" data-iid="275" data-mr-title="feat: update string for time" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!275</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix const value for B urgent]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6ae1a08117f97c984948a5fc887760609025893</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6ae1a08117f97c984948a5fc887760609025893"/>
+        <updated>2026-01-22T05:37:27.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-664' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6b104dfb45bd84fe7905013a8214440cd318d2de</id>
@@ -235,16 +257,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[feat: add URL_VIEW_ALL for recommend email
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/279" data-original="recommendation/service-recommendation!279" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45323" data-project-path="recommendation/service-recommendation" data-iid="279" data-mr-title="feat: add URL_VIEW_ALL for recommend email" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!279</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: add URL_VIEW_ALL for recommend email]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46"/>
-        <updated>2025-12-24T09:30:26.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>

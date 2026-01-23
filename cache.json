@@ -6,6 +6,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fd325ed4679a0526f98c46ebe47b61bcdd02e89b",
+          "author": null,
+          "description": "feat: update string for time\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/275\" data-original=\"recommendation/service-recommendation!275\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45003\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"275\" data-mr-title=\"feat: update string for time\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!275</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fd325ed4679a0526f98c46ebe47b61bcdd02e89b",
+          "publishedOn": "2026-01-22T06:31:16.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-620' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8bf80039f866be0765b7c424f157473f5ef098f7",
           "author": null,
           "description": "Add job_ids into view all tracking url\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/280\" data-original=\"recommendation/service-recommendation!280\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45398\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"280\" data-mr-title=\"Add job_ids into view all tracking url\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!280</a>",
@@ -44,16 +54,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/js-7293' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/493356d45622fc4eb58f62f2158317465ff40e46",
-          "publishedOn": "2025-12-24T09:30:26.000Z",
-          "wordCount": 1175,
-          "title": "feat: add URL_VIEW_ALL for recommend email",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -62,6 +62,16 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6ae1a08117f97c984948a5fc887760609025893",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6ae1a08117f97c984948a5fc887760609025893",
+          "publishedOn": "2026-01-22T05:37:27.000Z",
+          "wordCount": 1175,
+          "title": "fix const value for B urgent",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6b104dfb45bd84fe7905013a8214440cd318d2de",
           "author": null,
