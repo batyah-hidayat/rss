@@ -44,16 +44,6 @@
           "wordCount": 1175,
           "title": "Add job_ids into view all tracking url",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0312f816f07e3acce1cf8bc567a2b8967e066e31",
-          "author": null,
-          "description": "feat: add URL_VIEW_ALL for recommend email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/279\" data-original=\"recommendation/service-recommendation!279\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45323\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"279\" data-mr-title=\"feat: add URL_VIEW_ALL for recommend email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!279</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0312f816f07e3acce1cf8bc567a2b8967e066e31",
-          "publishedOn": "2025-12-25T03:08:44.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/js-7293' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -62,6 +52,26 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8eacb3e3092d782ca79c656da2975a0e58f4942c",
+          "author": null,
+          "description": "use v2 predictor and add known_ params\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/256\" data-original=\"search-engine/service-search-engine!256\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45699\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"256\" data-mr-title=\"use v2 predictor and add known_ params\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!256</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8eacb3e3092d782ca79c656da2975a0e58f4942c",
+          "publishedOn": "2026-01-23T05:48:35.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-667' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a10f4eadd974db88d2ba121cd5dd70a8110bddae",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a10f4eadd974db88d2ba121cd5dd70a8110bddae",
+          "publishedOn": "2026-01-23T03:54:35.000Z",
+          "wordCount": 1175,
+          "title": "use v2 predictor and add known_ params",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b6ae1a08117f97c984948a5fc887760609025893",
           "author": null,
