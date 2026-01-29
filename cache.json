@@ -6,6 +6,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c9298ab4791836015ead3e5c9a14a7c02fbf8b4b",
+          "author": null,
+          "description": "feat: add log_id in every log\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/278\" data-original=\"recommendation/service-recommendation!278\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45099\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"278\" data-mr-title=\"feat: add log_id in every log\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!278</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c9298ab4791836015ead3e5c9a14a7c02fbf8b4b",
+          "publishedOn": "2026-01-28T08:42:24.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-626' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/fd325ed4679a0526f98c46ebe47b61bcdd02e89b",
           "author": null,
           "description": "feat: update string for time\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/275\" data-original=\"recommendation/service-recommendation!275\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45003\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"275\" data-mr-title=\"feat: update string for time\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!275</a>",
@@ -23,26 +33,6 @@
           "publishedOn": "2026-01-05T02:43:47.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'feat/js-7309' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6d63d4436976ac32d3fa5c3b7f31e8be41b88e11",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6d63d4436976ac32d3fa5c3b7f31e8be41b88e11",
-          "publishedOn": "2025-12-30T09:25:32.000Z",
-          "wordCount": 1175,
-          "title": "Remove id in tracking url apply & view all",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/17c01046e11335f010c228c107400d3aa137e72a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/17c01046e11335f010c228c107400d3aa137e72a",
-          "publishedOn": "2025-12-30T06:25:16.000Z",
-          "wordCount": 1175,
-          "title": "Add job_ids into view all tracking url",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
@@ -240,16 +230,6 @@
           "publishedOn": "2026-01-05T02:29:18.000Z",
           "wordCount": 1175,
           "title": "Re-add setJobBoxScoreFeature",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4966258504355f51934f3f5a82fd393488caa329",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4966258504355f51934f3f5a82fd393488caa329",
-          "publishedOn": "2025-12-30T06:30:27.000Z",
-          "wordCount": 1175,
-          "title": "Update endpoint for NLP Parser",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

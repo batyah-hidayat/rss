@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-01-28T01:52:05.864Z</id>
+    <id>urn:2026-01-29T02:05:50.319Z</id>
     <title>osmos::feed</title>
-    <updated>2026-01-28T01:52:05.864Z</updated>
+    <updated>2026-01-29T02:05:50.319Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-626' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c9298ab4791836015ead3e5c9a14a7c02fbf8b4b</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c9298ab4791836015ead3e5c9a14a7c02fbf8b4b"/>
+        <updated>2026-01-28T08:42:24.000Z</updated>
+        <summary type="html"><![CDATA[feat: add log_id in every log
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/278" data-original="recommendation/service-recommendation!278" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45099" data-project-path="recommendation/service-recommendation" data-iid="278" data-mr-title="feat: add log_id in every log" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!278</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-667' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8eacb3e3092d782ca79c656da2975a0e58f4942c</id>
@@ -229,36 +241,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove id in tracking url apply & view all]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6d63d4436976ac32d3fa5c3b7f31e8be41b88e11</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6d63d4436976ac32d3fa5c3b7f31e8be41b88e11"/>
-        <updated>2025-12-30T09:25:32.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update endpoint for NLP Parser]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4966258504355f51934f3f5a82fd393488caa329</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4966258504355f51934f3f5a82fd393488caa329"/>
-        <updated>2025-12-30T06:30:27.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add job_ids into view all tracking url]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/17c01046e11335f010c228c107400d3aa137e72a</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/17c01046e11335f010c228c107400d3aa137e72a"/>
-        <updated>2025-12-30T06:25:16.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
