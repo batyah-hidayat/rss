@@ -43,6 +43,46 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8f206eeb29a5c47851104b9f6a56be3ea0d29fcf",
+          "author": null,
+          "description": "feat: link search_id for cached results\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/257\" data-original=\"search-engine/service-search-engine!257\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45830\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"257\" data-mr-title=\"feat: link search_id for cached results\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!257</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8f206eeb29a5c47851104b9f6a56be3ea0d29fcf",
+          "publishedOn": "2026-01-29T06:24:59.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-675' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e59f2fcacebd79bc0452f66b651636c2d7c5bbeb",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e59f2fcacebd79bc0452f66b651636c2d7c5bbeb",
+          "publishedOn": "2026-01-29T06:19:04.000Z",
+          "wordCount": 1175,
+          "title": "feat: diff that search type = rec",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8be5fe57c2a4c3f239c7d233df3c9d767f0b302a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8be5fe57c2a4c3f239c7d233df3c9d767f0b302a",
+          "publishedOn": "2026-01-29T06:12:11.000Z",
+          "wordCount": 1175,
+          "title": "feat: remove log with rec",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdfd904317cffdb4889ec13d0704560e8e021028",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdfd904317cffdb4889ec13d0704560e8e021028",
+          "publishedOn": "2026-01-29T03:43:23.000Z",
+          "wordCount": 1175,
+          "title": "feat: link search_id for cached results",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8eacb3e3092d782ca79c656da2975a0e58f4942c",
           "author": null,
           "description": "use v2 predictor and add known_ params\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/256\" data-original=\"search-engine/service-search-engine!256\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45699\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"256\" data-mr-title=\"use v2 predictor and add known_ params\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!256</a>",
