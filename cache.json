@@ -24,16 +24,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-620' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8bf80039f866be0765b7c424f157473f5ef098f7",
-          "author": null,
-          "description": "Add job_ids into view all tracking url\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/280\" data-original=\"recommendation/service-recommendation!280\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45398\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"280\" data-mr-title=\"Add job_ids into view all tracking url\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!280</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8bf80039f866be0765b7c424f157473f5ef098f7",
-          "publishedOn": "2026-01-05T02:43:47.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/js-7309' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -240,36 +230,6 @@
           "publishedOn": "2026-01-06T06:09:43.000Z",
           "wordCount": 1175,
           "title": "add second nlp occupation filter for nhan vien",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5cef9b49225c87b14101a96da6cf3fef766622c",
-          "author": null,
-          "description": "feat: integrate with nlp parser\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/242\" data-original=\"search-engine/service-search-engine!242\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45388\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"242\" data-mr-title=\"feat: integrate with nlp parser\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!242</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5cef9b49225c87b14101a96da6cf3fef766622c",
-          "publishedOn": "2026-01-05T08:04:07.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-645' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a7cf1030890a1a4b8a00c89d7a8a5a133807848d",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a7cf1030890a1a4b8a00c89d7a8a5a133807848d",
-          "publishedOn": "2026-01-05T03:24:59.000Z",
-          "wordCount": 1175,
-          "title": "Add hit rate for ai occupation cache",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/add3da87e2c5d10d7bc50c82a3b4745613af8a90",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/add3da87e2c5d10d7bc50c82a3b4745613af8a90",
-          "publishedOn": "2026-01-05T02:29:18.000Z",
-          "wordCount": 1175,
-          "title": "Re-add setJobBoxScoreFeature",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
