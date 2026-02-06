@@ -33,6 +33,56 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bad87a35e02351f925acd8bba3eb21cf5db55621",
+          "author": null,
+          "description": "feat: update err string for graylog &amp; unify log structure\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/261\" data-original=\"search-engine/service-search-engine!261\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45952\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"261\" data-mr-title=\"feat: update err string for graylog &amp; unify log structure\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!261</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bad87a35e02351f925acd8bba3eb21cf5db55621",
+          "publishedOn": "2026-02-05T09:10:55.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-678' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/124654c0eda12724d237e086df2b54e54e12a6ed",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/124654c0eda12724d237e086df2b54e54e12a6ed",
+          "publishedOn": "2026-02-05T08:17:01.000Z",
+          "wordCount": 1175,
+          "title": "feat: same log structure for multiple service",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/59e286a8a8933f9d75dccc765876b754b175d454",
+          "author": null,
+          "description": "release nlp B for 100%\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/260\" data-original=\"search-engine/service-search-engine!260\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45950\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"260\" data-mr-title=\"release nlp B for 100%\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!260</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/59e286a8a8933f9d75dccc765876b754b175d454",
+          "publishedOn": "2026-02-05T07:58:38.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'release/05-02-2026' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2c464736e6a5af10b3407814e8e79e7e3d157ef8",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2c464736e6a5af10b3407814e8e79e7e3d157ef8",
+          "publishedOn": "2026-02-05T07:53:53.000Z",
+          "wordCount": 1175,
+          "title": "release nlp B for 100%",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9efcf0207c0a80685d230af5d1cbac640f57ace",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d9efcf0207c0a80685d230af5d1cbac640f57ace",
+          "publishedOn": "2026-02-05T06:34:16.000Z",
+          "wordCount": 1175,
+          "title": "feat: update err string for graylog",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90ebc7926b08783d360d6874ad075d0a1b0cdf40",
           "author": null,
           "description": "feat: log into graylog\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/258\" data-original=\"search-engine/service-search-engine!258\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45892\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"258\" data-mr-title=\"feat: log into graylog\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!258</a>",
