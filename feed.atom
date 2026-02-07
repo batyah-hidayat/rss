@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-06T02:08:50.009Z</id>
+    <id>urn:2026-02-07T02:04:38.903Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-06T02:08:50.009Z</updated>
+    <updated>2026-02-07T02:04:38.903Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -280,26 +280,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d"/>
         <updated>2026-01-12T02:21:58.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update ai loaded job]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3ed4b8828f26127869f7bcc1f6000019f95cf2b8</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3ed4b8828f26127869f7bcc1f6000019f95cf2b8"/>
-        <updated>2026-01-08T07:15:54.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add a b for paid nlp]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c0e9d7d9e084dd58ab2857af9c038cd9d660dae3</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c0e9d7d9e084dd58ab2857af9c038cd9d660dae3"/>
-        <updated>2026-01-08T04:25:44.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>

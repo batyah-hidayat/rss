@@ -271,26 +271,6 @@
           "wordCount": 1175,
           "title": "add industry nlp",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3ed4b8828f26127869f7bcc1f6000019f95cf2b8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3ed4b8828f26127869f7bcc1f6000019f95cf2b8",
-          "publishedOn": "2026-01-08T07:15:54.000Z",
-          "wordCount": 1175,
-          "title": "update ai loaded job",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c0e9d7d9e084dd58ab2857af9c038cd9d660dae3",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c0e9d7d9e084dd58ab2857af9c038cd9d660dae3",
-          "publishedOn": "2026-01-08T04:25:44.000Z",
-          "wordCount": 1175,
-          "title": "add a b for paid nlp",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
