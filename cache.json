@@ -251,26 +251,6 @@
           "wordCount": 1175,
           "title": "feat: add seperator for job hash",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/87e0f81e102be4e5e5db2c2b4fcddba6e0307260",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/87e0f81e102be4e5e5db2c2b4fcddba6e0307260",
-          "publishedOn": "2026-01-12T08:04:36.000Z",
-          "wordCount": 1175,
-          "title": "seperate ai occupation func",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d",
-          "publishedOn": "2026-01-12T02:21:58.000Z",
-          "wordCount": 1175,
-          "title": "add industry nlp",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-10T02:31:46.082Z</id>
+    <id>urn:2026-02-11T02:28:48.282Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-10T02:31:46.082Z</updated>
+    <updated>2026-02-11T02:28:48.282Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -260,26 +260,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/07c5373807d96ddb942faa9bf5978292e5a45b2a</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/07c5373807d96ddb942faa9bf5978292e5a45b2a"/>
         <updated>2026-01-13T03:24:06.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[seperate ai occupation func]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/87e0f81e102be4e5e5db2c2b4fcddba6e0307260</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/87e0f81e102be4e5e5db2c2b4fcddba6e0307260"/>
-        <updated>2026-01-12T08:04:36.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add industry nlp]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90abdb4f2921cc8d6e767c2c13ff95ba6d65504d"/>
-        <updated>2026-01-12T02:21:58.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
