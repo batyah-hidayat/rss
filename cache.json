@@ -231,26 +231,6 @@
           "wordCount": 1175,
           "title": "check paidBoost for fixed paid rule",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47b3c4abc7640c170665bf664a9006c4d2498b29",
-          "author": null,
-          "description": "Add industry NLP &amp; seperate ai occupation process\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/249\" data-original=\"search-engine/service-search-engine!249\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45526\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"249\" data-mr-title=\"Add industry NLP &amp; seperate ai occupation process\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!249</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/47b3c4abc7640c170665bf664a9006c4d2498b29",
-          "publishedOn": "2026-01-13T08:27:57.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-646' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/07c5373807d96ddb942faa9bf5978292e5a45b2a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/07c5373807d96ddb942faa9bf5978292e5a45b2a",
-          "publishedOn": "2026-01-13T03:24:06.000Z",
-          "wordCount": 1175,
-          "title": "feat: add seperator for job hash",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
