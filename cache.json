@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ddb8403eee6c4ed957509355b6938c92393cf0f",
+          "author": null,
+          "description": "feat: add graylog for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/281\" data-original=\"recommendation/service-recommendation!281\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45959\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"281\" data-mr-title=\"feat: add graylog for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!281</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ddb8403eee6c4ed957509355b6938c92393cf0f",
+          "publishedOn": "2026-02-25T07:18:11.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-678' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a38c5ad341f68c7b60f05bcc5fe3575d1396f98d",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a38c5ad341f68c7b60f05bcc5fe3575d1396f98d",
+          "publishedOn": "2026-02-05T08:53:31.000Z",
+          "wordCount": 1175,
+          "title": "feat: error as string",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0e9ccb004b32218a551f8a280a52725250109c51",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0e9ccb004b32218a551f8a280a52725250109c51",
+          "publishedOn": "2026-02-05T08:38:22.000Z",
+          "wordCount": 1175,
+          "title": "feat: add graylog for recommendation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c9298ab4791836015ead3e5c9a14a7c02fbf8b4b",
           "author": null,
           "description": "feat: add log_id in every log\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/278\" data-original=\"recommendation/service-recommendation!278\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"45099\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"278\" data-mr-title=\"feat: add log_id in every log\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!278</a>",

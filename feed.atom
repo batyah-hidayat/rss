@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-25T02:12:27.700Z</id>
+    <id>urn:2026-02-26T02:08:26.961Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-25T02:12:27.700Z</updated>
+    <updated>2026-02-26T02:08:26.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-678' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ddb8403eee6c4ed957509355b6938c92393cf0f</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ddb8403eee6c4ed957509355b6938c92393cf0f"/>
+        <updated>2026-02-25T07:18:11.000Z</updated>
+        <summary type="html"><![CDATA[feat: add graylog for recommendation
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/281" data-original="recommendation/service-recommendation!281" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45959" data-project-path="recommendation/service-recommendation" data-iid="281" data-mr-title="feat: add graylog for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!281</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-678' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bad87a35e02351f925acd8bba3eb21cf5db55621</id>
@@ -15,6 +27,26 @@
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/261" data-original="search-engine/service-search-engine!261" data-link="false" data-link-reference="false" data-project="313" data-merge-request="45952" data-project-path="search-engine/service-search-engine" data-iid="261" data-mr-title="feat: update err string for graylog &amp; unify log structure" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!261</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: error as string]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a38c5ad341f68c7b60f05bcc5fe3575d1396f98d</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a38c5ad341f68c7b60f05bcc5fe3575d1396f98d"/>
+        <updated>2026-02-05T08:53:31.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add graylog for recommendation]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0e9ccb004b32218a551f8a280a52725250109c51</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0e9ccb004b32218a551f8a280a52725250109c51"/>
+        <updated>2026-02-05T08:38:22.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
     <entry>
