@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-02-26T02:08:26.961Z</id>
+    <id>urn:2026-02-27T02:07:24.877Z</id>
     <title>osmos::feed</title>
-    <updated>2026-02-26T02:08:26.961Z</updated>
+    <updated>2026-02-27T02:07:24.877Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-687' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/572522abc44c2ee2043a14073d951e9302230d41</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/572522abc44c2ee2043a14073d951e9302230d41"/>
+        <updated>2026-02-26T08:47:29.000Z</updated>
+        <summary type="html"><![CDATA[feat: add paid_boost parameter for recommendation api
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/282" data-original="recommendation/service-recommendation!282" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46057" data-project-path="recommendation/service-recommendation" data-iid="282" data-mr-title="feat: add paid_boost parameter for recommendation api" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!282</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-678' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ddb8403eee6c4ed957509355b6938c92393cf0f</id>
@@ -13,6 +25,16 @@
         <summary type="html"><![CDATA[feat: add graylog for recommendation
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/281" data-original="recommendation/service-recommendation!281" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45959" data-project-path="recommendation/service-recommendation" data-iid="281" data-mr-title="feat: add graylog for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!281</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add paid_boost parameter for recommendation api]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bcd7645ab7b7b138542f4393362021fcaeccfe57</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bcd7645ab7b7b138542f4393362021fcaeccfe57"/>
+        <updated>2026-02-24T06:54:43.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
@@ -163,18 +185,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-626' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c9298ab4791836015ead3e5c9a14a7c02fbf8b4b</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c9298ab4791836015ead3e5c9a14a7c02fbf8b4b"/>
-        <updated>2026-01-28T08:42:24.000Z</updated>
-        <summary type="html"><![CDATA[feat: add log_id in every log
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/278" data-original="recommendation/service-recommendation!278" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45099" data-project-path="recommendation/service-recommendation" data-iid="278" data-mr-title="feat: add log_id in every log" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!278</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
