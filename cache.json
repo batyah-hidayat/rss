@@ -131,16 +131,6 @@
           "wordCount": 1175,
           "title": "feat: add env into log",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ccf09ab1b97f686d79edc0055e6fcbf30200cbd",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ccf09ab1b97f686d79edc0055e6fcbf30200cbd",
-          "publishedOn": "2026-01-30T03:46:21.000Z",
-          "wordCount": 1175,
-          "title": "feat: log into graylog",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
