@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c84d3ec345bbb9139057d56b7ffc9a0b53c8891e",
+          "author": null,
+          "description": "feat: update rec with new cv parser source\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/283\" data-original=\"recommendation/service-recommendation!283\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46168\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"283\" data-mr-title=\"feat: update rec with new cv parser source\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!283</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c84d3ec345bbb9139057d56b7ffc9a0b53c8891e",
+          "publishedOn": "2026-03-02T08:20:23.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-696' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed41aa574af3d97dc72310a3c07f2b11b290d7b2",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed41aa574af3d97dc72310a3c07f2b11b290d7b2",
+          "publishedOn": "2026-03-02T03:22:11.000Z",
+          "wordCount": 1175,
+          "title": "feat: update rec with new cv parser source",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/572522abc44c2ee2043a14073d951e9302230d41",
           "author": null,
           "description": "feat: add paid_boost parameter for recommendation api\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/282\" data-original=\"recommendation/service-recommendation!282\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46057\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"282\" data-mr-title=\"feat: add paid_boost parameter for recommendation api\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!282</a>",
