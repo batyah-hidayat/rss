@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-03T02:12:13.836Z</id>
+    <id>urn:2026-03-04T02:06:05.302Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-03T02:12:13.836Z</updated>
+    <updated>2026-03-04T02:06:05.302Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-697' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db2cc55f782eab7e85aed909468f3da772337a44</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db2cc55f782eab7e85aed909468f3da772337a44"/>
+        <updated>2026-03-03T06:50:23.000Z</updated>
+        <summary type="html"><![CDATA[feat: add keyword for search log
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/262" data-original="search-engine/service-search-engine!262" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46182" data-project-path="search-engine/service-search-engine" data-iid="262" data-mr-title="feat: add keyword for search log" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!262</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-696' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c84d3ec345bbb9139057d56b7ffc9a0b53c8891e</id>
@@ -15,6 +27,16 @@
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/283" data-original="recommendation/service-recommendation!283" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46168" data-project-path="recommendation/service-recommendation" data-iid="283" data-mr-title="feat: update rec with new cv parser source" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!283</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add keyword for search log]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6a3a56c1277c5338624662dcf8b0e409efa3c8e</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6a3a56c1277c5338624662dcf8b0e409efa3c8e"/>
+        <updated>2026-03-02T08:07:18.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
     <entry>

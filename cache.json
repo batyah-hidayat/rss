@@ -83,6 +83,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db2cc55f782eab7e85aed909468f3da772337a44",
+          "author": null,
+          "description": "feat: add keyword for search log\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/262\" data-original=\"search-engine/service-search-engine!262\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46182\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"262\" data-mr-title=\"feat: add keyword for search log\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!262</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db2cc55f782eab7e85aed909468f3da772337a44",
+          "publishedOn": "2026-03-03T06:50:23.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-697' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6a3a56c1277c5338624662dcf8b0e409efa3c8e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6a3a56c1277c5338624662dcf8b0e409efa3c8e",
+          "publishedOn": "2026-03-02T08:07:18.000Z",
+          "wordCount": 1175,
+          "title": "feat: add keyword for search log",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bad87a35e02351f925acd8bba3eb21cf5db55621",
           "author": null,
           "description": "feat: update err string for graylog &amp; unify log structure\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/261\" data-original=\"search-engine/service-search-engine!261\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45952\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"261\" data-mr-title=\"feat: update err string for graylog &amp; unify log structure\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!261</a>",
