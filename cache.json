@@ -161,16 +161,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-674' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c753279d0aefaa53273bfe0e93520f65d4bf2dd",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c753279d0aefaa53273bfe0e93520f65d4bf2dd",
-          "publishedOn": "2026-02-03T03:53:55.000Z",
-          "wordCount": 1175,
-          "title": "feat: add env into log",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
