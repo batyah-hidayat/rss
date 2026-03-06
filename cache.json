@@ -151,16 +151,6 @@
           "wordCount": 1175,
           "title": "feat: update err string for graylog",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90ebc7926b08783d360d6874ad075d0a1b0cdf40",
-          "author": null,
-          "description": "feat: log into graylog\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/258\" data-original=\"search-engine/service-search-engine!258\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"45892\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"258\" data-mr-title=\"feat: log into graylog\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!258</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/90ebc7926b08783d360d6874ad075d0a1b0cdf40",
-          "publishedOn": "2026-02-04T08:09:47.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-674' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
