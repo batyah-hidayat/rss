@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b0ec310d22033a4c21c1bfcb4db23ad935fe707",
+          "author": null,
+          "description": "feat: update searcher API configuration and add request parameter for similar job recommendations\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/286\" data-original=\"recommendation/service-recommendation!286\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46278\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"286\" data-mr-title=\"feat: update searcher API configuration and add request parameter for similar job recommendations\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!286</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b0ec310d22033a4c21c1bfcb4db23ad935fe707",
+          "publishedOn": "2026-03-11T08:52:03.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-705' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d3274214d86b926a631f1b2230cdd131ee709138",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d3274214d86b926a631f1b2230cdd131ee709138",
+          "publishedOn": "2026-03-10T07:31:22.000Z",
+          "wordCount": 1175,
+          "title": "feat: remove debug for search api",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269",
+          "publishedOn": "2026-03-10T06:54:29.000Z",
+          "wordCount": 1175,
+          "title": "feat: update searcher API configuration and add request parameter for similar...",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c2915f5a9bf50e12678079e7fd26dd6f04027e95",
           "author": null,
           "description": "feat: update log recommendation system\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/284\" data-original=\"recommendation/service-recommendation!284\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46199\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"284\" data-mr-title=\"feat: update log recommendation system\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!284</a>",
@@ -92,6 +122,36 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5e41b30b1fee59de11b543e3ceed798af13eed24",
+          "author": null,
+          "description": "feat: reduce response for similar job\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/265\" data-original=\"search-engine/service-search-engine!265\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46281\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"265\" data-mr-title=\"feat: reduce response for similar job\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!265</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5e41b30b1fee59de11b543e3ceed798af13eed24",
+          "publishedOn": "2026-03-11T08:35:41.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-707' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a9edfcdd61883be4ccdfc9e77fac5deb09d9eaee",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a9edfcdd61883be4ccdfc9e77fac5deb09d9eaee",
+          "publishedOn": "2026-03-11T08:16:16.000Z",
+          "wordCount": 1175,
+          "title": "refactor: remove fallback job post reconstruction in GetResponse method",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a72e119cbe07ed4f9aa5950a45a8f8370402f07",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a72e119cbe07ed4f9aa5950a45a8f8370402f07",
+          "publishedOn": "2026-03-10T07:58:19.000Z",
+          "wordCount": 1175,
+          "title": "feat: reduce response for similar job",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db2cc55f782eab7e85aed909468f3da772337a44",
           "author": null,
