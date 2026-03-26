@@ -154,16 +154,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-678' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bcd7645ab7b7b138542f4393362021fcaeccfe57",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bcd7645ab7b7b138542f4393362021fcaeccfe57",
-          "publishedOn": "2026-02-24T06:54:43.000Z",
-          "wordCount": 1175,
-          "title": "feat: add paid_boost parameter for recommendation api",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
