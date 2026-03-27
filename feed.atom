@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-26T02:28:44.463Z</id>
+    <id>urn:2026-03-27T02:30:18.214Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-26T02:28:44.463Z</updated>
+    <updated>2026-03-27T02:30:18.214Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'trigger-build' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d15e207e701d727108dd11a744ba6b8917a800d7</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d15e207e701d727108dd11a744ba6b8917a800d7"/>
+        <updated>2026-03-26T10:10:49.000Z</updated>
+        <summary type="html"><![CDATA[Trigger build
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/267" data-original="search-engine/service-search-engine!267" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46601" data-project-path="search-engine/service-search-engine" data-iid="267" data-mr-title="Trigger build" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!267</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trigger build]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/587db9134110c0959bf2233afa63f955a6eb425b</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/587db9134110c0959bf2233afa63f955a6eb425b"/>
+        <updated>2026-03-26T10:09:05.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-703' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/31b6e1f2b2901e06604cceccd92fc839254685e9</id>
@@ -207,18 +229,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[feat: add paid_boost parameter for recommendation api
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/282" data-original="recommendation/service-recommendation!282" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46057" data-project-path="recommendation/service-recommendation" data-iid="282" data-mr-title="feat: add paid_boost parameter for recommendation api" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!282</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-678' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ddb8403eee6c4ed957509355b6938c92393cf0f</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0ddb8403eee6c4ed957509355b6938c92393cf0f"/>
-        <updated>2026-02-25T07:18:11.000Z</updated>
-        <summary type="html"><![CDATA[feat: add graylog for recommendation
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/281" data-original="recommendation/service-recommendation!281" data-link="false" data-link-reference="false" data-project="335" data-merge-request="45959" data-project-path="recommendation/service-recommendation" data-iid="281" data-mr-title="feat: add graylog for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!281</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
