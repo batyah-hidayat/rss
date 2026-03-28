@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-03-27T02:30:18.214Z</id>
+    <id>urn:2026-03-28T02:13:33.025Z</id>
     <title>osmos::feed</title>
-    <updated>2026-03-27T02:30:18.214Z</updated>
+    <updated>2026-03-28T02:13:33.025Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -217,18 +217,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed41aa574af3d97dc72310a3c07f2b11b290d7b2"/>
         <updated>2026-03-02T03:22:11.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-687' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/572522abc44c2ee2043a14073d951e9302230d41</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/572522abc44c2ee2043a14073d951e9302230d41"/>
-        <updated>2026-02-26T08:47:29.000Z</updated>
-        <summary type="html"><![CDATA[feat: add paid_boost parameter for recommendation api
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/282" data-original="recommendation/service-recommendation!282" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46057" data-project-path="recommendation/service-recommendation" data-iid="282" data-mr-title="feat: add paid_boost parameter for recommendation api" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!282</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
