@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6a780abae13496c62db57bf6bf2f3fc83be8ee60",
+          "author": null,
+          "description": "Update email payload body for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/290\" data-original=\"recommendation/service-recommendation!290\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46594\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"290\" data-mr-title=\"Update email payload body for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!290</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6a780abae13496c62db57bf6bf2f3fc83be8ee60",
+          "publishedOn": "2026-03-30T07:38:34.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-719' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2d68b9545c8ca1d1de43d892ca733b9213579763",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2d68b9545c8ca1d1de43d892ca733b9213579763",
+          "publishedOn": "2026-03-25T07:03:51.000Z",
+          "wordCount": 1175,
+          "title": "Update email payload body for recommendation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/31b6e1f2b2901e06604cceccd92fc839254685e9",
           "author": null,
           "description": "refactor: update NLP search request method to use POST with JSON body and...\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/287\" data-original=\"recommendation/service-recommendation!287\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46346\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"287\" data-mr-title=\"refactor: update NLP search request method to use POST with JSON body and...\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!287</a>",
