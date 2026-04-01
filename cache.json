@@ -134,26 +134,6 @@
           "wordCount": 1175,
           "title": "feat: update log recommendation system",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c84d3ec345bbb9139057d56b7ffc9a0b53c8891e",
-          "author": null,
-          "description": "feat: update rec with new cv parser source\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/283\" data-original=\"recommendation/service-recommendation!283\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46168\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"283\" data-mr-title=\"feat: update rec with new cv parser source\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!283</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c84d3ec345bbb9139057d56b7ffc9a0b53c8891e",
-          "publishedOn": "2026-03-02T08:20:23.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-696' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed41aa574af3d97dc72310a3c07f2b11b290d7b2",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed41aa574af3d97dc72310a3c07f2b11b290d7b2",
-          "publishedOn": "2026-03-02T03:22:11.000Z",
-          "wordCount": 1175,
-          "title": "feat: update rec with new cv parser source",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -220,16 +200,6 @@
           "publishedOn": "2026-03-03T06:50:23.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-697' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6a3a56c1277c5338624662dcf8b0e409efa3c8e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c6a3a56c1277c5338624662dcf8b0e409efa3c8e",
-          "publishedOn": "2026-03-02T08:07:18.000Z",
-          "wordCount": 1175,
-          "title": "feat: add keyword for search log",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
