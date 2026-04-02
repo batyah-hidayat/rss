@@ -191,16 +191,6 @@
           "wordCount": 1175,
           "title": "feat: reduce response for similar job",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db2cc55f782eab7e85aed909468f3da772337a44",
-          "author": null,
-          "description": "feat: add keyword for search log\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/262\" data-original=\"search-engine/service-search-engine!262\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46182\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"262\" data-mr-title=\"feat: add keyword for search log\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!262</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/db2cc55f782eab7e85aed909468f3da772337a44",
-          "publishedOn": "2026-03-03T06:50:23.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-697' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
