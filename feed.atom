@@ -1,10 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-02T02:27:11.082Z</id>
+    <id>urn:2026-04-03T02:28:40.016Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-02T02:27:11.082Z</updated>
+    <updated>2026-04-03T02:28:40.016Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-724' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a"/>
+        <updated>2026-04-02T09:29:36.000Z</updated>
+        <summary type="html"><![CDATA[Add filter lowperfjob for recommendation
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/291" data-original="recommendation/service-recommendation!291" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46765" data-project-path="recommendation/service-recommendation" data-iid="291" data-mr-title="Add filter lowperfjob for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!291</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-624' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a"/>
+        <updated>2026-04-02T09:06:11.000Z</updated>
+        <summary type="html"><![CDATA[Add filter lowperfjob for search
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/269" data-original="search-engine/service-search-engine!269" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46764" data-project-path="search-engine/service-search-engine" data-iid="269" data-mr-title="Add filter lowperfjob for search" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!269</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add filter lowperfjob for search]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493"/>
+        <updated>2026-03-31T03:30:40.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add filter lowperfjob for recommendation]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f"/>
+        <updated>2026-03-31T02:29:14.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-719' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6a780abae13496c62db57bf6bf2f3fc83be8ee60</id>
@@ -184,16 +228,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/dec25c5bd8927fbf52adb9598082f9581c32387f</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/dec25c5bd8927fbf52adb9598082f9581c32387f"/>
         <updated>2026-03-06T03:10:24.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: update log recommendation system]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3585e7912e8f0b28f61479bbd2fccce2ae45a63b</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3585e7912e8f0b28f61479bbd2fccce2ae45a63b"/>
-        <updated>2026-03-04T05:28:25.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>

@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a",
+          "author": null,
+          "description": "Add filter lowperfjob for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/291\" data-original=\"recommendation/service-recommendation!291\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46765\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"291\" data-mr-title=\"Add filter lowperfjob for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!291</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a",
+          "publishedOn": "2026-04-02T09:29:36.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-724' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f",
+          "publishedOn": "2026-03-31T02:29:14.000Z",
+          "wordCount": 1175,
+          "title": "Add filter lowperfjob for recommendation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6a780abae13496c62db57bf6bf2f3fc83be8ee60",
           "author": null,
           "description": "Update email payload body for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/290\" data-original=\"recommendation/service-recommendation!290\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46594\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"290\" data-mr-title=\"Update email payload body for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!290</a>",
@@ -124,16 +144,6 @@
           "wordCount": 1175,
           "title": "chore: rollback naming for cnt_days_since_activation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3585e7912e8f0b28f61479bbd2fccce2ae45a63b",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3585e7912e8f0b28f61479bbd2fccce2ae45a63b",
-          "publishedOn": "2026-03-04T05:28:25.000Z",
-          "wordCount": 1175,
-          "title": "feat: update log recommendation system",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -142,6 +152,26 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a",
+          "author": null,
+          "description": "Add filter lowperfjob for search\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/269\" data-original=\"search-engine/service-search-engine!269\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46764\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"269\" data-mr-title=\"Add filter lowperfjob for search\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!269</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a",
+          "publishedOn": "2026-04-02T09:06:11.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-624' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493",
+          "publishedOn": "2026-03-31T03:30:40.000Z",
+          "wordCount": 1175,
+          "title": "Add filter lowperfjob for search",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d15e207e701d727108dd11a744ba6b8917a800d7",
           "author": null,
