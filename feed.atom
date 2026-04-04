@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-03T02:28:40.016Z</id>
+    <id>urn:2026-04-04T02:12:59.440Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-03T02:28:40.016Z</updated>
+    <updated>2026-04-04T02:12:59.440Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-711' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5926ffb17a732b33d5ff6f7f7608148f89abb98</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5926ffb17a732b33d5ff6f7f7608148f89abb98"/>
+        <updated>2026-04-03T03:31:04.000Z</updated>
+        <summary type="html"><![CDATA[feat: add initial test suite and configuration for smoke tests
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/270" data-original="search-engine/service-search-engine!270" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46785" data-project-path="search-engine/service-search-engine" data-iid="270" data-mr-title="feat: add initial test suite and configuration for smoke tests" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!270</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-724' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a</id>
@@ -91,6 +103,23 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[feat: add initial test suite and configuration for smoke tests]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4187c53f2d4431560451c7c93594d1d6ec39a1d5</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4187c53f2d4431560451c7c93594d1d6ec39a1d5"/>
+        <updated>2026-03-16T08:27:38.000Z</updated>
+        <summary type="html"><![CDATA[- Created a new `.env.example` file for environment variable configuration.
+- Updated `.gitignore` to exclude Python cache and environment files.
+- Added a `Makefile` target for setting up a virtual environment and running tests.
+- Introduced a `tests/README.md` to document the test structure and execution.
+- Added test requirements in `tests/requirements.txt`.
+- Implemented smoke tests for the search service, including endpoints for recommendation, search, and status checks.
+- Created data files for keywords and non-keywords used in tests.
+- Developed a client for making requests to the search service.]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
     <entry>

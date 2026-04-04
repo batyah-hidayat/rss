@@ -153,6 +153,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5926ffb17a732b33d5ff6f7f7608148f89abb98",
+          "author": null,
+          "description": "feat: add initial test suite and configuration for smoke tests\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/270\" data-original=\"search-engine/service-search-engine!270\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46785\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"270\" data-mr-title=\"feat: add initial test suite and configuration for smoke tests\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!270</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5926ffb17a732b33d5ff6f7f7608148f89abb98",
+          "publishedOn": "2026-04-03T03:31:04.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-711' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a",
           "author": null,
           "description": "Add filter lowperfjob for search\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/269\" data-original=\"search-engine/service-search-engine!269\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46764\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"269\" data-mr-title=\"Add filter lowperfjob for search\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!269</a>",
@@ -190,6 +200,16 @@
           "publishedOn": "2026-03-26T10:09:05.000Z",
           "wordCount": 1175,
           "title": "Trigger build",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4187c53f2d4431560451c7c93594d1d6ec39a1d5",
+          "author": null,
+          "description": "- Created a new `.env.example` file for environment variable configuration.\n- Updated `.gitignore` to exclude Python cache and environment files.\n- Added a `Makefile` target for setting up a virtual environment and running tests.\n- Introduced a `tests/README.md` to document the test structure and execution.\n- Added test requirements in `tests/requirements.txt`.\n- Implemented smoke tests for the search service, including endpoints for recommendation, search, and status checks.\n- Created data files for keywords and non-keywords used in tests.\n- Developed a client for making requests to the search service.",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4187c53f2d4431560451c7c93594d1d6ec39a1d5",
+          "publishedOn": "2026-03-16T08:27:38.000Z",
+          "wordCount": 1175,
+          "title": "feat: add initial test suite and configuration for smoke tests",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
