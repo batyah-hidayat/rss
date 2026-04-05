@@ -124,26 +124,6 @@
           "wordCount": 1175,
           "title": "feat: nlp matching score for recommendation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c2915f5a9bf50e12678079e7fd26dd6f04027e95",
-          "author": null,
-          "description": "feat: update log recommendation system\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/284\" data-original=\"recommendation/service-recommendation!284\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46199\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"284\" data-mr-title=\"feat: update log recommendation system\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!284</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c2915f5a9bf50e12678079e7fd26dd6f04027e95",
-          "publishedOn": "2026-03-06T06:24:52.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-699' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/dec25c5bd8927fbf52adb9598082f9581c32387f",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/dec25c5bd8927fbf52adb9598082f9581c32387f",
-          "publishedOn": "2026-03-06T03:10:24.000Z",
-          "wordCount": 1175,
-          "title": "chore: rollback naming for cnt_days_since_activation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
