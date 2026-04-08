@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-07T02:31:39.707Z</id>
+    <id>urn:2026-04-08T02:32:10.966Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-07T02:31:39.707Z</updated>
+    <updated>2026-04-08T02:32:10.966Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -225,16 +225,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269"/>
         <updated>2026-03-10T06:54:29.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: nlp matching score for recommendation]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/39b4d45b48ed72bd84f11648e61ddbd4b5af4341</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/39b4d45b48ed72bd84f11648e61ddbd4b5af4341"/>
-        <updated>2026-03-09T05:07:18.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
