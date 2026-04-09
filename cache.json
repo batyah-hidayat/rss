@@ -94,26 +94,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-705' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d3274214d86b926a631f1b2230cdd131ee709138",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d3274214d86b926a631f1b2230cdd131ee709138",
-          "publishedOn": "2026-03-10T07:31:22.000Z",
-          "wordCount": 1175,
-          "title": "feat: remove debug for search api",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269",
-          "publishedOn": "2026-03-10T06:54:29.000Z",
-          "wordCount": 1175,
-          "title": "feat: update searcher API configuration and add request parameter for similar...",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -200,16 +180,6 @@
           "publishedOn": "2026-03-11T08:16:16.000Z",
           "wordCount": 1175,
           "title": "refactor: remove fallback job post reconstruction in GetResponse method",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a72e119cbe07ed4f9aa5950a45a8f8370402f07",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a72e119cbe07ed4f9aa5950a45a8f8370402f07",
-          "publishedOn": "2026-03-10T07:58:19.000Z",
-          "wordCount": 1175,
-          "title": "feat: reduce response for similar job",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

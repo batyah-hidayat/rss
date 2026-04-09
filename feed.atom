@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-08T02:32:10.966Z</id>
+    <id>urn:2026-04-09T02:27:35.163Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-08T02:32:10.966Z</updated>
+    <updated>2026-04-09T02:27:35.163Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -198,36 +198,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: reduce response for similar job]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a72e119cbe07ed4f9aa5950a45a8f8370402f07</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a72e119cbe07ed4f9aa5950a45a8f8370402f07"/>
-        <updated>2026-03-10T07:58:19.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: remove debug for search api]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d3274214d86b926a631f1b2230cdd131ee709138</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d3274214d86b926a631f1b2230cdd131ee709138"/>
-        <updated>2026-03-10T07:31:22.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[feat: update searcher API configuration and add request parameter for similar...]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/7682eb50c4752a56373c55c77865d8da36ebf269"/>
-        <updated>2026-03-10T06:54:29.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
