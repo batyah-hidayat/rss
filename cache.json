@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bd4ba43952e828856ac7f220918c3287d44b4b75",
+          "author": null,
+          "description": "Optimize elastic query for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/292\" data-original=\"recommendation/service-recommendation!292\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46846\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"292\" data-mr-title=\"Optimize elastic query for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!292</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bd4ba43952e828856ac7f220918c3287d44b4b75",
+          "publishedOn": "2026-04-09T06:59:46.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-730' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/504e7cc67807e11d13c33628681e470fcdd8b377",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/504e7cc67807e11d13c33628681e470fcdd8b377",
+          "publishedOn": "2026-04-09T06:30:32.000Z",
+          "wordCount": 1175,
+          "title": "Optimize elastic query for recommendation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a",
           "author": null,
           "description": "Add filter lowperfjob for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/291\" data-original=\"recommendation/service-recommendation!291\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46765\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"291\" data-mr-title=\"Add filter lowperfjob for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!291</a>",
@@ -84,16 +104,6 @@
           "wordCount": 1175,
           "title": "fix: refine NLP feature building logic to ensure similar job ID is checked be...",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b0ec310d22033a4c21c1bfcb4db23ad935fe707",
-          "author": null,
-          "description": "feat: update searcher API configuration and add request parameter for similar job recommendations\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/286\" data-original=\"recommendation/service-recommendation!286\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46278\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"286\" data-mr-title=\"feat: update searcher API configuration and add request parameter for similar job recommendations\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!286</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8b0ec310d22033a4c21c1bfcb4db23ad935fe707",
-          "publishedOn": "2026-03-11T08:52:03.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-705' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -160,26 +170,6 @@
           "publishedOn": "2026-03-16T08:27:38.000Z",
           "wordCount": 1175,
           "title": "feat: add initial test suite and configuration for smoke tests",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5e41b30b1fee59de11b543e3ceed798af13eed24",
-          "author": null,
-          "description": "feat: reduce response for similar job\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/265\" data-original=\"search-engine/service-search-engine!265\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46281\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"265\" data-mr-title=\"feat: reduce response for similar job\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!265</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5e41b30b1fee59de11b543e3ceed798af13eed24",
-          "publishedOn": "2026-03-11T08:35:41.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-707' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a9edfcdd61883be4ccdfc9e77fac5deb09d9eaee",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/a9edfcdd61883be4ccdfc9e77fac5deb09d9eaee",
-          "publishedOn": "2026-03-11T08:16:16.000Z",
-          "wordCount": 1175,
-          "title": "refactor: remove fallback job post reconstruction in GetResponse method",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
