@@ -74,36 +74,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-703' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ce54caa0bd483a46612b0f74c90c3f58fee303af",
-          "author": null,
-          "description": "refactor: update NLP search request method to use POST with JSON body and adjust query batching logic",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ce54caa0bd483a46612b0f74c90c3f58fee303af",
-          "publishedOn": "2026-03-12T09:17:49.000Z",
-          "wordCount": 1175,
-          "title": "refactor: update NLP search request method to use POST with JSON body and...",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/247d060cef56bb70d4bf8837cbfc982f820ae007",
-          "author": null,
-          "description": "feat: nlp matching score for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/285\" data-original=\"recommendation/service-recommendation!285\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46255\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"285\" data-mr-title=\"feat: nlp matching score for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!285</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/247d060cef56bb70d4bf8837cbfc982f820ae007",
-          "publishedOn": "2026-03-12T08:28:22.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-703' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/668d06cc00fdbdb6990916ea7dbe442bf2a83aae",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/668d06cc00fdbdb6990916ea7dbe442bf2a83aae",
-          "publishedOn": "2026-03-12T08:03:55.000Z",
-          "wordCount": 1175,
-          "title": "fix: refine NLP feature building logic to ensure similar job ID is checked be...",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },

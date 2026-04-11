@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-10T02:38:22.896Z</id>
+    <id>urn:2026-04-11T02:24:13.370Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-10T02:38:22.896Z</updated>
+    <updated>2026-04-11T02:24:13.370Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -152,38 +152,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[refactor: update NLP search request method to use POST with JSON body and...
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/287" data-original="recommendation/service-recommendation!287" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46346" data-project-path="recommendation/service-recommendation" data-iid="287" data-mr-title="refactor: update NLP search request method to use POST with JSON body and..." data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!287</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[refactor: update NLP search request method to use POST with JSON body and...]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ce54caa0bd483a46612b0f74c90c3f58fee303af</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ce54caa0bd483a46612b0f74c90c3f58fee303af"/>
-        <updated>2026-03-12T09:17:49.000Z</updated>
-        <summary type="html"><![CDATA[refactor: update NLP search request method to use POST with JSON body and adjust query batching logic]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-703' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/247d060cef56bb70d4bf8837cbfc982f820ae007</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/247d060cef56bb70d4bf8837cbfc982f820ae007"/>
-        <updated>2026-03-12T08:28:22.000Z</updated>
-        <summary type="html"><![CDATA[feat: nlp matching score for recommendation
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/285" data-original="recommendation/service-recommendation!285" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46255" data-project-path="recommendation/service-recommendation" data-iid="285" data-mr-title="feat: nlp matching score for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!285</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix: refine NLP feature building logic to ensure similar job ID is checked be...]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/668d06cc00fdbdb6990916ea7dbe442bf2a83aae</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/668d06cc00fdbdb6990916ea7dbe442bf2a83aae"/>
-        <updated>2026-03-12T08:03:55.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
