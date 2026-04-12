@@ -64,16 +64,6 @@
           "wordCount": 1175,
           "title": "Update email payload body for recommendation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/31b6e1f2b2901e06604cceccd92fc839254685e9",
-          "author": null,
-          "description": "refactor: update NLP search request method to use POST with JSON body and...\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/287\" data-original=\"recommendation/service-recommendation!287\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46346\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"287\" data-mr-title=\"refactor: update NLP search request method to use POST with JSON body and...\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!287</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/31b6e1f2b2901e06604cceccd92fc839254685e9",
-          "publishedOn": "2026-03-13T06:48:47.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-703' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },

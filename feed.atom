@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-11T02:24:13.370Z</id>
+    <id>urn:2026-04-12T02:41:17.119Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-11T02:24:13.370Z</updated>
+    <updated>2026-04-12T02:41:17.119Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -142,18 +142,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
 - Developed a client for making requests to the search service.]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-703' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/31b6e1f2b2901e06604cceccd92fc839254685e9</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/31b6e1f2b2901e06604cceccd92fc839254685e9"/>
-        <updated>2026-03-13T06:48:47.000Z</updated>
-        <summary type="html"><![CDATA[refactor: update NLP search request method to use POST with JSON body and...
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/287" data-original="recommendation/service-recommendation!287" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46346" data-project-path="recommendation/service-recommendation" data-iid="287" data-mr-title="refactor: update NLP search request method to use POST with JSON body and..." data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!287</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
