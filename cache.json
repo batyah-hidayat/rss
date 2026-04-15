@@ -181,16 +181,6 @@
           "wordCount": 1175,
           "title": "Trigger build",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4187c53f2d4431560451c7c93594d1d6ec39a1d5",
-          "author": null,
-          "description": "- Created a new `.env.example` file for environment variable configuration.\n- Updated `.gitignore` to exclude Python cache and environment files.\n- Added a `Makefile` target for setting up a virtual environment and running tests.\n- Introduced a `tests/README.md` to document the test structure and execution.\n- Added test requirements in `tests/requirements.txt`.\n- Implemented smoke tests for the search service, including endpoints for recommendation, search, and status checks.\n- Created data files for keywords and non-keywords used in tests.\n- Developed a client for making requests to the search service.",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4187c53f2d4431560451c7c93594d1d6ec39a1d5",
-          "publishedOn": "2026-03-16T08:27:38.000Z",
-          "wordCount": 1175,
-          "title": "feat: add initial test suite and configuration for smoke tests",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
