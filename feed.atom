@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-16T02:44:38.559Z</id>
+    <id>urn:2026-04-17T02:39:29.765Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-16T02:44:38.559Z</updated>
+    <updated>2026-04-17T02:39:29.765Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-729' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6fcbf3b045d4beb15c7eb73461b0333f076b2103</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6fcbf3b045d4beb15c7eb73461b0333f076b2103"/>
+        <updated>2026-04-16T08:13:33.000Z</updated>
+        <summary type="html"><![CDATA[Update email body for recommendation
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/297" data-original="recommendation/service-recommendation!297" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46966" data-project-path="recommendation/service-recommendation" data-iid="297" data-mr-title="Update email body for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!297</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update to add / after host]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ef6d35f4bebcd1c701333adbd2dbc2796f40df5f</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ef6d35f4bebcd1c701333adbd2dbc2796f40df5f"/>
+        <updated>2026-04-16T04:19:41.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update email body for recommendation]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bf6cfc314706554b28350989350ca0e8cdb0831e</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bf6cfc314706554b28350989350ca0e8cdb0831e"/>
+        <updated>2026-04-15T09:58:54.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'release/similar_job_v2' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6892bfb6c0047945788bf7a35509d73718581acd</id>
