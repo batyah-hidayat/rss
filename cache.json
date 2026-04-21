@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b3296b042a945ccdafe8e9186c9f6a77bd4fa88b",
+          "author": null,
+          "description": "Deduplicate id param in detail link\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/298\" data-original=\"recommendation/service-recommendation!298\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"47029\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"298\" data-mr-title=\"Deduplicate id param in detail link\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!298</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b3296b042a945ccdafe8e9186c9f6a77bd4fa88b",
+          "publishedOn": "2026-04-20T10:33:41.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'fix/deduplicate-id-in-detail-link' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e7411d51c1a97afc68a45138e104ce22d3d717d3",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e7411d51c1a97afc68a45138e104ce22d3d717d3",
+          "publishedOn": "2026-04-20T09:45:27.000Z",
+          "wordCount": 1175,
+          "title": "Deduplicate id param in detail link",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6fcbf3b045d4beb15c7eb73461b0333f076b2103",
           "author": null,
           "description": "Update email body for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/297\" data-original=\"recommendation/service-recommendation!297\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46966\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"297\" data-mr-title=\"Update email body for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!297</a>",
