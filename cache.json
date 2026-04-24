@@ -164,16 +164,6 @@
           "wordCount": 1175,
           "title": "Update NLP occupation score to 3.0",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2d68b9545c8ca1d1de43d892ca733b9213579763",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2d68b9545c8ca1d1de43d892ca733b9213579763",
-          "publishedOn": "2026-03-25T07:03:51.000Z",
-          "wordCount": 1175,
-          "title": "Update email payload body for recommendation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -182,6 +172,36 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/43f91e2e539edccd91f01ac07df40d5cf3757ccd",
+          "author": null,
+          "description": "Production v2\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/272\" data-original=\"search-engine/service-search-engine!272\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47108\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"272\" data-mr-title=\"Production v2\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!272</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/43f91e2e539edccd91f01ac07df40d5cf3757ccd",
+          "publishedOn": "2026-04-23T08:59:19.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'production-v2' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/809c36503e627276b71b17c2662da305ab624a4f",
+          "author": null,
+          "description": "Update under performance boost to 10%\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/271\" data-original=\"search-engine/service-search-engine!271\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46850\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"271\" data-mr-title=\"Update under performance boost to 10%\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!271</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/809c36503e627276b71b17c2662da305ab624a4f",
+          "publishedOn": "2026-04-09T07:55:32.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-731' into 'production-v2'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/097586908e28b6fd74987794576f7c2d1643140e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/097586908e28b6fd74987794576f7c2d1643140e",
+          "publishedOn": "2026-04-09T07:34:45.000Z",
+          "wordCount": 1175,
+          "title": "Update under performance boost to 10%",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5926ffb17a732b33d5ff6f7f7608148f89abb98",
           "author": null,
@@ -210,6 +230,16 @@
           "publishedOn": "2026-03-31T03:30:40.000Z",
           "wordCount": 1175,
           "title": "Add filter lowperfjob for search",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5da1db2baecbd8ba559c39b28be77e3bfedac3af",
+          "author": null,
+          "description": "Trigger build\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/268\" data-original=\"search-engine/service-search-engine!268\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46602\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"268\" data-mr-title=\"Trigger build\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!268</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5da1db2baecbd8ba559c39b28be77e3bfedac3af",
+          "publishedOn": "2026-03-26T10:29:07.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'trigger-build' into 'production-v2'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
