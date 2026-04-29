@@ -124,16 +124,6 @@
           "wordCount": 1175,
           "title": "Add filter lowperfjob for recommendation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6a780abae13496c62db57bf6bf2f3fc83be8ee60",
-          "author": null,
-          "description": "Update email payload body for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/290\" data-original=\"recommendation/service-recommendation!290\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46594\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"290\" data-mr-title=\"Update email payload body for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!290</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6a780abae13496c62db57bf6bf2f3fc83be8ee60",
-          "publishedOn": "2026-03-30T07:38:34.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-719' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
