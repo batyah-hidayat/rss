@@ -114,16 +114,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-724' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f",
-          "publishedOn": "2026-03-31T02:29:14.000Z",
-          "wordCount": 1175,
-          "title": "Add filter lowperfjob for recommendation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -180,16 +170,6 @@
           "publishedOn": "2026-04-02T09:06:11.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-624' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493",
-          "publishedOn": "2026-03-31T03:30:40.000Z",
-          "wordCount": 1175,
-          "title": "Add filter lowperfjob for search",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

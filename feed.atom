@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-04-29T02:56:55.417Z</id>
+    <id>urn:2026-04-30T02:58:05.995Z</id>
     <title>osmos::feed</title>
-    <updated>2026-04-29T02:56:55.417Z</updated>
+    <updated>2026-04-30T02:58:05.995Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -183,26 +183,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/269" data-original="search-engine/service-search-engine!269" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46764" data-project-path="search-engine/service-search-engine" data-iid="269" data-mr-title="Add filter lowperfjob for search" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!269</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add filter lowperfjob for search]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/abecc3a1dcfdca612c46dfc7c24e0ee4545f9493"/>
-        <updated>2026-03-31T03:30:40.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Add filter lowperfjob for recommendation]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b6b33e9f7ab2a91bc443fb904098651931b28e5f"/>
-        <updated>2026-03-31T02:29:14.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
