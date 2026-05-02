@@ -104,16 +104,6 @@
           "wordCount": 1175,
           "title": "Optimize elastic query for recommendation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a",
-          "author": null,
-          "description": "Add filter lowperfjob for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/291\" data-original=\"recommendation/service-recommendation!291\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46765\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"291\" data-mr-title=\"Add filter lowperfjob for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!291</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a",
-          "publishedOn": "2026-04-02T09:29:36.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-724' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -160,16 +150,6 @@
           "publishedOn": "2026-04-03T03:31:04.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-711' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a",
-          "author": null,
-          "description": "Add filter lowperfjob for search\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/269\" data-original=\"search-engine/service-search-engine!269\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46764\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"269\" data-mr-title=\"Add filter lowperfjob for search\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!269</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a",
-          "publishedOn": "2026-04-02T09:06:11.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-624' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-01T03:30:08.780Z</id>
+    <id>urn:2026-05-02T02:46:34.504Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-01T03:30:08.780Z</updated>
+    <updated>2026-05-02T02:46:34.504Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -157,30 +157,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[feat: add initial test suite and configuration for smoke tests
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/270" data-original="search-engine/service-search-engine!270" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46785" data-project-path="search-engine/service-search-engine" data-iid="270" data-mr-title="feat: add initial test suite and configuration for smoke tests" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!270</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-724' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c8c20c803b646fcfc42f8a6b39d9f08d577f5c6a"/>
-        <updated>2026-04-02T09:29:36.000Z</updated>
-        <summary type="html"><![CDATA[Add filter lowperfjob for recommendation
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/291" data-original="recommendation/service-recommendation!291" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46765" data-project-path="recommendation/service-recommendation" data-iid="291" data-mr-title="Add filter lowperfjob for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!291</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-624' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9a390f98e8db943dd976bdba07c3a7979f33ba1a"/>
-        <updated>2026-04-02T09:06:11.000Z</updated>
-        <summary type="html"><![CDATA[Add filter lowperfjob for search
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/269" data-original="search-engine/service-search-engine!269" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46764" data-project-path="search-engine/service-search-engine" data-iid="269" data-mr-title="Add filter lowperfjob for search" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!269</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
