@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-02T02:46:34.504Z</id>
+    <id>urn:2026-05-03T03:20:58.409Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-02T02:46:34.504Z</updated>
+    <updated>2026-05-03T03:20:58.409Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -147,18 +147,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-711' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5926ffb17a732b33d5ff6f7f7608148f89abb98</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c5926ffb17a732b33d5ff6f7f7608148f89abb98"/>
-        <updated>2026-04-03T03:31:04.000Z</updated>
-        <summary type="html"><![CDATA[feat: add initial test suite and configuration for smoke tests
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/270" data-original="search-engine/service-search-engine!270" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46785" data-project-path="search-engine/service-search-engine" data-iid="270" data-mr-title="feat: add initial test suite and configuration for smoke tests" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!270</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>
