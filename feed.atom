@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-08T02:57:32.850Z</id>
+    <id>urn:2026-05-09T02:53:10.683Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-08T02:57:32.850Z</updated>
+    <updated>2026-05-09T02:53:10.683Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -111,72 +111,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Release similar job v2 to production Recommendation service
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/294" data-original="recommendation/service-recommendation!294" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46893" data-project-path="recommendation/service-recommendation" data-iid="294" data-mr-title="Release similar job v2 to production Recommendation service" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!294</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-730-v2' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ad71df38ae04eebd6c33db5786cbd6ba249e7b2e</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ad71df38ae04eebd6c33db5786cbd6ba249e7b2e"/>
-        <updated>2026-04-09T08:31:08.000Z</updated>
-        <summary type="html"><![CDATA[Optimize elastic query for recommendation
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/293" data-original="recommendation/service-recommendation!293" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46849" data-project-path="recommendation/service-recommendation" data-iid="293" data-mr-title="Optimize elastic query for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!293</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-731' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/809c36503e627276b71b17c2662da305ab624a4f</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/809c36503e627276b71b17c2662da305ab624a4f"/>
-        <updated>2026-04-09T07:55:32.000Z</updated>
-        <summary type="html"><![CDATA[Update under performance boost to 10%
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/271" data-original="search-engine/service-search-engine!271" data-link="false" data-link-reference="false" data-project="313" data-merge-request="46850" data-project-path="search-engine/service-search-engine" data-iid="271" data-mr-title="Update under performance boost to 10%" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!271</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update under performance boost to 10%]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/097586908e28b6fd74987794576f7c2d1643140e</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/097586908e28b6fd74987794576f7c2d1643140e"/>
-        <updated>2026-04-09T07:34:45.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimize elastic query for recommendation]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f69d54a628e55e2c5d4a829b441b3cc57e5b0abe</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f69d54a628e55e2c5d4a829b441b3cc57e5b0abe"/>
-        <updated>2026-04-09T07:27:02.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-730' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bd4ba43952e828856ac7f220918c3287d44b4b75</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bd4ba43952e828856ac7f220918c3287d44b4b75"/>
-        <updated>2026-04-09T06:59:46.000Z</updated>
-        <summary type="html"><![CDATA[Optimize elastic query for recommendation
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/292" data-original="recommendation/service-recommendation!292" data-link="false" data-link-reference="false" data-project="335" data-merge-request="46846" data-project-path="recommendation/service-recommendation" data-iid="292" data-mr-title="Optimize elastic query for recommendation" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!292</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Optimize elastic query for recommendation]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/504e7cc67807e11d13c33628681e470fcdd8b377</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/504e7cc67807e11d13c33628681e470fcdd8b377"/>
-        <updated>2026-04-09T06:30:32.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>

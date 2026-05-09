@@ -94,46 +94,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'release/similar_job_v2' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ad71df38ae04eebd6c33db5786cbd6ba249e7b2e",
-          "author": null,
-          "description": "Optimize elastic query for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/293\" data-original=\"recommendation/service-recommendation!293\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46849\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"293\" data-mr-title=\"Optimize elastic query for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!293</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ad71df38ae04eebd6c33db5786cbd6ba249e7b2e",
-          "publishedOn": "2026-04-09T08:31:08.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-730-v2' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f69d54a628e55e2c5d4a829b441b3cc57e5b0abe",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f69d54a628e55e2c5d4a829b441b3cc57e5b0abe",
-          "publishedOn": "2026-04-09T07:27:02.000Z",
-          "wordCount": 1175,
-          "title": "Optimize elastic query for recommendation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bd4ba43952e828856ac7f220918c3287d44b4b75",
-          "author": null,
-          "description": "Optimize elastic query for recommendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/292\" data-original=\"recommendation/service-recommendation!292\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46846\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"292\" data-mr-title=\"Optimize elastic query for recommendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!292</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bd4ba43952e828856ac7f220918c3287d44b4b75",
-          "publishedOn": "2026-04-09T06:59:46.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-730' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/504e7cc67807e11d13c33628681e470fcdd8b377",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/504e7cc67807e11d13c33628681e470fcdd8b377",
-          "publishedOn": "2026-04-09T06:30:32.000Z",
-          "wordCount": 1175,
-          "title": "Optimize elastic query for recommendation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -150,26 +110,6 @@
           "publishedOn": "2026-04-23T08:59:19.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'production-v2' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/809c36503e627276b71b17c2662da305ab624a4f",
-          "author": null,
-          "description": "Update under performance boost to 10%\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/271\" data-original=\"search-engine/service-search-engine!271\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"46850\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"271\" data-mr-title=\"Update under performance boost to 10%\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!271</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/809c36503e627276b71b17c2662da305ab624a4f",
-          "publishedOn": "2026-04-09T07:55:32.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-731' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/097586908e28b6fd74987794576f7c2d1643140e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/097586908e28b6fd74987794576f7c2d1643140e",
-          "publishedOn": "2026-04-09T07:34:45.000Z",
-          "wordCount": 1175,
-          "title": "Update under performance boost to 10%",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
