@@ -84,16 +84,6 @@
           "wordCount": 1175,
           "title": "Update email body for recommendation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6892bfb6c0047945788bf7a35509d73718581acd",
-          "author": null,
-          "description": "Release similar job v2 to production Recommendation service\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/294\" data-original=\"recommendation/service-recommendation!294\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"46893\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"294\" data-mr-title=\"Release similar job v2 to production Recommendation service\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!294</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6892bfb6c0047945788bf7a35509d73718581acd",
-          "publishedOn": "2026-04-13T07:49:03.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'release/similar_job_v2' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
