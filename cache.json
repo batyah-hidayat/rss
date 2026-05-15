@@ -74,16 +74,6 @@
           "wordCount": 1175,
           "title": "Update to add / after host",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bf6cfc314706554b28350989350ca0e8cdb0831e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/bf6cfc314706554b28350989350ca0e8cdb0831e",
-          "publishedOn": "2026-04-15T09:58:54.000Z",
-          "wordCount": 1175,
-          "title": "Update email body for recommendation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
