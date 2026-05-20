@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-05-19T03:37:54.159Z</id>
+    <id>urn:2026-05-20T03:38:50.854Z</id>
     <title>osmos::feed</title>
-    <updated>2026-05-19T03:37:54.159Z</updated>
+    <updated>2026-05-20T03:38:50.854Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -47,28 +47,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/272" data-original="search-engine/service-search-engine!272" data-link="false" data-link-reference="false" data-project="313" data-merge-request="47108" data-project-path="search-engine/service-search-engine" data-iid="272" data-mr-title="Production v2" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!272</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'fix/deduplicate-id-in-detail-link' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b3296b042a945ccdafe8e9186c9f6a77bd4fa88b</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b3296b042a945ccdafe8e9186c9f6a77bd4fa88b"/>
-        <updated>2026-04-20T10:33:41.000Z</updated>
-        <summary type="html"><![CDATA[Deduplicate id param in detail link
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/298" data-original="recommendation/service-recommendation!298" data-link="false" data-link-reference="false" data-project="335" data-merge-request="47029" data-project-path="recommendation/service-recommendation" data-iid="298" data-mr-title="Deduplicate id param in detail link" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!298</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deduplicate id param in detail link]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e7411d51c1a97afc68a45138e104ce22d3d717d3</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e7411d51c1a97afc68a45138e104ce22d3d717d3"/>
-        <updated>2026-04-20T09:45:27.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
