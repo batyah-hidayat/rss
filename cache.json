@@ -41,18 +41,7 @@
       "title": "Service Search Engine:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
-      "articles": [
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/43f91e2e539edccd91f01ac07df40d5cf3757ccd",
-          "author": null,
-          "description": "Production v2\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/272\" data-original=\"search-engine/service-search-engine!272\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47108\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"272\" data-mr-title=\"Production v2\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!272</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/43f91e2e539edccd91f01ac07df40d5cf3757ccd",
-          "publishedOn": "2026-04-23T08:59:19.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'production-v2' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        }
-      ]
+      "articles": []
     }
   ],
   "cliVersion": "1.15.1"
