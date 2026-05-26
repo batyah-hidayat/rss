@@ -41,7 +41,28 @@
       "title": "Service Search Engine:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e26f18f2342de93cabd1cd291d10ffcc6508cd59",
+          "author": null,
+          "description": "chore: remove trailing newline from README\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/274\" data-original=\"search-engine/service-search-engine!274\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47590\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"274\" data-mr-title=\"chore: remove trailing newline from README\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!274</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e26f18f2342de93cabd1cd291d10ffcc6508cd59",
+          "publishedOn": "2026-05-25T09:51:05.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'chore/readme-trailing-newline' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/508b0120587ebdf4ab11feadac161354dd5b36fa",
+          "author": null,
+          "description": "Co-Authored-By: <span data-trailer=\"Co-Authored-By:\"><a href=\"mailto:noreply@anthropic.com\" title=\"noreply@anthropic.com\"><img alt=\"default avatar\" src=\"https://secure.gravatar.com/avatar/d8a94b5cc0c9cb55961335f7f82da717?s=32&amp;d=identicon\" class=\"avatar s16 avatar-inline\"></a><a href=\"mailto:noreply@anthropic.com\" title=\"noreply@anthropic.com\">Claude Opus 4.7 (1M context)</a> &lt;<a href=\"mailto:noreply@anthropic.com\" title=\"noreply@anthropic.com\">noreply@anthropic.com</a>&gt;</span>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/508b0120587ebdf4ab11feadac161354dd5b36fa",
+          "publishedOn": "2026-05-25T09:48:32.000Z",
+          "wordCount": 1175,
+          "title": "chore: remove trailing newline from README",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
