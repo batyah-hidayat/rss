@@ -24,16 +24,6 @@
           "wordCount": 1175,
           "title": "Change adj_creative to EMAIL_REC",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/768b09319548637fe6c8b3a80d354a67c99ad73c",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/768b09319548637fe6c8b3a80d354a67c99ad73c",
-          "publishedOn": "2026-05-05T08:25:19.000Z",
-          "wordCount": 1175,
-          "title": "Update email with utm term",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
