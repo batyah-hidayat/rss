@@ -4,28 +4,7 @@
       "title": "Service Recommendation:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
-      "articles": [
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0c7e506a83b23d7224d548e980f9c379c0c56538",
-          "author": null,
-          "description": "Update email with utm term &amp; adj_creative\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/300\" data-original=\"recommendation/service-recommendation!300\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"47269\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"300\" data-mr-title=\"Update email with utm term &amp; adj_creative\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!300</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0c7e506a83b23d7224d548e980f9c379c0c56538",
-          "publishedOn": "2026-05-07T09:49:39.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-748' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8144abc7dbf5e9c35bc7dd8f5a0dc12f9ac61a49",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8144abc7dbf5e9c35bc7dd8f5a0dc12f9ac61a49",
-          "publishedOn": "2026-05-07T01:54:13.000Z",
-          "wordCount": 1175,
-          "title": "Change adj_creative to EMAIL_REC",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Service Search Engine:production commits",

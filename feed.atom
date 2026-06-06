@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-05T03:52:38.749Z</id>
+    <id>urn:2026-06-06T03:34:45.615Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-05T03:52:38.749Z</updated>
+    <updated>2026-06-06T03:34:45.615Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -25,28 +25,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[Co-Authored-By: <span data-trailer="Co-Authored-By:"><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com"><img alt="default avatar" src="https://secure.gravatar.com/avatar/d8a94b5cc0c9cb55961335f7f82da717?s=32&amp;d=identicon" class="avatar s16 avatar-inline"></a><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">Claude Opus 4.7 (1M context)</a> &lt;<a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">noreply@anthropic.com</a>&gt;</span>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-748' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0c7e506a83b23d7224d548e980f9c379c0c56538</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0c7e506a83b23d7224d548e980f9c379c0c56538"/>
-        <updated>2026-05-07T09:49:39.000Z</updated>
-        <summary type="html"><![CDATA[Update email with utm term &amp; adj_creative
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/300" data-original="recommendation/service-recommendation!300" data-link="false" data-link-reference="false" data-project="335" data-merge-request="47269" data-project-path="recommendation/service-recommendation" data-iid="300" data-mr-title="Update email with utm term &amp; adj_creative" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!300</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Change adj_creative to EMAIL_REC]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8144abc7dbf5e9c35bc7dd8f5a0dc12f9ac61a49</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/8144abc7dbf5e9c35bc7dd8f5a0dc12f9ac61a49"/>
-        <updated>2026-05-07T01:54:13.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
