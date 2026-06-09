@@ -1,10 +1,52 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-08T04:05:12.482Z</id>
+    <id>urn:2026-06-09T03:35:28.352Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-08T04:05:12.482Z</updated>
+    <updated>2026-06-09T03:35:28.352Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[resolv conflict with prod v2]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/71cfb292a5a56b700c0c0f09d9c06bed84d7733e</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/71cfb292a5a56b700c0c0f09d9c06bed84d7733e"/>
+        <updated>2026-06-08T07:12:18.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update README.md]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c570fb0019dd66826cf61afa5caa372bb548c425</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c570fb0019dd66826cf61afa5caa372bb548c425"/>
+        <updated>2026-05-27T00:49:49.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'chore/readme-trim-trailing-newline' into 'production-v2']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a8670644af987eda741b720e59581c25f275a4</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a8670644af987eda741b720e59581c25f275a4"/>
+        <updated>2026-05-26T06:32:39.000Z</updated>
+        <summary type="html"><![CDATA[chore: remove trailing newline from README
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/275" data-original="search-engine/service-search-engine!275" data-link="false" data-link-reference="false" data-project="313" data-merge-request="47598" data-project-path="search-engine/service-search-engine" data-iid="275" data-mr-title="chore: remove trailing newline from README" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!275</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[chore: remove trailing newline from README]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ff6e56fd6f2325ea11031bcfe4b60452ecf8fec5</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ff6e56fd6f2325ea11031bcfe4b60452ecf8fec5"/>
+        <updated>2026-05-26T06:19:08.000Z</updated>
+        <summary type="html"><![CDATA[Co-Authored-By: <span data-trailer="Co-Authored-By:"><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com"><img alt="default avatar" src="https://secure.gravatar.com/avatar/d8a94b5cc0c9cb55961335f7f82da717?s=32&amp;d=identicon" class="avatar s16 avatar-inline"></a><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">Claude Opus 4.7 (1M context)</a> &lt;<a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">noreply@anthropic.com</a>&gt;</span>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'chore/readme-trailing-newline' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e26f18f2342de93cabd1cd291d10ffcc6508cd59</id>
@@ -23,6 +65,28 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/508b0120587ebdf4ab11feadac161354dd5b36fa"/>
         <updated>2026-05-25T09:48:32.000Z</updated>
         <summary type="html"><![CDATA[Co-Authored-By: <span data-trailer="Co-Authored-By:"><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com"><img alt="default avatar" src="https://secure.gravatar.com/avatar/d8a94b5cc0c9cb55961335f7f82da717?s=32&amp;d=identicon" class="avatar s16 avatar-inline"></a><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">Claude Opus 4.7 (1M context)</a> &lt;<a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">noreply@anthropic.com</a>&gt;</span>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-721' into 'production-v2']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/86e5d3986b303e2433bc96d30bdea67f2450ce11</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/86e5d3986b303e2433bc96d30bdea67f2450ce11"/>
+        <updated>2026-05-14T08:28:20.000Z</updated>
+        <summary type="html"><![CDATA[refactor: update configuration keys and introduce predictor client
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/273" data-original="search-engine/service-search-engine!273" data-link="false" data-link-reference="false" data-project="313" data-merge-request="47391" data-project-path="search-engine/service-search-engine" data-iid="273" data-mr-title="refactor: update configuration keys and introduce predictor client" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!273</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add mlflow alias]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b90d5e5213ffefaf6b61c9caa6958fa484887d8</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b90d5e5213ffefaf6b61c9caa6958fa484887d8"/>
+        <updated>2026-05-14T08:20:02.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
