@@ -4,7 +4,28 @@
       "title": "Service Recommendation:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed6a128a1b2b27d6a870a630994cd64144ef2366",
+          "author": null,
+          "description": "Update es qc\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/301\" data-original=\"recommendation/service-recommendation!301\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"47882\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"301\" data-mr-title=\"Update es qc\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!301</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed6a128a1b2b27d6a870a630994cd64144ef2366",
+          "publishedOn": "2026-06-11T06:33:07.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/update-es-qc' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/92ff199b5235abb1bf449238f9dd769243f288c6",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/92ff199b5235abb1bf449238f9dd769243f288c6",
+          "publishedOn": "2026-06-11T06:29:58.000Z",
+          "wordCount": 1175,
+          "title": "Update es",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        }
+      ]
     },
     {
       "title": "Service Search Engine:production commits",
