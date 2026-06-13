@@ -91,26 +91,6 @@
           "wordCount": 1175,
           "title": "chore: remove trailing newline from README",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/86e5d3986b303e2433bc96d30bdea67f2450ce11",
-          "author": null,
-          "description": "refactor: update configuration keys and introduce predictor client\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/273\" data-original=\"search-engine/service-search-engine!273\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47391\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"273\" data-mr-title=\"refactor: update configuration keys and introduce predictor client\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!273</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/86e5d3986b303e2433bc96d30bdea67f2450ce11",
-          "publishedOn": "2026-05-14T08:28:20.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-721' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b90d5e5213ffefaf6b61c9caa6958fa484887d8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b90d5e5213ffefaf6b61c9caa6958fa484887d8",
-          "publishedOn": "2026-05-14T08:20:02.000Z",
-          "wordCount": 1175,
-          "title": "add mlflow alias",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-12T04:03:05.927Z</id>
+    <id>urn:2026-06-13T03:51:28.711Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-12T04:03:05.927Z</updated>
+    <updated>2026-06-13T03:51:28.711Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -87,28 +87,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/508b0120587ebdf4ab11feadac161354dd5b36fa"/>
         <updated>2026-05-25T09:48:32.000Z</updated>
         <summary type="html"><![CDATA[Co-Authored-By: <span data-trailer="Co-Authored-By:"><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com"><img alt="default avatar" src="https://secure.gravatar.com/avatar/d8a94b5cc0c9cb55961335f7f82da717?s=32&amp;d=identicon" class="avatar s16 avatar-inline"></a><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">Claude Opus 4.7 (1M context)</a> &lt;<a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">noreply@anthropic.com</a>&gt;</span>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-721' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/86e5d3986b303e2433bc96d30bdea67f2450ce11</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/86e5d3986b303e2433bc96d30bdea67f2450ce11"/>
-        <updated>2026-05-14T08:28:20.000Z</updated>
-        <summary type="html"><![CDATA[refactor: update configuration keys and introduce predictor client
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/273" data-original="search-engine/service-search-engine!273" data-link="false" data-link-reference="false" data-project="313" data-merge-request="47391" data-project-path="search-engine/service-search-engine" data-iid="273" data-mr-title="refactor: update configuration keys and introduce predictor client" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!273</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add mlflow alias]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b90d5e5213ffefaf6b61c9caa6958fa484887d8</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b90d5e5213ffefaf6b61c9caa6958fa484887d8"/>
-        <updated>2026-05-14T08:20:02.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
