@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-06-24T03:38:46.381Z</id>
+    <id>urn:2026-06-25T03:38:05.286Z</id>
     <title>osmos::feed</title>
-    <updated>2026-06-24T03:38:46.381Z</updated>
+    <updated>2026-06-25T03:38:05.286Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-759-763' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7"/>
+        <updated>2026-06-25T03:18:32.000Z</updated>
+        <summary type="html"><![CDATA[Add parameter &amp; email tracking link
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/303" data-original="recommendation/service-recommendation!303" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48194" data-project-path="recommendation/service-recommendation" data-iid="303" data-mr-title="Add parameter &amp; email tracking link" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!303</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update tracking URL parameters for job recommendations: change...]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03"/>
+        <updated>2026-06-25T02:04:47.000Z</updated>
+        <summary type="html"><![CDATA[Update tracking URL parameters for job recommendations: change adj_deep_link_id and adj_campaign values, and rename adj_fallback to adj_redirect for improved clarity.]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enhance search filters by adding salary range and updating experience range...]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074"/>
+        <updated>2026-06-22T02:45:54.000Z</updated>
+        <summary type="html"><![CDATA[Enhance search filters by adding salary range and updating experience range parameters. Refactor filter building logic to utilize new attribute filters for improved job post matching.]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/update-es-qc' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed6a128a1b2b27d6a870a630994cd64144ef2366</id>
@@ -43,28 +75,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c570fb0019dd66826cf61afa5caa372bb548c425"/>
         <updated>2026-05-27T00:49:49.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'chore/readme-trim-trailing-newline' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a8670644af987eda741b720e59581c25f275a4</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a8670644af987eda741b720e59581c25f275a4"/>
-        <updated>2026-05-26T06:32:39.000Z</updated>
-        <summary type="html"><![CDATA[chore: remove trailing newline from README
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/275" data-original="search-engine/service-search-engine!275" data-link="false" data-link-reference="false" data-project="313" data-merge-request="47598" data-project-path="search-engine/service-search-engine" data-iid="275" data-mr-title="chore: remove trailing newline from README" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!275</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chore: remove trailing newline from README]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ff6e56fd6f2325ea11031bcfe4b60452ecf8fec5</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ff6e56fd6f2325ea11031bcfe4b60452ecf8fec5"/>
-        <updated>2026-05-26T06:19:08.000Z</updated>
-        <summary type="html"><![CDATA[Co-Authored-By: <span data-trailer="Co-Authored-By:"><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com"><img alt="default avatar" src="https://secure.gravatar.com/avatar/d8a94b5cc0c9cb55961335f7f82da717?s=32&amp;d=identicon" class="avatar s16 avatar-inline"></a><a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">Claude Opus 4.7 (1M context)</a> &lt;<a href="mailto:noreply@anthropic.com" title="noreply@anthropic.com">noreply@anthropic.com</a>&gt;</span>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>

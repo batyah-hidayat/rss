@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7",
+          "author": null,
+          "description": "Add parameter &amp; email tracking link\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/303\" data-original=\"recommendation/service-recommendation!303\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48194\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"303\" data-mr-title=\"Add parameter &amp; email tracking link\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!303</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7",
+          "publishedOn": "2026-06-25T03:18:32.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-759-763' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03",
+          "author": null,
+          "description": "Update tracking URL parameters for job recommendations: change adj_deep_link_id and adj_campaign values, and rename adj_fallback to adj_redirect for improved clarity.",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03",
+          "publishedOn": "2026-06-25T02:04:47.000Z",
+          "wordCount": 1175,
+          "title": "Update tracking URL parameters for job recommendations: change...",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074",
+          "author": null,
+          "description": "Enhance search filters by adding salary range and updating experience range parameters. Refactor filter building logic to utilize new attribute filters for improved job post matching.",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074",
+          "publishedOn": "2026-06-22T02:45:54.000Z",
+          "wordCount": 1175,
+          "title": "Enhance search filters by adding salary range and updating experience range...",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ed6a128a1b2b27d6a870a630994cd64144ef2366",
           "author": null,
           "description": "Update es qc\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/301\" data-original=\"recommendation/service-recommendation!301\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"47882\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"301\" data-mr-title=\"Update es qc\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!301</a>",
@@ -50,26 +80,6 @@
           "publishedOn": "2026-05-27T00:49:49.000Z",
           "wordCount": 1175,
           "title": "Update README.md",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a8670644af987eda741b720e59581c25f275a4",
-          "author": null,
-          "description": "chore: remove trailing newline from README\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/275\" data-original=\"search-engine/service-search-engine!275\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47598\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"275\" data-mr-title=\"chore: remove trailing newline from README\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!275</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a8670644af987eda741b720e59581c25f275a4",
-          "publishedOn": "2026-05-26T06:32:39.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'chore/readme-trim-trailing-newline' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ff6e56fd6f2325ea11031bcfe4b60452ecf8fec5",
-          "author": null,
-          "description": "Co-Authored-By: <span data-trailer=\"Co-Authored-By:\"><a href=\"mailto:noreply@anthropic.com\" title=\"noreply@anthropic.com\"><img alt=\"default avatar\" src=\"https://secure.gravatar.com/avatar/d8a94b5cc0c9cb55961335f7f82da717?s=32&amp;d=identicon\" class=\"avatar s16 avatar-inline\"></a><a href=\"mailto:noreply@anthropic.com\" title=\"noreply@anthropic.com\">Claude Opus 4.7 (1M context)</a> &lt;<a href=\"mailto:noreply@anthropic.com\" title=\"noreply@anthropic.com\">noreply@anthropic.com</a>&gt;</span>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ff6e56fd6f2325ea11031bcfe4b60452ecf8fec5",
-          "publishedOn": "2026-05-26T06:19:08.000Z",
-          "wordCount": 1175,
-          "title": "chore: remove trailing newline from README",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
