@@ -201,16 +201,6 @@
           "wordCount": 1175,
           "title": "non kw mlflow model",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/71cfb292a5a56b700c0c0f09d9c06bed84d7733e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/71cfb292a5a56b700c0c0f09d9c06bed84d7733e",
-          "publishedOn": "2026-06-08T07:12:18.000Z",
-          "wordCount": 1175,
-          "title": "resolv conflict with prod v2",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
