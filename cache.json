@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f764c92cd5669d1de149d27510eedc9bff92bab5",
+          "author": null,
+          "description": "Add paid_status param for recommendation service\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/304\" data-original=\"recommendation/service-recommendation!304\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48490\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"304\" data-mr-title=\"Add paid_status param for recommendation service\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!304</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f764c92cd5669d1de149d27510eedc9bff92bab5",
+          "publishedOn": "2026-07-08T08:12:51.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-777' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5e11729ecd8adf06aed1e1b9aef24d8202370f4",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5e11729ecd8adf06aed1e1b9aef24d8202370f4",
+          "publishedOn": "2026-07-06T06:21:04.000Z",
+          "wordCount": 1175,
+          "title": "Add paid_status param for recommendation service",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7",
           "author": null,
           "description": "Add parameter &amp; email tracking link\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/303\" data-original=\"recommendation/service-recommendation!303\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48194\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"303\" data-mr-title=\"Add parameter &amp; email tracking link\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!303</a>",
@@ -150,56 +170,6 @@
           "publishedOn": "2026-06-16T03:51:22.000Z",
           "wordCount": 1175,
           "title": "new model for non kw search mobile app only",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c41d962cdfad6e321dc5269236c9d8cec83fcfc1",
-          "author": null,
-          "description": "set emb threshold to 0.8 -&gt; 0.85\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/278\" data-original=\"search-engine/service-search-engine!278\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47829\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"278\" data-mr-title=\"set emb threshold to 0.8 -&gt; 0.85\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!278</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c41d962cdfad6e321dc5269236c9d8cec83fcfc1",
-          "publishedOn": "2026-06-09T08:32:50.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-758' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c7d0dde9d4c6821d5c39040cfc853256e6ff31a7",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c7d0dde9d4c6821d5c39040cfc853256e6ff31a7",
-          "publishedOn": "2026-06-09T08:31:33.000Z",
-          "wordCount": 1175,
-          "title": "set emb threshold to 0.8 -> 0.85",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c3aa5d8ceecca88d2c8f25b36d296788806b944a",
-          "author": null,
-          "description": "feat: add initial test suite and configuration for smoke tests\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/277\" data-original=\"search-engine/service-search-engine!277\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47822\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"277\" data-mr-title=\"feat: add initial test suite and configuration for smoke tests\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!277</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/c3aa5d8ceecca88d2c8f25b36d296788806b944a",
-          "publishedOn": "2026-06-09T07:26:39.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-758' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bf0dcae8c32055747302e87ec7da731145ffc6ef",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/bf0dcae8c32055747302e87ec7da731145ffc6ef",
-          "publishedOn": "2026-06-09T05:23:38.000Z",
-          "wordCount": 1175,
-          "title": "non kw mlflow model resovle conflict with production",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ff5b70af60f34a6b757e5ac1d401a08082fadc8",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ff5b70af60f34a6b757e5ac1d401a08082fadc8",
-          "publishedOn": "2026-06-09T05:20:47.000Z",
-          "wordCount": 1175,
-          "title": "non kw mlflow model",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
