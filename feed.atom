@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-09T03:25:58.858Z</id>
+    <id>urn:2026-07-10T03:22:56.159Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-09T03:25:58.858Z</updated>
+    <updated>2026-07-10T03:22:56.159Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-778' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/13050bc9dcb18eaea206d286376d142c4d450c37</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/13050bc9dcb18eaea206d286376d142c4d450c37"/>
+        <updated>2026-07-09T08:45:55.000Z</updated>
+        <summary type="html"><![CDATA[Don't send email for who rejected consent form
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/305" data-original="recommendation/service-recommendation!305" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48517" data-project-path="recommendation/service-recommendation" data-iid="305" data-mr-title="Don't send email for who rejected consent form" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!305</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-777' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f764c92cd5669d1de149d27510eedc9bff92bab5</id>
@@ -23,6 +35,32 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5e11729ecd8adf06aed1e1b9aef24d8202370f4"/>
         <updated>2026-07-06T06:21:04.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Refactor consent handling in job alerts]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4b65ee0e9c993a33d6d3d9aa19a9f2e0f2a548dc</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4b65ee0e9c993a33d6d3d9aa19a9f2e0f2a548dc"/>
+        <updated>2026-07-06T03:28:21.000Z</updated>
+        <summary type="html"><![CDATA[- Updated `fetchConsentRefusedSeekerIds` to accept a list of seeker IDs for better flexibility.
+- Introduced `notificationResultSeekerIds` method to retrieve seeker IDs with current notifications.
+- Enhanced job alert logic to skip seekers who have refused consent, improving compliance with consent policies.
+- Improved logging for consent-related operations to aid in debugging and tracking.]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't send email for who rejected consent form]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c12864d4e1939af271fd8e5c70151121518704c3</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c12864d4e1939af271fd8e5c70151121518704c3"/>
+        <updated>2026-07-06T03:24:40.000Z</updated>
+        <summary type="html"><![CDATA[- Introduced a new map to track seekers who refused consent.
+- Implemented methods to fetch and handle consent-refused seeker IDs.
+- Updated recommendation logic to exclude consent-refused seekers from notifications.
+- Enhanced logging for better tracking of consent-related operations.]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
