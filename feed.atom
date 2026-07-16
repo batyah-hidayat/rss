@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-15T02:29:56.316Z</id>
+    <id>urn:2026-07-16T02:38:09.297Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-15T02:29:56.316Z</updated>
+    <updated>2026-07-16T02:38:09.297Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-793' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c1be14d5071a594f937de91188e3dafb30d0ef7f</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c1be14d5071a594f937de91188e3dafb30d0ef7f"/>
+        <updated>2026-07-15T08:24:04.000Z</updated>
+        <summary type="html"><![CDATA[Add download link CH Play &amp; App store for email
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/306" data-original="recommendation/service-recommendation!306" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48606" data-project-path="recommendation/service-recommendation" data-iid="306" data-mr-title="Add download link CH Play &amp; App store for email" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!306</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Add download link CH Play & App store for email]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6b22ef91d6c74da455762ae47b92e9cceaddba0d</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6b22ef91d6c74da455762ae47b92e9cceaddba0d"/>
+        <updated>2026-07-14T04:30:00.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-778' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/13050bc9dcb18eaea206d286376d142c4d450c37</id>
@@ -168,28 +190,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f302a363a4c34bdf2f983b348ff0d30cb66e99ff</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f302a363a4c34bdf2f983b348ff0d30cb66e99ff"/>
         <updated>2026-06-17T02:41:33.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-758' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/50704f4ebb8a3d2787707983547640c87d99cd89</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/50704f4ebb8a3d2787707983547640c87d99cd89"/>
-        <updated>2026-06-16T04:03:26.000Z</updated>
-        <summary type="html"><![CDATA[new model for non kw search mobile app only
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/279" data-original="search-engine/service-search-engine!279" data-link="false" data-link-reference="false" data-project="313" data-merge-request="47970" data-project-path="search-engine/service-search-engine" data-iid="279" data-mr-title="new model for non kw search mobile app only" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!279</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[new model for non kw search mobile app only]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/238e72d7110fb419b812d1cf84045017686a4b32</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/238e72d7110fb419b812d1cf84045017686a4b32"/>
-        <updated>2026-06-16T03:51:22.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
