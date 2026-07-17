@@ -161,26 +161,6 @@
           "wordCount": 1175,
           "title": "debug info for v2",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/93834699c0ce69cf86540f716812be6b1ae527d6",
-          "author": null,
-          "description": "fix reindex\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/280\" data-original=\"search-engine/service-search-engine!280\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"47998\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"280\" data-mr-title=\"fix reindex\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!280</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/93834699c0ce69cf86540f716812be6b1ae527d6",
-          "publishedOn": "2026-06-17T02:55:42.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-758' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f302a363a4c34bdf2f983b348ff0d30cb66e99ff",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f302a363a4c34bdf2f983b348ff0d30cb66e99ff",
-          "publishedOn": "2026-06-17T02:41:33.000Z",
-          "wordCount": 1175,
-          "title": "fix reindex",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
