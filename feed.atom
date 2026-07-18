@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-17T02:40:58.526Z</id>
+    <id>urn:2026-07-18T02:31:39.389Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-17T02:40:58.526Z</updated>
+    <updated>2026-07-18T02:31:39.389Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -127,50 +127,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Enhance search filters by adding salary range and updating experience range parameters. Refactor filter building logic to utilize new attribute filters for improved job post matching.]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-758' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/25e69485b9af16ea829c5a82a7e6598f22285544</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/25e69485b9af16ea829c5a82a7e6598f22285544"/>
-        <updated>2026-06-18T04:18:33.000Z</updated>
-        <summary type="html"><![CDATA[rollback index fix
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/282" data-original="search-engine/service-search-engine!282" data-link="false" data-link-reference="false" data-project="313" data-merge-request="48015" data-project-path="search-engine/service-search-engine" data-iid="282" data-mr-title="rollback index fix" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!282</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[rollback index fix]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a109ab81fcfdca635775351c8044cdd8eee17a</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a109ab81fcfdca635775351c8044cdd8eee17a"/>
-        <updated>2026-06-18T04:16:43.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-758' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5809efbabe802f877ea59d8c2c0b7bd97bdffe40</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5809efbabe802f877ea59d8c2c0b7bd97bdffe40"/>
-        <updated>2026-06-18T03:46:04.000Z</updated>
-        <summary type="html"><![CDATA[debug info for v2
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/281" data-original="search-engine/service-search-engine!281" data-link="false" data-link-reference="false" data-project="313" data-merge-request="48014" data-project-path="search-engine/service-search-engine" data-iid="281" data-mr-title="debug info for v2" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!281</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[debug info for v2]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0c1072f538e086f08596f4ec99b829568e65b077</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0c1072f538e086f08596f4ec99b829568e65b077"/>
-        <updated>2026-06-18T03:41:29.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>

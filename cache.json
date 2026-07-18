@@ -121,46 +121,6 @@
           "wordCount": 1175,
           "title": "resolve merge conflict",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/25e69485b9af16ea829c5a82a7e6598f22285544",
-          "author": null,
-          "description": "rollback index fix\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/282\" data-original=\"search-engine/service-search-engine!282\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"48015\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"282\" data-mr-title=\"rollback index fix\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!282</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/25e69485b9af16ea829c5a82a7e6598f22285544",
-          "publishedOn": "2026-06-18T04:18:33.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-758' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a109ab81fcfdca635775351c8044cdd8eee17a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e1a109ab81fcfdca635775351c8044cdd8eee17a",
-          "publishedOn": "2026-06-18T04:16:43.000Z",
-          "wordCount": 1175,
-          "title": "rollback index fix",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5809efbabe802f877ea59d8c2c0b7bd97bdffe40",
-          "author": null,
-          "description": "debug info for v2\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/281\" data-original=\"search-engine/service-search-engine!281\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"48014\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"281\" data-mr-title=\"debug info for v2\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!281</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/5809efbabe802f877ea59d8c2c0b7bd97bdffe40",
-          "publishedOn": "2026-06-18T03:46:04.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-758' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0c1072f538e086f08596f4ec99b829568e65b077",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0c1072f538e086f08596f4ec99b829568e65b077",
-          "publishedOn": "2026-06-18T03:41:29.000Z",
-          "wordCount": 1175,
-          "title": "debug info for v2",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
