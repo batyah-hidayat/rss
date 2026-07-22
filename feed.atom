@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-21T02:43:24.590Z</id>
+    <id>urn:2026-07-22T02:40:54.599Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-21T02:43:24.590Z</updated>
+    <updated>2026-07-22T02:40:54.599Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -115,16 +115,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03"/>
         <updated>2026-06-25T02:04:47.000Z</updated>
         <summary type="html"><![CDATA[Update tracking URL parameters for job recommendations: change adj_deep_link_id and adj_campaign values, and rename adj_fallback to adj_redirect for improved clarity.]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enhance search filters by adding salary range and updating experience range...]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074"/>
-        <updated>2026-06-22T02:45:54.000Z</updated>
-        <summary type="html"><![CDATA[Enhance search filters by adding salary range and updating experience range parameters. Refactor filter building logic to utilize new attribute filters for improved job post matching.]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>

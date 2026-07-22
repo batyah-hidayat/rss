@@ -94,16 +94,6 @@
           "wordCount": 1175,
           "title": "Update tracking URL parameters for job recommendations: change...",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074",
-          "author": null,
-          "description": "Enhance search filters by adding salary range and updating experience range parameters. Refactor filter building logic to utilize new attribute filters for improved job post matching.",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2ce13470faf01e7bbb873cea2d58c3f242521074",
-          "publishedOn": "2026-06-22T02:45:54.000Z",
-          "wordCount": 1175,
-          "title": "Enhance search filters by adding salary range and updating experience range...",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
