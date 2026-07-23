@@ -103,6 +103,86 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6884168c205c457e0a73dafb94fcebd3efa2a562",
+          "author": null,
+          "description": "Production v2\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/288\" data-original=\"search-engine/service-search-engine!288\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"48737\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"288\" data-mr-title=\"Production v2\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!288</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6884168c205c457e0a73dafb94fcebd3efa2a562",
+          "publishedOn": "2026-07-22T06:16:48.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'production-v2' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daf162cab574ad7e2f562fbaa177e09fd15410c5",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daf162cab574ad7e2f562fbaa177e09fd15410c5",
+          "publishedOn": "2026-07-09T05:20:00.000Z",
+          "wordCount": 1175,
+          "title": "set 20 min load jp offset",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/eac11ff15b570d523674cf01aedf79423a588a98",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/eac11ff15b570d523674cf01aedf79423a588a98",
+          "publishedOn": "2026-07-08T09:23:47.000Z",
+          "wordCount": 1175,
+          "title": "reasolve conflict with 783",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/be28ee696107c749cbadae8a63920ab193265f86",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/be28ee696107c749cbadae8a63920ab193265f86",
+          "publishedOn": "2026-07-08T08:36:51.000Z",
+          "wordCount": 1175,
+          "title": "fix incremental index load",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d84b048f2820e95cb1a670d6f698aeae011bbc1",
+          "author": null,
+          "description": "update relevance threshold values\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/285\" data-original=\"search-engine/service-search-engine!285\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"48468\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"285\" data-mr-title=\"update relevance threshold values\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!285</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d84b048f2820e95cb1a670d6f698aeae011bbc1",
+          "publishedOn": "2026-07-07T08:39:18.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-765' into 'production-v2'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ffaf657818053ed49e9e22c40b7c4933a841e0a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ffaf657818053ed49e9e22c40b7c4933a841e0a",
+          "publishedOn": "2026-07-07T08:37:10.000Z",
+          "wordCount": 1175,
+          "title": "update relevance threshold values",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d786c8f504b49a47a5084ef44210dafe8806eeb",
+          "author": null,
+          "description": "add relevamce threshold\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/284\" data-original=\"search-engine/service-search-engine!284\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"48219\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"284\" data-mr-title=\"add relevamce threshold\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!284</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d786c8f504b49a47a5084ef44210dafe8806eeb",
+          "publishedOn": "2026-06-25T09:01:20.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-765' into 'production-v2'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61d12ea2fe9bfec9e7978290071e3b0e20f531c2",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61d12ea2fe9bfec9e7978290071e3b0e20f531c2",
+          "publishedOn": "2026-06-25T08:24:26.000Z",
+          "wordCount": 1175,
+          "title": "add relevamce threshold",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8efaa57e72e687e561b4326ded12387a1ba96cd9",
           "author": null,
           "description": "<div type=\"html\"/>",
