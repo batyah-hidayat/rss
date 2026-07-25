@@ -74,26 +74,6 @@
           "wordCount": 1175,
           "title": "Don't send email for who rejected consent form",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7",
-          "author": null,
-          "description": "Add parameter &amp; email tracking link\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/303\" data-original=\"recommendation/service-recommendation!303\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48194\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"303\" data-mr-title=\"Add parameter &amp; email tracking link\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!303</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7",
-          "publishedOn": "2026-06-25T03:18:32.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-759-763' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03",
-          "author": null,
-          "description": "Update tracking URL parameters for job recommendations: change adj_deep_link_id and adj_campaign values, and rename adj_fallback to adj_redirect for improved clarity.",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03",
-          "publishedOn": "2026-06-25T02:04:47.000Z",
-          "wordCount": 1175,
-          "title": "Update tracking URL parameters for job recommendations: change...",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -160,36 +140,6 @@
           "publishedOn": "2026-07-07T08:37:10.000Z",
           "wordCount": 1175,
           "title": "update relevance threshold values",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d786c8f504b49a47a5084ef44210dafe8806eeb",
-          "author": null,
-          "description": "add relevamce threshold\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/284\" data-original=\"search-engine/service-search-engine!284\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"48219\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"284\" data-mr-title=\"add relevamce threshold\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!284</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d786c8f504b49a47a5084ef44210dafe8806eeb",
-          "publishedOn": "2026-06-25T09:01:20.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-765' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61d12ea2fe9bfec9e7978290071e3b0e20f531c2",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61d12ea2fe9bfec9e7978290071e3b0e20f531c2",
-          "publishedOn": "2026-06-25T08:24:26.000Z",
-          "wordCount": 1175,
-          "title": "add relevamce threshold",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8efaa57e72e687e561b4326ded12387a1ba96cd9",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8efaa57e72e687e561b4326ded12387a1ba96cd9",
-          "publishedOn": "2026-06-25T07:24:11.000Z",
-          "wordCount": 1175,
-          "title": "resolve merge conflict",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

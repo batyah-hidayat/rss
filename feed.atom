@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-07-24T02:42:16.139Z</id>
+    <id>urn:2026-07-25T02:40:38.576Z</id>
     <title>osmos::feed</title>
-    <updated>2026-07-24T02:42:16.139Z</updated>
+    <updated>2026-07-25T02:40:38.576Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -147,60 +147,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
 - Implemented methods to fetch and handle consent-refused seeker IDs.
 - Updated recommendation logic to exclude consent-refused seekers from notifications.
 - Enhanced logging for better tracking of consent-related operations.]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-765' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d786c8f504b49a47a5084ef44210dafe8806eeb</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4d786c8f504b49a47a5084ef44210dafe8806eeb"/>
-        <updated>2026-06-25T09:01:20.000Z</updated>
-        <summary type="html"><![CDATA[add relevamce threshold
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/284" data-original="search-engine/service-search-engine!284" data-link="false" data-link-reference="false" data-project="313" data-merge-request="48219" data-project-path="search-engine/service-search-engine" data-iid="284" data-mr-title="add relevamce threshold" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!284</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add relevamce threshold]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61d12ea2fe9bfec9e7978290071e3b0e20f531c2</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/61d12ea2fe9bfec9e7978290071e3b0e20f531c2"/>
-        <updated>2026-06-25T08:24:26.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[resolve merge conflict]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8efaa57e72e687e561b4326ded12387a1ba96cd9</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8efaa57e72e687e561b4326ded12387a1ba96cd9"/>
-        <updated>2026-06-25T07:24:11.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-759-763' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4306a0f63feb64f84dabafe8455fda19ccefe7f7"/>
-        <updated>2026-06-25T03:18:32.000Z</updated>
-        <summary type="html"><![CDATA[Add parameter &amp; email tracking link
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/303" data-original="recommendation/service-recommendation!303" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48194" data-project-path="recommendation/service-recommendation" data-iid="303" data-mr-title="Add parameter &amp; email tracking link" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!303</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update tracking URL parameters for job recommendations: change...]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/636acd254e09bc28d16b67bb64f18320ab697e03"/>
-        <updated>2026-06-25T02:04:47.000Z</updated>
-        <summary type="html"><![CDATA[Update tracking URL parameters for job recommendations: change adj_deep_link_id and adj_campaign values, and rename adj_fallback to adj_redirect for improved clarity.]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
