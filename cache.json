@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d03e7d8d3612745b488333a7f4f7440f1335f628",
+          "author": null,
+          "description": "Update view_all in email recommmendation\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/307\" data-original=\"recommendation/service-recommendation!307\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48892\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"307\" data-mr-title=\"Update view_all in email recommmendation\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!307</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d03e7d8d3612745b488333a7f4f7440f1335f628",
+          "publishedOn": "2026-07-30T08:42:09.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-819-view-all-email' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4ce6e2617ba964701d3527edf46e41c0816c5cbd",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4ce6e2617ba964701d3527edf46e41c0816c5cbd",
+          "publishedOn": "2026-07-30T03:54:23.000Z",
+          "wordCount": 1175,
+          "title": "Change UTM_TERM to EMAIL_REC",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/847e6ee7ee7473fcedb1fa937e28c785e6d825ad",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/847e6ee7ee7473fcedb1fa937e28c785e6d825ad",
+          "publishedOn": "2026-07-30T03:54:11.000Z",
+          "wordCount": 1175,
+          "title": "Update view_all in email recommmendation",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c1be14d5071a594f937de91188e3dafb30d0ef7f",
           "author": null,
           "description": "Add download link CH Play &amp; App store for email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/306\" data-original=\"recommendation/service-recommendation!306\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48606\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"306\" data-mr-title=\"Add download link CH Play &amp; App store for email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!306</a>",
