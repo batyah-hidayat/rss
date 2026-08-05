@@ -114,36 +114,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-777' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5e11729ecd8adf06aed1e1b9aef24d8202370f4",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5e11729ecd8adf06aed1e1b9aef24d8202370f4",
-          "publishedOn": "2026-07-06T06:21:04.000Z",
-          "wordCount": 1175,
-          "title": "Add paid_status param for recommendation service",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4b65ee0e9c993a33d6d3d9aa19a9f2e0f2a548dc",
-          "author": null,
-          "description": "- Updated `fetchConsentRefusedSeekerIds` to accept a list of seeker IDs for better flexibility.\n- Introduced `notificationResultSeekerIds` method to retrieve seeker IDs with current notifications.\n- Enhanced job alert logic to skip seekers who have refused consent, improving compliance with consent policies.\n- Improved logging for consent-related operations to aid in debugging and tracking.",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4b65ee0e9c993a33d6d3d9aa19a9f2e0f2a548dc",
-          "publishedOn": "2026-07-06T03:28:21.000Z",
-          "wordCount": 1175,
-          "title": "Refactor consent handling in job alerts",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c12864d4e1939af271fd8e5c70151121518704c3",
-          "author": null,
-          "description": "- Introduced a new map to track seekers who refused consent.\n- Implemented methods to fetch and handle consent-refused seeker IDs.\n- Updated recommendation logic to exclude consent-refused seekers from notifications.\n- Enhanced logging for better tracking of consent-related operations.",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c12864d4e1939af271fd8e5c70151121518704c3",
-          "publishedOn": "2026-07-06T03:24:40.000Z",
-          "wordCount": 1175,
-          "title": "Don't send email for who rejected consent form",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
