@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-05T02:32:43.661Z</id>
+    <id>urn:2026-08-06T02:34:54.961Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-05T02:32:43.661Z</updated>
+    <updated>2026-08-06T02:34:54.961Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -205,28 +205,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/304" data-original="recommendation/service-recommendation!304" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48490" data-project-path="recommendation/service-recommendation" data-iid="304" data-mr-title="Add paid_status param for recommendation service" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!304</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-765' into 'production-v2']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d84b048f2820e95cb1a670d6f698aeae011bbc1</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d84b048f2820e95cb1a670d6f698aeae011bbc1"/>
-        <updated>2026-07-07T08:39:18.000Z</updated>
-        <summary type="html"><![CDATA[update relevance threshold values
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/285" data-original="search-engine/service-search-engine!285" data-link="false" data-link-reference="false" data-project="313" data-merge-request="48468" data-project-path="search-engine/service-search-engine" data-iid="285" data-mr-title="update relevance threshold values" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!285</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[update relevance threshold values]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ffaf657818053ed49e9e22c40b7c4933a841e0a</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ffaf657818053ed49e9e22c40b7c4933a841e0a"/>
-        <updated>2026-07-07T08:37:10.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>

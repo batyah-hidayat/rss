@@ -201,26 +201,6 @@
           "wordCount": 1175,
           "title": "fix incremental index load",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d84b048f2820e95cb1a670d6f698aeae011bbc1",
-          "author": null,
-          "description": "update relevance threshold values\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/285\" data-original=\"search-engine/service-search-engine!285\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"48468\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"285\" data-mr-title=\"update relevance threshold values\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!285</a>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d84b048f2820e95cb1a670d6f698aeae011bbc1",
-          "publishedOn": "2026-07-07T08:39:18.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-765' into 'production-v2'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ffaf657818053ed49e9e22c40b7c4933a841e0a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/2ffaf657818053ed49e9e22c40b7c4933a841e0a",
-          "publishedOn": "2026-07-07T08:37:10.000Z",
-          "wordCount": 1175,
-          "title": "update relevance threshold values",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }
