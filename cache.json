@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19e94da93af1629be7bea665e754649f497d8ed3",
+          "author": null,
+          "description": "Recommendation service update A/B Test: Free job recommendation for NRU\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/309\" data-original=\"recommendation/service-recommendation!309\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48996\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"309\" data-mr-title=\"Recommendation service update A/B Test: Free job recommendation for NRU\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!309</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19e94da93af1629be7bea665e754649f497d8ed3",
+          "publishedOn": "2026-08-06T07:52:03.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-815-nru-ab-test' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5365b07a1b76143cb935e00ff8730e7085d7f672",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5365b07a1b76143cb935e00ff8730e7085d7f672",
+          "publishedOn": "2026-08-04T03:23:17.000Z",
+          "wordCount": 1175,
+          "title": "Recommendation service update A/B Test: Free job recommendation for NRU",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/56af8a63c8ce24d48ac318aa841a9f71b7fb21d2",
           "author": null,
           "description": "Fix email detail link\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/308\" data-original=\"recommendation/service-recommendation!308\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48967\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"308\" data-mr-title=\"Fix email detail link\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!308</a>",
@@ -104,16 +124,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-778' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f764c92cd5669d1de149d27510eedc9bff92bab5",
-          "author": null,
-          "description": "Add paid_status param for recommendation service\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/304\" data-original=\"recommendation/service-recommendation!304\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48490\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"304\" data-mr-title=\"Add paid_status param for recommendation service\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!304</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f764c92cd5669d1de149d27510eedc9bff92bab5",
-          "publishedOn": "2026-07-08T08:12:51.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-777' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -122,6 +132,46 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6e0f8d49304ef62000b31f63b7b4a8761795e5de",
+          "author": null,
+          "description": "Feat/ise 769\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/292\" data-original=\"search-engine/service-search-engine!292\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49035\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"292\" data-mr-title=\"Feat/ise 769\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!292</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6e0f8d49304ef62000b31f63b7b4a8761795e5de",
+          "publishedOn": "2026-08-06T03:27:00.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-769' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6a4dab8a52960b18913178d060e68bdd18b941ab",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6a4dab8a52960b18913178d060e68bdd18b941ab",
+          "publishedOn": "2026-08-06T02:53:43.000Z",
+          "wordCount": 1175,
+          "title": "init SimilarQueries list",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/68caa4abdd8c5c40e01d18e30dd2a3ad208722d0",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/68caa4abdd8c5c40e01d18e30dd2a3ad208722d0",
+          "publishedOn": "2026-08-06T01:59:56.000Z",
+          "wordCount": 1175,
+          "title": "Merge remote-tracking branch 'origin/production' into feat/ise-769",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e4df2c702b76c595cf1f39e6ddf6bb7ffcdcd9b",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e4df2c702b76c595cf1f39e6ddf6bb7ffcdcd9b",
+          "publishedOn": "2026-08-06T01:59:38.000Z",
+          "wordCount": 1175,
+          "title": "fix cache for aggregated data",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e64ad38bd8488b614cd2dc231c124801461fbd20",
           "author": null,
@@ -180,26 +230,6 @@
           "publishedOn": "2026-07-09T05:20:00.000Z",
           "wordCount": 1175,
           "title": "set 20 min load jp offset",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/eac11ff15b570d523674cf01aedf79423a588a98",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/eac11ff15b570d523674cf01aedf79423a588a98",
-          "publishedOn": "2026-07-08T09:23:47.000Z",
-          "wordCount": 1175,
-          "title": "reasolve conflict with 783",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/be28ee696107c749cbadae8a63920ab193265f86",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/be28ee696107c749cbadae8a63920ab193265f86",
-          "publishedOn": "2026-07-08T08:36:51.000Z",
-          "wordCount": 1175,
-          "title": "fix incremental index load",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

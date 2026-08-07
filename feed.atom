@@ -1,10 +1,74 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-06T02:34:54.961Z</id>
+    <id>urn:2026-08-07T02:40:50.724Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-06T02:34:54.961Z</updated>
+    <updated>2026-08-07T02:40:50.724Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-815-nru-ab-test' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19e94da93af1629be7bea665e754649f497d8ed3</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19e94da93af1629be7bea665e754649f497d8ed3"/>
+        <updated>2026-08-06T07:52:03.000Z</updated>
+        <summary type="html"><![CDATA[Recommendation service update A/B Test: Free job recommendation for NRU
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/309" data-original="recommendation/service-recommendation!309" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48996" data-project-path="recommendation/service-recommendation" data-iid="309" data-mr-title="Recommendation service update A/B Test: Free job recommendation for NRU" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!309</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-769' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6e0f8d49304ef62000b31f63b7b4a8761795e5de</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6e0f8d49304ef62000b31f63b7b4a8761795e5de"/>
+        <updated>2026-08-06T03:27:00.000Z</updated>
+        <summary type="html"><![CDATA[Feat/ise 769
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/292" data-original="search-engine/service-search-engine!292" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49035" data-project-path="search-engine/service-search-engine" data-iid="292" data-mr-title="Feat/ise 769" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!292</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[init SimilarQueries list]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6a4dab8a52960b18913178d060e68bdd18b941ab</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6a4dab8a52960b18913178d060e68bdd18b941ab"/>
+        <updated>2026-08-06T02:53:43.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/production' into feat/ise-769]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/68caa4abdd8c5c40e01d18e30dd2a3ad208722d0</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/68caa4abdd8c5c40e01d18e30dd2a3ad208722d0"/>
+        <updated>2026-08-06T01:59:56.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix cache for aggregated data]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e4df2c702b76c595cf1f39e6ddf6bb7ffcdcd9b</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e4df2c702b76c595cf1f39e6ddf6bb7ffcdcd9b"/>
+        <updated>2026-08-06T01:59:38.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recommendation service update A/B Test: Free job recommendation for NRU]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5365b07a1b76143cb935e00ff8730e7085d7f672</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5365b07a1b76143cb935e00ff8730e7085d7f672"/>
+        <updated>2026-08-04T03:23:17.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'fix/email-detail-link' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/56af8a63c8ce24d48ac318aa841a9f71b7fb21d2</id>
@@ -173,38 +237,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[reasolve conflict with 783]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/eac11ff15b570d523674cf01aedf79423a588a98</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/eac11ff15b570d523674cf01aedf79423a588a98"/>
-        <updated>2026-07-08T09:23:47.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix incremental index load]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/be28ee696107c749cbadae8a63920ab193265f86</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/be28ee696107c749cbadae8a63920ab193265f86"/>
-        <updated>2026-07-08T08:36:51.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-777' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f764c92cd5669d1de149d27510eedc9bff92bab5</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f764c92cd5669d1de149d27510eedc9bff92bab5"/>
-        <updated>2026-07-08T08:12:51.000Z</updated>
-        <summary type="html"><![CDATA[Add paid_status param for recommendation service
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/304" data-original="recommendation/service-recommendation!304" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48490" data-project-path="recommendation/service-recommendation" data-iid="304" data-mr-title="Add paid_status param for recommendation service" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!304</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
