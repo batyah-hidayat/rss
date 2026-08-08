@@ -114,16 +114,6 @@
           "wordCount": 1175,
           "title": "Add download link CH Play & App store for email",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/13050bc9dcb18eaea206d286376d142c4d450c37",
-          "author": null,
-          "description": "Don't send email for who rejected consent form\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/305\" data-original=\"recommendation/service-recommendation!305\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48517\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"305\" data-mr-title=\"Don't send email for who rejected consent form\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!305</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/13050bc9dcb18eaea206d286376d142c4d450c37",
-          "publishedOn": "2026-07-09T08:45:55.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-778' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -220,16 +210,6 @@
           "publishedOn": "2026-07-14T01:55:28.000Z",
           "wordCount": 1175,
           "title": "similar salary",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daf162cab574ad7e2f562fbaa177e09fd15410c5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/daf162cab574ad7e2f562fbaa177e09fd15410c5",
-          "publishedOn": "2026-07-09T05:20:00.000Z",
-          "wordCount": 1175,
-          "title": "set 20 min load jp offset",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
