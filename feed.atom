@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-10T01:49:04.479Z</id>
+    <id>urn:2026-08-11T01:45:30.916Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-10T01:49:04.479Z</updated>
+    <updated>2026-08-11T01:45:30.916Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-769' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f135476039abc048c7e3718d47342dddaeb1ef62</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f135476039abc048c7e3718d47342dddaeb1ef62"/>
+        <updated>2026-08-10T02:05:11.000Z</updated>
+        <summary type="html"><![CDATA[sort similar queries by score
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/295" data-original="search-engine/service-search-engine!295" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49075" data-project-path="search-engine/service-search-engine" data-iid="295" data-mr-title="sort similar queries by score" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!295</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[sort similar queries by score]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9aa388c4ec611de605c1c40d3d85d9e287ca52b0</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9aa388c4ec611de605c1c40d3d85d9e287ca52b0"/>
+        <updated>2026-08-10T01:48:38.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-815-nru-ab-test' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/19e94da93af1629be7bea665e754649f497d8ed3</id>

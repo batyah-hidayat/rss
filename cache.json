@@ -123,6 +123,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f135476039abc048c7e3718d47342dddaeb1ef62",
+          "author": null,
+          "description": "sort similar queries by score\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/295\" data-original=\"search-engine/service-search-engine!295\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49075\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"295\" data-mr-title=\"sort similar queries by score\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!295</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f135476039abc048c7e3718d47342dddaeb1ef62",
+          "publishedOn": "2026-08-10T02:05:11.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-769' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9aa388c4ec611de605c1c40d3d85d9e287ca52b0",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9aa388c4ec611de605c1c40d3d85d9e287ca52b0",
+          "publishedOn": "2026-08-10T01:48:38.000Z",
+          "wordCount": 1175,
+          "title": "sort similar queries by score",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6e0f8d49304ef62000b31f63b7b4a8761795e5de",
           "author": null,
           "description": "Feat/ise 769\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/292\" data-original=\"search-engine/service-search-engine!292\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49035\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"292\" data-mr-title=\"Feat/ise 769\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!292</a>",
