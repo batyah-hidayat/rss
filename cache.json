@@ -123,6 +123,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/34be2aa4c0cfa4b7bf86da2c0dc0c8c5dde181de",
+          "author": null,
+          "description": "Disable writing in search_id_mapping Searcher\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/291\" data-original=\"search-engine/service-search-engine!291\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49032\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"291\" data-mr-title=\"Disable writing in search_id_mapping Searcher\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!291</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/34be2aa4c0cfa4b7bf86da2c0dc0c8c5dde181de",
+          "publishedOn": "2026-08-11T08:00:36.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-826' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/f135476039abc048c7e3718d47342dddaeb1ef62",
           "author": null,
           "description": "sort similar queries by score\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/295\" data-original=\"search-engine/service-search-engine!295\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49075\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"295\" data-mr-title=\"sort similar queries by score\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!295</a>",
@@ -180,6 +190,16 @@
           "publishedOn": "2026-08-06T01:59:38.000Z",
           "wordCount": 1175,
           "title": "fix cache for aggregated data",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e5178c82320ab3e0f19bda46c31984aca247de2",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e5178c82320ab3e0f19bda46c31984aca247de2",
+          "publishedOn": "2026-08-05T06:53:46.000Z",
+          "wordCount": 1175,
+          "title": "Disable writing in search_id_mapping Searcher",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
