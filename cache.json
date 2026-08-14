@@ -94,16 +94,6 @@
           "wordCount": 1175,
           "title": "Update view_all in email recommmendation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c1be14d5071a594f937de91188e3dafb30d0ef7f",
-          "author": null,
-          "description": "Add download link CH Play &amp; App store for email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/306\" data-original=\"recommendation/service-recommendation!306\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48606\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"306\" data-mr-title=\"Add download link CH Play &amp; App store for email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!306</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c1be14d5071a594f937de91188e3dafb30d0ef7f",
-          "publishedOn": "2026-07-15T08:24:04.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-793' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -112,6 +102,36 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6634c1470e701cbe74056d5988dc144c83cba96f",
+          "author": null,
+          "description": "feat: enable writing to search_id_mapping\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/296\" data-original=\"search-engine/service-search-engine!296\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49144\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"296\" data-mr-title=\"feat: enable writing to search_id_mapping\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!296</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6634c1470e701cbe74056d5988dc144c83cba96f",
+          "publishedOn": "2026-08-13T07:26:53.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/enable-search-id-mapping' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d27236a93ac3780582eb0f06eafd09b8b9040d2",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6d27236a93ac3780582eb0f06eafd09b8b9040d2",
+          "publishedOn": "2026-08-13T04:24:43.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'qc' into feat/enable-search-id-mapping",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46fa25e679606c197a4add8e31b811582ad2eae6",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/46fa25e679606c197a4add8e31b811582ad2eae6",
+          "publishedOn": "2026-08-13T04:24:05.000Z",
+          "wordCount": 1175,
+          "title": "feat: enable writing to search_id_mapping",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/34be2aa4c0cfa4b7bf86da2c0dc0c8c5dde181de",
           "author": null,
@@ -133,6 +153,16 @@
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/83ddf44057bc5454113ebfbf944217eac6e97c5a",
+          "author": null,
+          "description": "sort similar queries by score\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/294\" data-original=\"search-engine/service-search-engine!294\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49074\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"294\" data-mr-title=\"sort similar queries by score\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!294</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/83ddf44057bc5454113ebfbf944217eac6e97c5a",
+          "publishedOn": "2026-08-10T01:49:29.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-769' into 'qc'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/9aa388c4ec611de605c1c40d3d85d9e287ca52b0",
           "author": null,
           "description": "<div type=\"html\"/>",
@@ -150,6 +180,16 @@
           "publishedOn": "2026-08-06T03:27:00.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-769' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/83718134b2eeced9eca2a52395ad1d04c53a980a",
+          "author": null,
+          "description": "Feat/ise 769\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/290\" data-original=\"search-engine/service-search-engine!290\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49029\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"290\" data-mr-title=\"Feat/ise 769\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!290</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/83718134b2eeced9eca2a52395ad1d04c53a980a",
+          "publishedOn": "2026-08-06T02:54:27.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-769' into 'qc'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
