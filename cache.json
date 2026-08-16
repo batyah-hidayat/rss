@@ -251,26 +251,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'production-v2' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ae3d38c5e8d423ae35b549d4ecdba7b22abffc9",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ae3d38c5e8d423ae35b549d4ecdba7b22abffc9",
-          "publishedOn": "2026-07-17T07:05:26.000Z",
-          "wordCount": 1175,
-          "title": "add aggregated data and similar queries",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/35df9645491b3e377a1c19eb31775f51c7fe4699",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/35df9645491b3e377a1c19eb31775f51c7fe4699",
-          "publishedOn": "2026-07-17T07:05:06.000Z",
-          "wordCount": 1175,
-          "title": "add aggregated data and similar queries",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     }

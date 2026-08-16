@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-15T01:14:17.793Z</id>
+    <id>urn:2026-08-16T01:18:34.227Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-15T01:14:17.793Z</updated>
+    <updated>2026-08-16T01:18:34.227Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -261,26 +261,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[Production v2
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/288" data-original="search-engine/service-search-engine!288" data-link="false" data-link-reference="false" data-project="313" data-merge-request="48737" data-project-path="search-engine/service-search-engine" data-iid="288" data-mr-title="Production v2" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!288</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add aggregated data and similar queries]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ae3d38c5e8d423ae35b549d4ecdba7b22abffc9</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0ae3d38c5e8d423ae35b549d4ecdba7b22abffc9"/>
-        <updated>2026-07-17T07:05:26.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add aggregated data and similar queries]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/35df9645491b3e377a1c19eb31775f51c7fe4699</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/35df9645491b3e377a1c19eb31775f51c7fe4699"/>
-        <updated>2026-07-17T07:05:06.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
