@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-17T01:15:41.908Z</id>
+    <id>urn:2026-08-18T01:13:27.193Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-17T01:15:41.908Z</updated>
+    <updated>2026-08-18T01:13:27.193Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-825' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/365b1a466bd12f89d0c6eed86019d3df81e5c893</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/365b1a466bd12f89d0c6eed86019d3df81e5c893"/>
+        <updated>2026-08-17T09:11:53.000Z</updated>
+        <summary type="html"><![CDATA[Remove duplicate params for email
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/311" data-original="recommendation/service-recommendation!311" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49143" data-project-path="recommendation/service-recommendation" data-iid="311" data-mr-title="Remove duplicate params for email" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!311</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/enable-search-id-mapping' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/6634c1470e701cbe74056d5988dc144c83cba96f</id>
@@ -47,6 +59,16 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/291" data-original="search-engine/service-search-engine!291" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49032" data-project-path="search-engine/service-search-engine" data-iid="291" data-mr-title="Disable writing in search_id_mapping Searcher" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!291</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Update to get help host by config]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/77720526386f4851732dd90f4ff81f732907cc1a</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/77720526386f4851732dd90f4ff81f732907cc1a"/>
+        <updated>2026-08-11T07:27:29.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
     <entry>
@@ -147,6 +169,16 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Remove duplicate params for email]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c065c8f13364f133982415b70bb5e1515c4d392f</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c065c8f13364f133982415b70bb5e1515c4d392f"/>
+        <updated>2026-08-05T09:41:27.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
     <entry>
