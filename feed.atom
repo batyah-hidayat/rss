@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-08-18T01:13:27.193Z</id>
+    <id>urn:2026-08-19T01:14:46.533Z</id>
     <title>osmos::feed</title>
-    <updated>2026-08-18T01:13:27.193Z</updated>
+    <updated>2026-08-19T01:14:46.533Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-815-rollback' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/abe934e45445718baac1b8a13dbedcfc10348f47</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/abe934e45445718baac1b8a13dbedcfc10348f47"/>
+        <updated>2026-08-18T08:09:43.000Z</updated>
+        <summary type="html"><![CDATA[Disable a/b test for email
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/313" data-original="recommendation/service-recommendation!313" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49238" data-project-path="recommendation/service-recommendation" data-iid="313" data-mr-title="Disable a/b test for email" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!313</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disable a/b test for email]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2b4183770ccac2b12f6a2de90ba9e8e3b2391cff</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2b4183770ccac2b12f6a2de90ba9e8e3b2391cff"/>
+        <updated>2026-08-18T08:03:14.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-825' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/365b1a466bd12f89d0c6eed86019d3df81e5c893</id>

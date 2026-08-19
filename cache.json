@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/abe934e45445718baac1b8a13dbedcfc10348f47",
+          "author": null,
+          "description": "Disable a/b test for email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/313\" data-original=\"recommendation/service-recommendation!313\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49238\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"313\" data-mr-title=\"Disable a/b test for email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!313</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/abe934e45445718baac1b8a13dbedcfc10348f47",
+          "publishedOn": "2026-08-18T08:09:43.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-815-rollback' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2b4183770ccac2b12f6a2de90ba9e8e3b2391cff",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2b4183770ccac2b12f6a2de90ba9e8e3b2391cff",
+          "publishedOn": "2026-08-18T08:03:14.000Z",
+          "wordCount": 1175,
+          "title": "Disable a/b test for email",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/365b1a466bd12f89d0c6eed86019d3df81e5c893",
           "author": null,
           "description": "Remove duplicate params for email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/311\" data-original=\"recommendation/service-recommendation!311\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49143\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"311\" data-mr-title=\"Remove duplicate params for email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!311</a>",
