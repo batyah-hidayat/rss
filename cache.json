@@ -6,6 +6,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc9ac1587b9d3d4ca14626ba5eb8a86017bdb37",
+          "author": null,
+          "description": "Update doc for recommendation engine\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/310\" data-original=\"recommendation/service-recommendation!310\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49057\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"310\" data-mr-title=\"Update doc for recommendation engine\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!310</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc9ac1587b9d3d4ca14626ba5eb8a86017bdb37",
+          "publishedOn": "2026-08-24T06:02:41.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-831' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e8ff8b957504fbc2748e6ae3d97c92de2b08271c",
           "author": null,
           "description": "Update apply all template for notification\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/314\" data-original=\"recommendation/service-recommendation!314\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49300\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"314\" data-mr-title=\"Update apply all template for notification\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!314</a>",
@@ -73,6 +83,16 @@
           "publishedOn": "2026-08-11T07:27:29.000Z",
           "wordCount": 1175,
           "title": "Update to get help host by config",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4f45c4ceef9c7126351245d961aeab802815ebad",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/4f45c4ceef9c7126351245d961aeab802815ebad",
+          "publishedOn": "2026-08-07T03:46:37.000Z",
+          "wordCount": 1175,
+          "title": "Update doc for recommendation engine",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         },
         {
