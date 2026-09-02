@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-01T03:55:23.317Z</id>
+    <id>urn:2026-09-02T03:15:26.841Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-01T03:55:23.317Z</updated>
+    <updated>2026-09-02T03:15:26.841Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -297,58 +297,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'fix/email-detail-link' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/56af8a63c8ce24d48ac318aa841a9f71b7fb21d2</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/56af8a63c8ce24d48ac318aa841a9f71b7fb21d2"/>
-        <updated>2026-08-03T10:22:18.000Z</updated>
-        <summary type="html"><![CDATA[Fix email detail link
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/308" data-original="recommendation/service-recommendation!308" data-link="false" data-link-reference="false" data-project="335" data-merge-request="48967" data-project-path="recommendation/service-recommendation" data-iid="308" data-mr-title="Fix email detail link" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!308</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[remove duplicate]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b28bb1880681b89b83aafabe0f856128a356388c</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b28bb1880681b89b83aafabe0f856128a356388c"/>
-        <updated>2026-08-03T10:13:54.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[remove adj_redirect_macos]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1525042c4d14660bb5dd548abe5219a5d240e183</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1525042c4d14660bb5dd548abe5219a5d240e183"/>
-        <updated>2026-08-03T09:42:47.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update one link]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc393ba22d6722f776295a6e5c00b4cd7795c52</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc393ba22d6722f776295a6e5c00b4cd7795c52"/>
-        <updated>2026-08-03T09:42:09.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[resolve conflict with ise-769]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e64ad38bd8488b614cd2dc231c124801461fbd20</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e64ad38bd8488b614cd2dc231c124801461fbd20"/>
-        <updated>2026-08-03T06:27:26.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
         </author>
     </entry>
 </feed>

@@ -124,46 +124,6 @@
           "wordCount": 1175,
           "title": "Recommendation service update A/B Test: Free job recommendation for NRU",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/56af8a63c8ce24d48ac318aa841a9f71b7fb21d2",
-          "author": null,
-          "description": "Fix email detail link\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/308\" data-original=\"recommendation/service-recommendation!308\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"48967\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"308\" data-mr-title=\"Fix email detail link\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!308</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/56af8a63c8ce24d48ac318aa841a9f71b7fb21d2",
-          "publishedOn": "2026-08-03T10:22:18.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'fix/email-detail-link' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b28bb1880681b89b83aafabe0f856128a356388c",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b28bb1880681b89b83aafabe0f856128a356388c",
-          "publishedOn": "2026-08-03T10:13:54.000Z",
-          "wordCount": 1175,
-          "title": "remove duplicate",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1525042c4d14660bb5dd548abe5219a5d240e183",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1525042c4d14660bb5dd548abe5219a5d240e183",
-          "publishedOn": "2026-08-03T09:42:47.000Z",
-          "wordCount": 1175,
-          "title": "remove adj_redirect_macos",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc393ba22d6722f776295a6e5c00b4cd7795c52",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc393ba22d6722f776295a6e5c00b4cd7795c52",
-          "publishedOn": "2026-08-03T09:42:09.000Z",
-          "wordCount": 1175,
-          "title": "Update one link",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -320,16 +280,6 @@
           "publishedOn": "2026-08-05T06:53:46.000Z",
           "wordCount": 1175,
           "title": "Disable writing in search_id_mapping Searcher",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e64ad38bd8488b614cd2dc231c124801461fbd20",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/e64ad38bd8488b614cd2dc231c124801461fbd20",
-          "publishedOn": "2026-08-03T06:27:26.000Z",
-          "wordCount": 1175,
-          "title": "resolve conflict with ise-769",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
