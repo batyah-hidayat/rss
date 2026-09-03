@@ -114,16 +114,6 @@
           "wordCount": 1175,
           "title": "Remove duplicate params for email",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5365b07a1b76143cb935e00ff8730e7085d7f672",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5365b07a1b76143cb935e00ff8730e7085d7f672",
-          "publishedOn": "2026-08-04T03:23:17.000Z",
-          "wordCount": 1175,
-          "title": "Recommendation service update A/B Test: Free job recommendation for NRU",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
