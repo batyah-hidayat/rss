@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-03T03:17:47.615Z</id>
+    <id>urn:2026-09-04T03:18:55.781Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-03T03:17:47.615Z</updated>
+    <updated>2026-09-04T03:18:55.781Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -264,26 +264,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e4df2c702b76c595cf1f39e6ddf6bb7ffcdcd9b</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e4df2c702b76c595cf1f39e6ddf6bb7ffcdcd9b"/>
         <updated>2026-08-06T01:59:38.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remove duplicate params for email]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c065c8f13364f133982415b70bb5e1515c4d392f</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c065c8f13364f133982415b70bb5e1515c4d392f"/>
-        <updated>2026-08-05T09:41:27.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Disable writing in search_id_mapping Searcher]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e5178c82320ab3e0f19bda46c31984aca247de2</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e5178c82320ab3e0f19bda46c31984aca247de2"/>
-        <updated>2026-08-05T06:53:46.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>

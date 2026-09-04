@@ -104,16 +104,6 @@
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-815-nru-ab-test' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c065c8f13364f133982415b70bb5e1515c4d392f",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/c065c8f13364f133982415b70bb5e1515c4d392f",
-          "publishedOn": "2026-08-05T09:41:27.000Z",
-          "wordCount": 1175,
-          "title": "Remove duplicate params for email",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
@@ -260,16 +250,6 @@
           "publishedOn": "2026-08-06T01:59:38.000Z",
           "wordCount": 1175,
           "title": "fix cache for aggregated data",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e5178c82320ab3e0f19bda46c31984aca247de2",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4e5178c82320ab3e0f19bda46c31984aca247de2",
-          "publishedOn": "2026-08-05T06:53:46.000Z",
-          "wordCount": 1175,
-          "title": "Disable writing in search_id_mapping Searcher",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
