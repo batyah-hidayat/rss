@@ -54,26 +54,6 @@
           "wordCount": 1175,
           "title": "Disable a/b test for email",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/365b1a466bd12f89d0c6eed86019d3df81e5c893",
-          "author": null,
-          "description": "Remove duplicate params for email\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/311\" data-original=\"recommendation/service-recommendation!311\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49143\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"311\" data-mr-title=\"Remove duplicate params for email\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!311</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/365b1a466bd12f89d0c6eed86019d3df81e5c893",
-          "publishedOn": "2026-08-17T09:11:53.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-825' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3e6004878ede9af0dc6dd542600d18c34edc58bd",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/3e6004878ede9af0dc6dd542600d18c34edc58bd",
-          "publishedOn": "2026-08-17T03:17:27.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-825' into production",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]
     },
