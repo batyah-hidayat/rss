@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-18T03:33:01.592Z</id>
+    <id>urn:2026-09-19T03:30:11.556Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-18T03:33:01.592Z</updated>
+    <updated>2026-09-19T03:30:11.556Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -13,40 +13,6 @@
         <summary type="html"><![CDATA[Update doc for recommendation engine
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/310" data-original="recommendation/service-recommendation!310" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49057" data-project-path="recommendation/service-recommendation" data-iid="310" data-mr-title="Update doc for recommendation engine" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!310</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-830' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/df85182f1390ba376f8b9cdc2b77e523d9cef576</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/df85182f1390ba376f8b9cdc2b77e523d9cef576"/>
-        <updated>2026-08-20T07:44:55.000Z</updated>
-        <summary type="html"><![CDATA[Update documentation for search engine
-
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/293" data-original="search-engine/service-search-engine!293" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49053" data-project-path="search-engine/service-search-engine" data-iid="293" data-mr-title="Update documentation for search engine" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!293</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-841' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e8ff8b957504fbc2748e6ae3d97c92de2b08271c</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/e8ff8b957504fbc2748e6ae3d97c92de2b08271c"/>
-        <updated>2026-08-20T07:33:27.000Z</updated>
-        <summary type="html"><![CDATA[Update apply all template for notification
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/314" data-original="recommendation/service-recommendation!314" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49300" data-project-path="recommendation/service-recommendation" data-iid="314" data-mr-title="Update apply all template for notification" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!314</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Update apply all template for notification]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0354fa50f4728bf50975e20cc1b5c01eb3dd116f</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/0354fa50f4728bf50975e20cc1b5c01eb3dd116f"/>
-        <updated>2026-08-20T07:26:34.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
