@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-09-22T03:40:13.765Z</id>
+    <id>urn:2026-09-23T03:39:26.688Z</id>
     <title>osmos::feed</title>
-    <updated>2026-09-22T03:40:13.765Z</updated>
+    <updated>2026-09-23T03:39:26.688Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-831' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc9ac1587b9d3d4ca14626ba5eb8a86017bdb37</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc9ac1587b9d3d4ca14626ba5eb8a86017bdb37"/>
-        <updated>2026-08-24T06:02:41.000Z</updated>
-        <summary type="html"><![CDATA[Update doc for recommendation engine
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/310" data-original="recommendation/service-recommendation!310" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49057" data-project-path="recommendation/service-recommendation" data-iid="310" data-mr-title="Update doc for recommendation engine" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!310</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
 </feed>

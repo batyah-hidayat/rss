@@ -4,18 +4,7 @@
       "title": "Service Recommendation:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
-      "articles": [
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc9ac1587b9d3d4ca14626ba5eb8a86017bdb37",
-          "author": null,
-          "description": "Update doc for recommendation engine\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/310\" data-original=\"recommendation/service-recommendation!310\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49057\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"310\" data-mr-title=\"Update doc for recommendation engine\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!310</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/2fc9ac1587b9d3d4ca14626ba5eb8a86017bdb37",
-          "publishedOn": "2026-08-24T06:02:41.000Z",
-          "wordCount": 1175,
-          "title": "Merge branch 'feat/ise-831' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
-        }
-      ]
+      "articles": []
     },
     {
       "title": "Service Search Engine:production commits",
