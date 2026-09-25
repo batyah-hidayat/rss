@@ -10,7 +10,68 @@
       "title": "Service Search Engine:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4128eab10cb80812a530b6f0ffd2d27b7e9f8358",
+          "author": null,
+          "description": "Feat/ise 872\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/301\" data-original=\"search-engine/service-search-engine!301\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49887\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"301\" data-mr-title=\"Feat/ise 872\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!301</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4128eab10cb80812a530b6f0ffd2d27b7e9f8358",
+          "publishedOn": "2026-09-24T09:47:38.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-872' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/378660a2f803f43366070f60a10f8091aa7289fb",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/378660a2f803f43366070f60a10f8091aa7289fb",
+          "publishedOn": "2026-09-24T09:41:33.000Z",
+          "wordCount": 1175,
+          "title": "change qc and prod endpoints for location",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/162c65c699b42f51a49e2e772b5b37e5e31035e9",
+          "author": null,
+          "description": "fix incremental update for metadata\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/300\" data-original=\"search-engine/service-search-engine!300\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49875\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"300\" data-mr-title=\"fix incremental update for metadata\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!300</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/162c65c699b42f51a49e2e772b5b37e5e31035e9",
+          "publishedOn": "2026-09-24T06:56:42.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-871' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0e219b1df1f6443f43480f041b0429205f0bbaf9",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0e219b1df1f6443f43480f041b0429205f0bbaf9",
+          "publishedOn": "2026-09-21T04:13:08.000Z",
+          "wordCount": 1175,
+          "title": "add new districts into old province total counter",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce351509f90b888cf3bb9ff7ad89c71e9da4d76d",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce351509f90b888cf3bb9ff7ad89c71e9da4d76d",
+          "publishedOn": "2026-09-21T02:57:43.000Z",
+          "wordCount": 1175,
+          "title": "Merge remote-tracking branch 'origin/feat/ise-840' into feat/ise-872",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3138c954973c5c0aa86c3353c39c000f0f1c3f05",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3138c954973c5c0aa86c3353c39c000f0f1c3f05",
+          "publishedOn": "2026-09-21T02:32:46.000Z",
+          "wordCount": 1175,
+          "title": "fix incremental update for metadata",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
