@@ -4,7 +4,28 @@
       "title": "Service Recommendation:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a",
+          "publishedOn": "2026-09-29T09:09:45.000Z",
+          "wordCount": 1175,
+          "title": "fix prod LOCATION URL",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5194e3c7b7aa8f4bb5ef710bc10dec569d9c748e",
+          "author": null,
+          "description": "Update recommendation to support new adminstrative unit\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/317\" data-original=\"recommendation/service-recommendation!317\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49965\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"317\" data-mr-title=\"Update recommendation to support new adminstrative unit\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!317</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5194e3c7b7aa8f4bb5ef710bc10dec569d9c748e",
+          "publishedOn": "2026-09-29T07:35:36.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-842' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        }
+      ]
     },
     {
       "title": "Service Search Engine:production commits",
