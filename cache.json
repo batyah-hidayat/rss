@@ -6,6 +6,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600",
+          "author": null,
+          "description": "add sort by salary and job_publication for job recommendations\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/319\" data-original=\"recommendation/service-recommendation!319\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50029\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"319\" data-mr-title=\"add sort by salary and job_publication for job recommendations\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!319</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600",
+          "publishedOn": "2026-10-01T06:00:29.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-876' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a",
           "author": null,
           "description": "<div type=\"html\"/>",
@@ -23,6 +33,16 @@
           "publishedOn": "2026-09-29T07:35:36.000Z",
           "wordCount": 1175,
           "title": "Merge branch 'feat/ise-842' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573",
+          "publishedOn": "2026-09-25T03:26:37.000Z",
+          "wordCount": 1175,
+          "title": "add sort by salary and job_publication for job recommendations",
           "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
         }
       ]

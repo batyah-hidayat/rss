@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-01T04:32:58.113Z</id>
+    <id>urn:2026-10-02T04:25:34.692Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-01T04:32:58.113Z</updated>
+    <updated>2026-10-02T04:25:34.692Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-876' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600"/>
+        <updated>2026-10-01T06:00:29.000Z</updated>
+        <summary type="html"><![CDATA[add sort by salary and job_publication for job recommendations
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/319" data-original="recommendation/service-recommendation!319" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50029" data-project-path="recommendation/service-recommendation" data-iid="319" data-mr-title="add sort by salary and job_publication for job recommendations" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!319</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fix prod LOCATION URL]]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a</id>
@@ -23,6 +35,16 @@
         <summary type="html"><![CDATA[Update recommendation to support new adminstrative unit
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/317" data-original="recommendation/service-recommendation!317" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49965" data-project-path="recommendation/service-recommendation" data-iid="317" data-mr-title="Update recommendation to support new adminstrative unit" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!317</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add sort by salary and job_publication for job recommendations]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573"/>
+        <updated>2026-09-25T03:26:37.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
