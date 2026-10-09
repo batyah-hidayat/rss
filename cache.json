@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/cf6ba1e5cf635f3eb76817c6ca37a63fb4ebff9d",
+          "author": null,
+          "description": "add geo features for logging\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/321\" data-original=\"recommendation/service-recommendation!321\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50159\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"321\" data-mr-title=\"add geo features for logging\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!321</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/cf6ba1e5cf635f3eb76817c6ca37a63fb4ebff9d",
+          "publishedOn": "2026-10-08T08:57:17.000Z",
+          "wordCount": 1175,
+          "title": "Merge branch 'feat/ise-901' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6e1609dc397b34e1dc0f1c36d54e10e6b8d3719c",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6e1609dc397b34e1dc0f1c36d54e10e6b8d3719c",
+          "publishedOn": "2026-10-08T07:13:47.000Z",
+          "wordCount": 1175,
+          "title": "add geo features for logging",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600",
           "author": null,
           "description": "add sort by salary and job_publication for job recommendations\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/319\" data-original=\"recommendation/service-recommendation!319\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50029\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"319\" data-mr-title=\"add sort by salary and job_publication for job recommendations\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!319</a>",
