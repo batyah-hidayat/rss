@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-10T04:41:16.967Z</id>
+    <id>urn:2026-10-11T04:26:04.242Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-10T04:41:16.967Z</updated>
+    <updated>2026-10-11T04:26:04.242Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -12,7 +12,7 @@
         <updated>2026-10-08T08:57:17.000Z</updated>
         <summary type="html"><![CDATA[add geo features for logging
 
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/321" data-original="recommendation/service-recommendation!321" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50159" data-project-path="recommendation/service-recommendation" data-iid="321" data-mr-title="add geo features for logging" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!321</a>]]></summary>
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/321" data-reference-type="merge_request" data-original="recommendation/service-recommendation!321" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50159" data-project-path="recommendation/service-recommendation" data-iid="321" data-container="body" data-placement="top" title="add geo features for logging" class="gfm gfm-merge_request">!321</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
@@ -34,7 +34,7 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <updated>2026-10-05T07:09:17.000Z</updated>
         <summary type="html"><![CDATA[Feat/ise 888
 
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/309" data-original="search-engine/service-search-engine!309" data-link="false" data-link-reference="false" data-project="313" data-merge-request="50078" data-project-path="search-engine/service-search-engine" data-iid="309" data-mr-title="Feat/ise 888" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!309</a>]]></summary>
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/309" data-reference-type="merge_request" data-original="search-engine/service-search-engine!309" data-link="false" data-link-reference="false" data-project="313" data-merge-request="50078" data-project-path="search-engine/service-search-engine" data-iid="309" data-container="body" data-placement="top" title="Feat/ise 888" class="gfm gfm-merge_request">!309</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
@@ -86,7 +86,7 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <updated>2026-10-01T06:00:29.000Z</updated>
         <summary type="html"><![CDATA[add sort by salary and job_publication for job recommendations
 
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/319" data-original="recommendation/service-recommendation!319" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50029" data-project-path="recommendation/service-recommendation" data-iid="319" data-mr-title="add sort by salary and job_publication for job recommendations" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!319</a>]]></summary>
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/319" data-reference-type="merge_request" data-original="recommendation/service-recommendation!319" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50029" data-project-path="recommendation/service-recommendation" data-iid="319" data-container="body" data-placement="top" title="add sort by salary and job_publication for job recommendations" class="gfm gfm-merge_request">!319</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
@@ -118,7 +118,7 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <updated>2026-09-29T07:35:36.000Z</updated>
         <summary type="html"><![CDATA[Update recommendation to support new adminstrative unit
 
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/317" data-original="recommendation/service-recommendation!317" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49965" data-project-path="recommendation/service-recommendation" data-iid="317" data-mr-title="Update recommendation to support new adminstrative unit" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!317</a>]]></summary>
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/317" data-reference-type="merge_request" data-original="recommendation/service-recommendation!317" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49965" data-project-path="recommendation/service-recommendation" data-iid="317" data-container="body" data-placement="top" title="Update recommendation to support new adminstrative unit" class="gfm gfm-merge_request">!317</a>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
@@ -140,7 +140,7 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <updated>2026-09-24T09:47:38.000Z</updated>
         <summary type="html"><![CDATA[Feat/ise 872
 
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/301" data-original="search-engine/service-search-engine!301" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49887" data-project-path="search-engine/service-search-engine" data-iid="301" data-mr-title="Feat/ise 872" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!301</a>]]></summary>
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/301" data-reference-type="merge_request" data-original="search-engine/service-search-engine!301" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49887" data-project-path="search-engine/service-search-engine" data-iid="301" data-container="body" data-placement="top" title="Feat/ise 872" class="gfm gfm-merge_request">!301</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
@@ -162,7 +162,7 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <updated>2026-09-24T06:56:42.000Z</updated>
         <summary type="html"><![CDATA[fix incremental update for metadata
 
-See merge request <a href="/search-engine/service-search-engine/-/merge_requests/300" data-original="search-engine/service-search-engine!300" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49875" data-project-path="search-engine/service-search-engine" data-iid="300" data-mr-title="fix incremental update for metadata" data-reference-type="merge_request" data-container="body" data-placement="top" title="" class="gfm gfm-merge_request">!300</a>]]></summary>
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/300" data-reference-type="merge_request" data-original="search-engine/service-search-engine!300" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49875" data-project-path="search-engine/service-search-engine" data-iid="300" data-container="body" data-placement="top" title="fix incremental update for metadata" class="gfm gfm-merge_request">!300</a>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>

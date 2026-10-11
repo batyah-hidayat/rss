@@ -8,12 +8,12 @@
         {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/cf6ba1e5cf635f3eb76817c6ca37a63fb4ebff9d",
           "author": null,
-          "description": "add geo features for logging\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/321\" data-original=\"recommendation/service-recommendation!321\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50159\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"321\" data-mr-title=\"add geo features for logging\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!321</a>",
+          "description": "add geo features for logging\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/321\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!321\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50159\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"321\" data-container=\"body\" data-placement=\"top\" title=\"add geo features for logging\" class=\"gfm gfm-merge_request\">!321</a>",
           "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/cf6ba1e5cf635f3eb76817c6ca37a63fb4ebff9d",
           "publishedOn": "2026-10-08T08:57:17.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge branch 'feat/ise-901' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6e1609dc397b34e1dc0f1c36d54e10e6b8d3719c",
@@ -21,19 +21,19 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6e1609dc397b34e1dc0f1c36d54e10e6b8d3719c",
           "publishedOn": "2026-10-08T07:13:47.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "add geo features for logging",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600",
           "author": null,
-          "description": "add sort by salary and job_publication for job recommendations\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/319\" data-original=\"recommendation/service-recommendation!319\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50029\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"319\" data-mr-title=\"add sort by salary and job_publication for job recommendations\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!319</a>",
+          "description": "add sort by salary and job_publication for job recommendations\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/319\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!319\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50029\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"319\" data-container=\"body\" data-placement=\"top\" title=\"add sort by salary and job_publication for job recommendations\" class=\"gfm gfm-merge_request\">!319</a>",
           "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600",
           "publishedOn": "2026-10-01T06:00:29.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge branch 'feat/ise-876' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a",
@@ -41,19 +41,19 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a",
           "publishedOn": "2026-09-29T09:09:45.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "fix prod LOCATION URL",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5194e3c7b7aa8f4bb5ef710bc10dec569d9c748e",
           "author": null,
-          "description": "Update recommendation to support new adminstrative unit\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/317\" data-original=\"recommendation/service-recommendation!317\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49965\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"317\" data-mr-title=\"Update recommendation to support new adminstrative unit\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!317</a>",
+          "description": "Update recommendation to support new adminstrative unit\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/317\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!317\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"49965\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"317\" data-container=\"body\" data-placement=\"top\" title=\"Update recommendation to support new adminstrative unit\" class=\"gfm gfm-merge_request\">!317</a>",
           "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5194e3c7b7aa8f4bb5ef710bc10dec569d9c748e",
           "publishedOn": "2026-09-29T07:35:36.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge branch 'feat/ise-842' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573",
@@ -61,9 +61,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573",
           "publishedOn": "2026-09-25T03:26:37.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "add sort by salary and job_publication for job recommendations",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     },
@@ -75,12 +75,12 @@
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b4857718a1703e424cdb2fae1973c2ad00adbb73",
           "author": null,
-          "description": "Feat/ise 888\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/309\" data-original=\"search-engine/service-search-engine!309\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"50078\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"309\" data-mr-title=\"Feat/ise 888\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!309</a>",
+          "description": "Feat/ise 888\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/309\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!309\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"50078\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"309\" data-container=\"body\" data-placement=\"top\" title=\"Feat/ise 888\" class=\"gfm gfm-merge_request\">!309</a>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b4857718a1703e424cdb2fae1973c2ad00adbb73",
           "publishedOn": "2026-10-05T07:09:17.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge branch 'feat/ise-888' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/93d7e53ab12e9a089599da79f51da84aeabb9b14",
@@ -88,9 +88,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/93d7e53ab12e9a089599da79f51da84aeabb9b14",
           "publishedOn": "2026-10-02T07:27:31.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "fix similar queries and embeddings filter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ec6559da587179e4c1db6004cd174cb03bb4dcf5",
@@ -98,9 +98,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ec6559da587179e4c1db6004cd174cb03bb4dcf5",
           "publishedOn": "2026-10-02T06:10:18.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge remote-tracking branch 'origin/feat/ise-885' into feat/ise-888",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39bdae0b65d4208d54207d0312ec08b811a93e3e",
@@ -108,9 +108,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39bdae0b65d4208d54207d0312ec08b811a93e3e",
           "publishedOn": "2026-10-02T06:10:15.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "similar job optimization",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b57b1ed8ff64fb34a3430485aecc3a146e57a93",
@@ -118,9 +118,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b57b1ed8ff64fb34a3430485aecc3a146e57a93",
           "publishedOn": "2026-10-01T08:45:41.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "use scorch for bleve",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/03360dc04fa987d62e31925dfe84198c912d4a8a",
@@ -128,19 +128,19 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/03360dc04fa987d62e31925dfe84198c912d4a8a",
           "publishedOn": "2026-10-01T05:05:27.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "add cache load of nlp occupation",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4128eab10cb80812a530b6f0ffd2d27b7e9f8358",
           "author": null,
-          "description": "Feat/ise 872\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/301\" data-original=\"search-engine/service-search-engine!301\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49887\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"301\" data-mr-title=\"Feat/ise 872\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!301</a>",
+          "description": "Feat/ise 872\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/301\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!301\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49887\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"301\" data-container=\"body\" data-placement=\"top\" title=\"Feat/ise 872\" class=\"gfm gfm-merge_request\">!301</a>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4128eab10cb80812a530b6f0ffd2d27b7e9f8358",
           "publishedOn": "2026-09-24T09:47:38.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge branch 'feat/ise-872' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/378660a2f803f43366070f60a10f8091aa7289fb",
@@ -148,19 +148,19 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/378660a2f803f43366070f60a10f8091aa7289fb",
           "publishedOn": "2026-09-24T09:41:33.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "change qc and prod endpoints for location",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/162c65c699b42f51a49e2e772b5b37e5e31035e9",
           "author": null,
-          "description": "fix incremental update for metadata\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/300\" data-original=\"search-engine/service-search-engine!300\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49875\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"300\" data-mr-title=\"fix incremental update for metadata\" data-reference-type=\"merge_request\" data-container=\"body\" data-placement=\"top\" title=\"\" class=\"gfm gfm-merge_request\">!300</a>",
+          "description": "fix incremental update for metadata\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/300\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!300\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"49875\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"300\" data-container=\"body\" data-placement=\"top\" title=\"fix incremental update for metadata\" class=\"gfm gfm-merge_request\">!300</a>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/162c65c699b42f51a49e2e772b5b37e5e31035e9",
           "publishedOn": "2026-09-24T06:56:42.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge branch 'feat/ise-871' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0e219b1df1f6443f43480f041b0429205f0bbaf9",
@@ -168,9 +168,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0e219b1df1f6443f43480f041b0429205f0bbaf9",
           "publishedOn": "2026-09-21T04:13:08.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "add new districts into old province total counter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce351509f90b888cf3bb9ff7ad89c71e9da4d76d",
@@ -178,9 +178,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce351509f90b888cf3bb9ff7ad89c71e9da4d76d",
           "publishedOn": "2026-09-21T02:57:43.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "Merge remote-tracking branch 'origin/feat/ise-840' into feat/ise-872",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3138c954973c5c0aa86c3353c39c000f0f1c3f05",
@@ -188,9 +188,9 @@
           "description": "<div type=\"html\"/>",
           "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3138c954973c5c0aa86c3353c39c000f0f1c3f05",
           "publishedOn": "2026-09-21T02:32:46.000Z",
-          "wordCount": 1175,
+          "wordCount": 545,
           "title": "fix incremental update for metadata",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/gitlab_logo-7ae504fe4f68fdebb3c2034e36621930cd36ea87924c11ff65dbcb8ed50dca58.png"
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     }
