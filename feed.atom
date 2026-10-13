@@ -1,10 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-12T04:42:02.315Z</id>
+    <id>urn:2026-10-13T05:46:42.232Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-12T04:42:02.315Z</updated>
+    <updated>2026-10-13T05:46:42.232Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-904' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d06d050ba0d74b24f52dd513d9cdeeeb9a57befd</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d06d050ba0d74b24f52dd513d9cdeeeb9a57befd"/>
+        <updated>2026-10-12T06:21:10.000Z</updated>
+        <summary type="html"><![CDATA[Feat/ise 904
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/313" data-reference-type="merge_request" data-original="search-engine/service-search-engine!313" data-link="false" data-link-reference="false" data-project="313" data-merge-request="50200" data-project-path="search-engine/service-search-engine" data-iid="313" data-container="body" data-placement="top" title="Feat/ise 904" class="gfm gfm-merge_request">!313</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[fix staging endpoint]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4873f51c131a174a26ee87f25ef8ab457baf3eaa</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4873f51c131a174a26ee87f25ef8ab457baf3eaa"/>
+        <updated>2026-10-12T06:00:42.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[geo distance features]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987"/>
+        <updated>2026-10-12T04:09:20.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-901' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/cf6ba1e5cf635f3eb76817c6ca37a63fb4ebff9d</id>

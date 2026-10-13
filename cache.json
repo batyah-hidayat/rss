@@ -73,6 +73,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d06d050ba0d74b24f52dd513d9cdeeeb9a57befd",
+          "author": null,
+          "description": "Feat/ise 904\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/313\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!313\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"50200\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"313\" data-container=\"body\" data-placement=\"top\" title=\"Feat/ise 904\" class=\"gfm gfm-merge_request\">!313</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d06d050ba0d74b24f52dd513d9cdeeeb9a57befd",
+          "publishedOn": "2026-10-12T06:21:10.000Z",
+          "wordCount": 545,
+          "title": "Merge branch 'feat/ise-904' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4873f51c131a174a26ee87f25ef8ab457baf3eaa",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4873f51c131a174a26ee87f25ef8ab457baf3eaa",
+          "publishedOn": "2026-10-12T06:00:42.000Z",
+          "wordCount": 545,
+          "title": "fix staging endpoint",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987",
+          "publishedOn": "2026-10-12T04:09:20.000Z",
+          "wordCount": 545,
+          "title": "geo distance features",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/b4857718a1703e424cdb2fae1973c2ad00adbb73",
           "author": null,
           "description": "Feat/ise 888\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/309\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!309\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"50078\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"309\" data-container=\"body\" data-placement=\"top\" title=\"Feat/ise 888\" class=\"gfm gfm-merge_request\">!309</a>",
