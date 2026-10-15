@@ -73,6 +73,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ad31759f004c91a180c3c260da30704071cb482c",
+          "author": null,
+          "description": "add OR for province and districts\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/315\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!315\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"50273\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"315\" data-container=\"body\" data-placement=\"top\" title=\"add OR for province and districts\" class=\"gfm gfm-merge_request\">!315</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ad31759f004c91a180c3c260da30704071cb482c",
+          "publishedOn": "2026-10-14T07:40:36.000Z",
+          "wordCount": 545,
+          "title": "Merge branch 'feat/ise-886' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d06d050ba0d74b24f52dd513d9cdeeeb9a57befd",
           "author": null,
           "description": "Feat/ise 904\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/313\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!313\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"50200\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"313\" data-container=\"body\" data-placement=\"top\" title=\"Feat/ise 904\" class=\"gfm gfm-merge_request\">!313</a>",
@@ -100,6 +110,16 @@
           "publishedOn": "2026-10-12T04:09:20.000Z",
           "wordCount": 545,
           "title": "geo distance features",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac",
+          "publishedOn": "2026-10-09T03:58:33.000Z",
+          "wordCount": 545,
+          "title": "add OR for province and districts",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {

@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-14T03:49:54.762Z</id>
+    <id>urn:2026-10-15T03:31:46.597Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-14T03:49:54.762Z</updated>
+    <updated>2026-10-15T03:31:46.597Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-886' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ad31759f004c91a180c3c260da30704071cb482c</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ad31759f004c91a180c3c260da30704071cb482c"/>
+        <updated>2026-10-14T07:40:36.000Z</updated>
+        <summary type="html"><![CDATA[add OR for province and districts
+
+See merge request <a href="/search-engine/service-search-engine/-/merge_requests/315" data-reference-type="merge_request" data-original="search-engine/service-search-engine!315" data-link="false" data-link-reference="false" data-project="313" data-merge-request="50273" data-project-path="search-engine/service-search-engine" data-iid="315" data-container="body" data-placement="top" title="add OR for province and districts" class="gfm gfm-merge_request">!315</a>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-904' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/d06d050ba0d74b24f52dd513d9cdeeeb9a57befd</id>
@@ -32,6 +44,16 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987"/>
         <updated>2026-10-12T04:09:20.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Search Engine:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add OR for province and districts]]></title>
+        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac</id>
+        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac"/>
+        <updated>2026-10-09T03:58:33.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
