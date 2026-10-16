@@ -6,6 +6,26 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b2ed9ccd51eebb32abf9c12bbe3142994bddbecf",
+          "author": null,
+          "description": "add source features\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/324\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!324\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50339\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"324\" data-container=\"body\" data-placement=\"top\" title=\"add source features\" class=\"gfm gfm-merge_request\">!324</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b2ed9ccd51eebb32abf9c12bbe3142994bddbecf",
+          "publishedOn": "2026-10-16T02:20:48.000Z",
+          "wordCount": 545,
+          "title": "Merge branch 'feat/ise-917' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f6817715e697791c2c8874f59aa3c40282921d26",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f6817715e697791c2c8874f59aa3c40282921d26",
+          "publishedOn": "2026-10-16T01:54:53.000Z",
+          "wordCount": 545,
+          "title": "add source features",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/cf6ba1e5cf635f3eb76817c6ca37a63fb4ebff9d",
           "author": null,
           "description": "add geo features for logging\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/321\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!321\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50159\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"321\" data-container=\"body\" data-placement=\"top\" title=\"add geo features for logging\" class=\"gfm gfm-merge_request\">!321</a>",

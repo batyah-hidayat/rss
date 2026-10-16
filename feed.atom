@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-15T03:31:46.597Z</id>
+    <id>urn:2026-10-16T03:27:26.436Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-15T03:31:46.597Z</updated>
+    <updated>2026-10-16T03:27:26.436Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-917' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b2ed9ccd51eebb32abf9c12bbe3142994bddbecf</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b2ed9ccd51eebb32abf9c12bbe3142994bddbecf"/>
+        <updated>2026-10-16T02:20:48.000Z</updated>
+        <summary type="html"><![CDATA[add source features
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/324" data-reference-type="merge_request" data-original="recommendation/service-recommendation!324" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50339" data-project-path="recommendation/service-recommendation" data-iid="324" data-container="body" data-placement="top" title="add source features" class="gfm gfm-merge_request">!324</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add source features]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f6817715e697791c2c8874f59aa3c40282921d26</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f6817715e697791c2c8874f59aa3c40282921d26"/>
+        <updated>2026-10-16T01:54:53.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-886' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ad31759f004c91a180c3c260da30704071cb482c</id>
