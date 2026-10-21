@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-20T03:45:00.827Z</id>
+    <id>urn:2026-10-21T03:36:12.412Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-20T03:45:00.827Z</updated>
+    <updated>2026-10-21T03:36:12.412Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-857' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1f6f2e0ee75ce9c6eebebea5b8b1828c8c2999db</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1f6f2e0ee75ce9c6eebebea5b8b1828c8c2999db"/>
+        <updated>2026-10-21T02:39:44.000Z</updated>
+        <summary type="html"><![CDATA[remove notification template
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/327" data-reference-type="merge_request" data-original="recommendation/service-recommendation!327" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50409" data-project-path="recommendation/service-recommendation" data-iid="327" data-container="body" data-placement="top" title="remove notification template" class="gfm gfm-merge_request">!327</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-917' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/b2ed9ccd51eebb32abf9c12bbe3142994bddbecf</id>
@@ -22,6 +34,16 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f6817715e697791c2c8874f59aa3c40282921d26</id>
         <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/f6817715e697791c2c8874f59aa3c40282921d26"/>
         <updated>2026-10-16T01:54:53.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[remove notification template]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/900a3fea45b00bfb334f3e43cc7f9c8fb34724c0</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/900a3fea45b00bfb334f3e43cc7f9c8fb34724c0"/>
+        <updated>2026-10-14T09:52:40.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
@@ -239,36 +261,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <summary type="html"><![CDATA[fix incremental update for metadata
 
 See merge request <a href="/search-engine/service-search-engine/-/merge_requests/300" data-reference-type="merge_request" data-original="search-engine/service-search-engine!300" data-link="false" data-link-reference="false" data-project="313" data-merge-request="49875" data-project-path="search-engine/service-search-engine" data-iid="300" data-container="body" data-placement="top" title="fix incremental update for metadata" class="gfm gfm-merge_request">!300</a>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add new districts into old province total counter]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0e219b1df1f6443f43480f041b0429205f0bbaf9</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/0e219b1df1f6443f43480f041b0429205f0bbaf9"/>
-        <updated>2026-09-21T04:13:08.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge remote-tracking branch 'origin/feat/ise-840' into feat/ise-872]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce351509f90b888cf3bb9ff7ad89c71e9da4d76d</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ce351509f90b888cf3bb9ff7ad89c71e9da4d76d"/>
-        <updated>2026-09-21T02:57:43.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix incremental update for metadata]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3138c954973c5c0aa86c3353c39c000f0f1c3f05</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3138c954973c5c0aa86c3353c39c000f0f1c3f05"/>
-        <updated>2026-09-21T02:32:46.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
         </author>
