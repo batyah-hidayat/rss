@@ -94,16 +94,6 @@
           "wordCount": 545,
           "title": "Merge branch 'feat/ise-842' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ac7f26fbf72ba6a634e3e11dcd4e5193529d1573",
-          "publishedOn": "2026-09-25T03:26:37.000Z",
-          "wordCount": 545,
-          "title": "add sort by salary and job_publication for job recommendations",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     },
