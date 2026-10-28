@@ -6,6 +6,16 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9ff77b56f6fa00bcda4180f76d9c357671fa9164",
+          "author": null,
+          "description": "add mlflow model\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/328\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!328\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50561\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"328\" data-container=\"body\" data-placement=\"top\" title=\"add mlflow model\" class=\"gfm gfm-merge_request\">!328</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9ff77b56f6fa00bcda4180f76d9c357671fa9164",
+          "publishedOn": "2026-10-28T02:44:34.000Z",
+          "wordCount": 545,
+          "title": "Merge branch 'feat/ise-914' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1f6f2e0ee75ce9c6eebebea5b8b1828c8c2999db",
           "author": null,
           "description": "remove notification template\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/327\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!327\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50409\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"327\" data-container=\"body\" data-placement=\"top\" title=\"remove notification template\" class=\"gfm gfm-merge_request\">!327</a>",
@@ -13,6 +23,16 @@
           "publishedOn": "2026-10-21T02:39:44.000Z",
           "wordCount": 545,
           "title": "Merge branch 'feat/ise-857' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/534fbfab9b1ae660db2d7a8e4fdfbec9c77a6f42",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/534fbfab9b1ae660db2d7a8e4fdfbec9c77a6f42",
+          "publishedOn": "2026-10-20T02:50:55.000Z",
+          "wordCount": 545,
+          "title": "add mlflow model",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {

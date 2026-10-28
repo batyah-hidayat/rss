@@ -1,10 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-27T03:59:19.269Z</id>
+    <id>urn:2026-10-28T04:23:52.019Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-27T03:59:19.269Z</updated>
+    <updated>2026-10-28T04:23:52.019Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
+    <entry>
+        <title type="html"><![CDATA[Merge branch 'feat/ise-914' into 'production']]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9ff77b56f6fa00bcda4180f76d9c357671fa9164</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9ff77b56f6fa00bcda4180f76d9c357671fa9164"/>
+        <updated>2026-10-28T02:44:34.000Z</updated>
+        <summary type="html"><![CDATA[add mlflow model
+
+See merge request <a href="/recommendation/service-recommendation/-/merge_requests/328" data-reference-type="merge_request" data-original="recommendation/service-recommendation!328" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50561" data-project-path="recommendation/service-recommendation" data-iid="328" data-container="body" data-placement="top" title="add mlflow model" class="gfm gfm-merge_request">!328</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merge branch 'feat/ise-857' into 'production']]></title>
         <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1f6f2e0ee75ce9c6eebebea5b8b1828c8c2999db</id>
@@ -13,6 +25,16 @@
         <summary type="html"><![CDATA[remove notification template
 
 See merge request <a href="/recommendation/service-recommendation/-/merge_requests/327" data-reference-type="merge_request" data-original="recommendation/service-recommendation!327" data-link="false" data-link-reference="false" data-project="335" data-merge-request="50409" data-project-path="recommendation/service-recommendation" data-iid="327" data-container="body" data-placement="top" title="remove notification template" class="gfm gfm-merge_request">!327</a>]]></summary>
+        <author>
+            <name>Service Recommendation:production commits</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[add mlflow model]]></title>
+        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/534fbfab9b1ae660db2d7a8e4fdfbec9c77a6f42</id>
+        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/534fbfab9b1ae660db2d7a8e4fdfbec9c77a6f42"/>
+        <updated>2026-10-20T02:50:55.000Z</updated>
+        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Recommendation:production commits</name>
         </author>
