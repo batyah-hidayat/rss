@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-10-28T04:23:52.019Z</id>
+    <id>urn:2026-10-29T04:42:25.999Z</id>
     <title>osmos::feed</title>
-    <updated>2026-10-28T04:23:52.019Z</updated>
+    <updated>2026-10-29T04:42:25.999Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -219,28 +219,6 @@ See merge request <a href="/recommendation/service-recommendation/-/merge_reques
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[fix prod LOCATION URL]]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/694aafa013b423a74737802948bd1841311c9a3a"/>
-        <updated>2026-09-29T09:09:45.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merge branch 'feat/ise-842' into 'production']]></title>
-        <id>https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5194e3c7b7aa8f4bb5ef710bc10dec569d9c748e</id>
-        <link href="https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/5194e3c7b7aa8f4bb5ef710bc10dec569d9c748e"/>
-        <updated>2026-09-29T07:35:36.000Z</updated>
-        <summary type="html"><![CDATA[Update recommendation to support new adminstrative unit
-
-See merge request <a href="/recommendation/service-recommendation/-/merge_requests/317" data-reference-type="merge_request" data-original="recommendation/service-recommendation!317" data-link="false" data-link-reference="false" data-project="335" data-merge-request="49965" data-project-path="recommendation/service-recommendation" data-iid="317" data-container="body" data-placement="top" title="Update recommendation to support new adminstrative unit" class="gfm gfm-merge_request">!317</a>]]></summary>
-        <author>
-            <name>Service Recommendation:production commits</name>
         </author>
     </entry>
 </feed>
