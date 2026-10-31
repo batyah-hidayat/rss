@@ -84,16 +84,6 @@
           "wordCount": 545,
           "title": "add geo features for logging",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600",
-          "author": null,
-          "description": "add sort by salary and job_publication for job recommendations\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/319\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!319\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50029\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"319\" data-container=\"body\" data-placement=\"top\" title=\"add sort by salary and job_publication for job recommendations\" class=\"gfm gfm-merge_request\">!319</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/d5bccaa7254697019514aa746f324de40b81f600",
-          "publishedOn": "2026-10-01T06:00:29.000Z",
-          "wordCount": 545,
-          "title": "Merge branch 'feat/ise-876' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     },
@@ -190,26 +180,6 @@
           "publishedOn": "2026-10-02T06:10:15.000Z",
           "wordCount": 545,
           "title": "similar job optimization",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b57b1ed8ff64fb34a3430485aecc3a146e57a93",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/7b57b1ed8ff64fb34a3430485aecc3a146e57a93",
-          "publishedOn": "2026-10-01T08:45:41.000Z",
-          "wordCount": 545,
-          "title": "use scorch for bleve",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/03360dc04fa987d62e31925dfe84198c912d4a8a",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/03360dc04fa987d62e31925dfe84198c912d4a8a",
-          "publishedOn": "2026-10-01T05:05:27.000Z",
-          "wordCount": 545,
-          "title": "add cache load of nlp occupation",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
