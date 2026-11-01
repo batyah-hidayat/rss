@@ -151,36 +151,6 @@
           "wordCount": 545,
           "title": "Merge branch 'feat/ise-888' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/93d7e53ab12e9a089599da79f51da84aeabb9b14",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/93d7e53ab12e9a089599da79f51da84aeabb9b14",
-          "publishedOn": "2026-10-02T07:27:31.000Z",
-          "wordCount": 545,
-          "title": "fix similar queries and embeddings filter",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ec6559da587179e4c1db6004cd174cb03bb4dcf5",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/ec6559da587179e4c1db6004cd174cb03bb4dcf5",
-          "publishedOn": "2026-10-02T06:10:18.000Z",
-          "wordCount": 545,
-          "title": "Merge remote-tracking branch 'origin/feat/ise-885' into feat/ise-888",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39bdae0b65d4208d54207d0312ec08b811a93e3e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/39bdae0b65d4208d54207d0312ec08b811a93e3e",
-          "publishedOn": "2026-10-02T06:10:15.000Z",
-          "wordCount": 545,
-          "title": "similar job optimization",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     }
