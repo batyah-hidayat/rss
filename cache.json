@@ -6,6 +6,36 @@
       "siteUrl": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commits/production",
       "articles": [
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a53f567e86efd26b24b0947068fa22eacd4dd5be",
+          "author": null,
+          "description": "Feat/ise 926\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/337\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!337\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50676\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"337\" data-container=\"body\" data-placement=\"top\" title=\"Feat/ise 926\" class=\"gfm gfm-merge_request\">!337</a>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/a53f567e86efd26b24b0947068fa22eacd4dd5be",
+          "publishedOn": "2026-11-02T06:27:48.000Z",
+          "wordCount": 545,
+          "title": "Merge branch 'feat/ise-926' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ae1f64fa21292ebafd739b9265972e3ac88ea5cf",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/ae1f64fa21292ebafd739b9265972e3ac88ea5cf",
+          "publishedOn": "2026-11-02T02:25:42.000Z",
+          "wordCount": 545,
+          "title": "collect mlp factor and geo for cv recommendations",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9e89d2d84bbdc2b445711356c3b6c1897d46b632",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9e89d2d84bbdc2b445711356c3b6c1897d46b632",
+          "publishedOn": "2026-11-02T02:23:05.000Z",
+          "wordCount": 545,
+          "title": "Merge remote-tracking branch 'origin/production' into feat/ise-926",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/9ff77b56f6fa00bcda4180f76d9c357671fa9164",
           "author": null,
           "description": "add mlflow model\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/328\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!328\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50561\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"328\" data-container=\"body\" data-placement=\"top\" title=\"add mlflow model\" class=\"gfm gfm-merge_request\">!328</a>",
@@ -16,6 +46,16 @@
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/25df6dde67cfa6b6b5878adec757b3d197685e5e",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/25df6dde67cfa6b6b5878adec757b3d197685e5e",
+          "publishedOn": "2026-10-26T02:06:09.000Z",
+          "wordCount": 545,
+          "title": "Merge remote-tracking branch 'origin/production-v2' into feat/ise-926",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
           "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1f6f2e0ee75ce9c6eebebea5b8b1828c8c2999db",
           "author": null,
           "description": "remove notification template\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/327\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!327\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50409\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"327\" data-container=\"body\" data-placement=\"top\" title=\"remove notification template\" class=\"gfm gfm-merge_request\">!327</a>",
@@ -23,6 +63,16 @@
           "publishedOn": "2026-10-21T02:39:44.000Z",
           "wordCount": 545,
           "title": "Merge branch 'feat/ise-857' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6855d22fe56fd54da7c2b52c35e2c27bfcd1ecfb",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6855d22fe56fd54da7c2b52c35e2c27bfcd1ecfb",
+          "publishedOn": "2026-10-20T03:16:32.000Z",
+          "wordCount": 545,
+          "title": "resolve conflict v2",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         },
         {
