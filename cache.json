@@ -161,16 +161,6 @@
           "wordCount": 545,
           "title": "geo distance features",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac",
-          "publishedOn": "2026-10-09T03:58:33.000Z",
-          "wordCount": 545,
-          "title": "add OR for province and districts",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     }

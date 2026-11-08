@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2026-11-07T04:56:04.391Z</id>
+    <id>urn:2026-11-08T04:49:34.832Z</id>
     <title>osmos::feed</title>
-    <updated>2026-11-07T04:56:04.391Z</updated>
+    <updated>2026-11-08T04:49:34.832Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="index.html"/>
     <entry>
@@ -162,16 +162,6 @@ See merge request <a href="/search-engine/service-search-engine/-/merge_requests
         <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987</id>
         <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/3c1c4d83f8d9aa3ee2695d489adec7ef8e849987"/>
         <updated>2026-10-12T04:09:20.000Z</updated>
-        <summary type="html"><![CDATA[<div type="html"/>]]></summary>
-        <author>
-            <name>Service Search Engine:production commits</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[add OR for province and districts]]></title>
-        <id>https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac</id>
-        <link href="https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/8ea85281e1361f60ff0292ec1aaa6f380cf115ac"/>
-        <updated>2026-10-09T03:58:33.000Z</updated>
         <summary type="html"><![CDATA[<div type="html"/>]]></summary>
         <author>
             <name>Service Search Engine:production commits</name>
