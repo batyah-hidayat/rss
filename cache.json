@@ -114,26 +114,6 @@
           "wordCount": 545,
           "title": "Merge branch 'feat/ise-857' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6855d22fe56fd54da7c2b52c35e2c27bfcd1ecfb",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/6855d22fe56fd54da7c2b52c35e2c27bfcd1ecfb",
-          "publishedOn": "2026-10-20T03:16:32.000Z",
-          "wordCount": 545,
-          "title": "resolve conflict v2",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/534fbfab9b1ae660db2d7a8e4fdfbec9c77a6f42",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/534fbfab9b1ae660db2d7a8e4fdfbec9c77a6f42",
-          "publishedOn": "2026-10-20T02:50:55.000Z",
-          "wordCount": 545,
-          "title": "add mlflow model",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     },
@@ -141,7 +121,48 @@
       "title": "Service Search Engine:production commits",
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/599c149ace29c545f6f98f5d37ec10e54f43ed6e",
+          "author": null,
+          "description": "Feat/ise 939\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/320\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!320\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"50980\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"320\" data-container=\"body\" data-placement=\"top\" title=\"Feat/ise 939\" class=\"gfm gfm-merge_request\">!320</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/599c149ace29c545f6f98f5d37ec10e54f43ed6e",
+          "publishedOn": "2026-11-18T06:29:45.000Z",
+          "wordCount": 545,
+          "title": "Merge branch 'feat/ise-939' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4f3fe49d767fe1c8d07aa89543e2ee63dd6d31a2",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4f3fe49d767fe1c8d07aa89543e2ee63dd6d31a2",
+          "publishedOn": "2026-11-04T05:57:21.000Z",
+          "wordCount": 545,
+          "title": "set qc v2 predictior",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dc65e86baadb8fe2007dcd3d4decf66d6570ea23",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/dc65e86baadb8fe2007dcd3d4decf66d6570ea23",
+          "publishedOn": "2026-11-04T04:02:12.000Z",
+          "wordCount": 545,
+          "title": "fix counter for districts",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/615538d03ccd3df98b72315ed38d34494db855a0",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/615538d03ccd3df98b72315ed38d34494db855a0",
+          "publishedOn": "2026-11-04T02:53:57.000Z",
+          "wordCount": 545,
+          "title": "use new v2 model with geo factors",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
