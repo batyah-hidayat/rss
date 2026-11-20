@@ -104,16 +104,6 @@
           "wordCount": 545,
           "title": "Merge remote-tracking branch 'origin/production-v2' into feat/ise-926",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1f6f2e0ee75ce9c6eebebea5b8b1828c8c2999db",
-          "author": null,
-          "description": "remove notification template\n\nSee merge request <a href=\"/recommendation/service-recommendation/-/merge_requests/327\" data-reference-type=\"merge_request\" data-original=\"recommendation/service-recommendation!327\" data-link=\"false\" data-link-reference=\"false\" data-project=\"335\" data-merge-request=\"50409\" data-project-path=\"recommendation/service-recommendation\" data-iid=\"327\" data-container=\"body\" data-placement=\"top\" title=\"remove notification template\" class=\"gfm gfm-merge_request\">!327</a>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/1f6f2e0ee75ce9c6eebebea5b8b1828c8c2999db",
-          "publishedOn": "2026-10-21T02:39:44.000Z",
-          "wordCount": 545,
-          "title": "Merge branch 'feat/ise-857' into 'production'",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     },
@@ -122,6 +112,26 @@
       "feedUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production?feed_token=39VEyJsfpvstzySwqSyV&format=atom",
       "siteUrl": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commits/production",
       "articles": [
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb2d67f51434d23cd5a16cda8112e17dba126e6",
+          "author": null,
+          "description": "fix location districts count for v1\n\nSee merge request <a href=\"/search-engine/service-search-engine/-/merge_requests/322\" data-reference-type=\"merge_request\" data-original=\"search-engine/service-search-engine!322\" data-link=\"false\" data-link-reference=\"false\" data-project=\"313\" data-merge-request=\"51038\" data-project-path=\"search-engine/service-search-engine\" data-iid=\"322\" data-container=\"body\" data-placement=\"top\" title=\"fix location districts count for v1\" class=\"gfm gfm-merge_request\">!322</a>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/fdb2d67f51434d23cd5a16cda8112e17dba126e6",
+          "publishedOn": "2026-11-20T02:51:56.000Z",
+          "wordCount": 545,
+          "title": "Merge branch 'feat/ise-961' into 'production'",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
+        {
+          "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4ad777e14cdcc36012eee66214b3c4f24d79ea16",
+          "author": null,
+          "description": "<div type=\"html\"/>",
+          "link": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/4ad777e14cdcc36012eee66214b3c4f24d79ea16",
+          "publishedOn": "2026-11-18T10:13:22.000Z",
+          "wordCount": 545,
+          "title": "fix location districts count for v1",
+          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
+        },
         {
           "id": "https://gitlab.sieuviet.services/search-engine/service-search-engine/-/commit/599c149ace29c545f6f98f5d37ec10e54f43ed6e",
           "author": null,
