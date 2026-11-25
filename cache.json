@@ -94,16 +94,6 @@
           "wordCount": 545,
           "title": "Merge branch 'feat/ise-914' into 'production'",
           "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
-        },
-        {
-          "id": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/25df6dde67cfa6b6b5878adec757b3d197685e5e",
-          "author": null,
-          "description": "<div type=\"html\"/>",
-          "link": "https://gitlab.sieuviet.services/recommendation/service-recommendation/-/commit/25df6dde67cfa6b6b5878adec757b3d197685e5e",
-          "publishedOn": "2026-10-26T02:06:09.000Z",
-          "wordCount": 545,
-          "title": "Merge remote-tracking branch 'origin/production-v2' into feat/ise-926",
-          "imageUrl": "https://gitlab.sieuviet.services/assets/twitter_card-570ddb06edf56a2312253c5872489847a0f385112ddbcd71ccfa1570febab5d2.jpg"
         }
       ]
     },
